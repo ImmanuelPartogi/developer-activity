@@ -19,3 +19,4 @@
 - [2025-01-02 17:48:39] style(theme): refine sapphire and cyan accent palette
 - [2025-01-02 18:49:54] style(theme): refine sapphire and cyan accent palette
 - [2025-01-02 18:19:07] feat(analytics): add real-time category distribution parser
+- [2025-01-02 19:24:15] fix(navigation): optimize pushReplacement transition timing

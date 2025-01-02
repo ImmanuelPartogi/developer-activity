@@ -12,3 +12,4 @@
 - [2025-01-02 08:56:51] test(integration): verify cross-platform pipeline integrity
 - [2025-01-02 10:04:32] style(theme): refine sapphire and cyan accent palette
 - [2025-01-02 11:20:48] chore(deps): review upstream security patches & dependencies
+- [2025-01-02 11:16:39] refactor(clean): decouple service layer contracts

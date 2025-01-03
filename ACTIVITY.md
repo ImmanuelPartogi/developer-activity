@@ -31,3 +31,4 @@
 - [2025-01-03 13:46:36] style(design): polish tactile numpad elevation and haptics
 - [2025-01-03 13:17:41] chore(deps): review upstream security patches & dependencies
 - [2025-01-03 13:43:33] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-01-03 15:09:45] feat(auth): enhance biometric encryption handshake

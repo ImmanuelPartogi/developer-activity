@@ -36,3 +36,4 @@
 - [2025-01-03 17:19:06] feat(cache): implement two-tier memory and persistent cache
 - [2025-01-03 19:37:13] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-01-03 20:06:52] style(design): polish tactile numpad elevation and haptics
+- [2025-01-03 20:37:04] feat(sync): add offline outbox synchronization worker

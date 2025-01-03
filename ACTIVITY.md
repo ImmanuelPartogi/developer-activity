@@ -30,3 +30,4 @@
 - [2025-01-03 12:25:50] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-01-03 13:46:36] style(design): polish tactile numpad elevation and haptics
 - [2025-01-03 13:17:41] chore(deps): review upstream security patches & dependencies
+- [2025-01-03 13:43:33] refactor(ui): elevate glassmorphism tokens & dark elevation

@@ -35,3 +35,4 @@
 - [2025-01-03 16:47:14] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-01-03 17:19:06] feat(cache): implement two-tier memory and persistent cache
 - [2025-01-03 19:37:13] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-01-03 20:06:52] style(design): polish tactile numpad elevation and haptics

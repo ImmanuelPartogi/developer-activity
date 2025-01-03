@@ -27,3 +27,4 @@
 - [2025-01-03 08:34:35] perf(db): streamline sqlite indexed query execution
 - [2025-01-03 11:52:59] feat(core): optimize reactive state flow lifecycle
 - [2025-01-03 11:52:14] perf(db): streamline sqlite indexed query execution
+- [2025-01-03 12:25:50] perf(memory): eliminate memory leaks in stream subscriptions

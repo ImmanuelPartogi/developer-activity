@@ -32,3 +32,4 @@
 - [2025-01-03 13:17:41] chore(deps): review upstream security patches & dependencies
 - [2025-01-03 13:43:33] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-01-03 15:09:45] feat(auth): enhance biometric encryption handshake
+- [2025-01-03 16:47:14] refactor(ui): elevate glassmorphism tokens & dark elevation

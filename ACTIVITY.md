@@ -48,3 +48,4 @@
 - [2025-01-04 18:04:25] style(design): polish tactile numpad elevation and haptics
 - [2025-01-04 20:26:30] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-04 20:23:06] docs(arch): update repository architectural blueprint
+- [2025-01-04 21:18:42] feat(sync): add offline outbox synchronization worker

@@ -56,3 +56,4 @@
 - [2025-01-05 10:37:27] style(design): polish tactile numpad elevation and haptics
 - [2025-01-05 14:27:20] docs(arch): update repository architectural blueprint
 - [2025-01-05 16:15:43] docs(arch): update repository architectural blueprint
+- [2025-01-05 17:47:57] feat(sync): add offline outbox synchronization worker

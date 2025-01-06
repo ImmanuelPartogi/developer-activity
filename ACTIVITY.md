@@ -62,3 +62,4 @@
 - [2025-01-05 19:40:18] feat(core): optimize reactive state flow lifecycle
 - [2025-01-05 19:42:56] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-06 09:36:18] refactor(clean): decouple service layer contracts
+- [2025-01-06 10:15:04] docs(arch): update repository architectural blueprint

@@ -67,3 +67,4 @@
 - [2025-01-06 14:35:05] refactor(clean): decouple service layer contracts
 - [2025-01-06 18:52:20] feat(cache): implement two-tier memory and persistent cache
 - [2025-01-06 18:25:51] test(benchmark): execute flame chart micro-benchmarks
+- [2025-01-06 18:19:24] fix(navigation): optimize pushReplacement transition timing

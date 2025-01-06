@@ -65,3 +65,4 @@
 - [2025-01-06 10:15:04] docs(arch): update repository architectural blueprint
 - [2025-01-06 12:36:55] chore(deps): review upstream security patches & dependencies
 - [2025-01-06 14:35:05] refactor(clean): decouple service layer contracts
+- [2025-01-06 18:52:20] feat(cache): implement two-tier memory and persistent cache

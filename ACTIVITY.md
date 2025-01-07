@@ -81,3 +81,4 @@
 - [2025-01-07 14:30:19] test(integration): verify cross-platform pipeline integrity
 - [2025-01-07 15:57:19] feat(cache): implement two-tier memory and persistent cache
 - [2025-01-07 18:06:41] perf(db): streamline sqlite indexed query execution
+- [2025-01-07 18:34:57] fix(navigation): optimize pushReplacement transition timing

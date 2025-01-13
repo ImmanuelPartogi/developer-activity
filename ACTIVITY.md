@@ -145,3 +145,4 @@
 - [2025-01-13 12:43:11] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-01-13 13:09:43] feat(telemetry): record daily performance metrics
 - [2025-01-13 16:52:04] test(integration): verify cross-platform pipeline integrity
+- [2025-01-13 17:44:55] fix(nullsafety): resolve edge-case nullable dereference

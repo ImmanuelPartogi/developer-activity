@@ -160,3 +160,4 @@
 - [2025-01-14 12:19:40] fix(layout): adjust squircle corner radii and padding
 - [2025-01-14 15:36:26] style(design): polish tactile numpad elevation and haptics
 - [2025-01-14 15:14:06] refactor(domain): isolate business logic from presentation layer
+- [2025-01-14 18:08:26] fix(navigation): optimize pushReplacement transition timing

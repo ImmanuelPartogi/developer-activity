@@ -158,3 +158,4 @@
 - [2025-01-14 11:44:59] fix(layout): adjust squircle corner radii and padding
 - [2025-01-14 12:56:41] feat(sync): add offline outbox synchronization worker
 - [2025-01-14 12:19:40] fix(layout): adjust squircle corner radii and padding
+- [2025-01-14 15:36:26] style(design): polish tactile numpad elevation and haptics

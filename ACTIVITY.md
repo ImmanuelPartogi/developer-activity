@@ -171,3 +171,4 @@
 - [2025-01-15 15:35:06] feat(core): optimize reactive state flow lifecycle
 - [2025-01-15 18:15:27] feat(sync): add offline outbox synchronization worker
 - [2025-01-15 18:13:23] perf(db): streamline sqlite indexed query execution
+- [2025-01-15 19:40:25] feat(cache): implement two-tier memory and persistent cache

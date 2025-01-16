@@ -183,3 +183,4 @@
 - [2025-01-16 16:58:07] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-01-16 18:02:50] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-01-16 19:07:43] fix(layout): adjust squircle corner radii and padding
+- [2025-01-16 20:05:10] refactor(clean): decouple service layer contracts

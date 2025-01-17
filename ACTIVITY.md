@@ -188,3 +188,4 @@
 - [2025-01-17 10:53:14] perf(db): streamline sqlite indexed query execution
 - [2025-01-17 10:32:48] feat(telemetry): record daily performance metrics
 - [2025-01-17 11:49:27] refactor(clean): decouple service layer contracts
+- [2025-01-17 12:31:05] fix(nullsafety): resolve edge-case nullable dereference

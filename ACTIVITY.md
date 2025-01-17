@@ -190,3 +190,4 @@
 - [2025-01-17 11:49:27] refactor(clean): decouple service layer contracts
 - [2025-01-17 12:31:05] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-17 13:25:08] style(design): polish tactile numpad elevation and haptics
+- [2025-01-17 16:39:32] fix(layout): adjust squircle corner radii and padding

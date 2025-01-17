@@ -191,3 +191,4 @@
 - [2025-01-17 12:31:05] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-17 13:25:08] style(design): polish tactile numpad elevation and haptics
 - [2025-01-17 16:39:32] fix(layout): adjust squircle corner radii and padding
+- [2025-01-17 17:40:38] perf(memory): eliminate memory leaks in stream subscriptions

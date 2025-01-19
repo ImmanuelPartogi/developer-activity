@@ -213,3 +213,4 @@
 - [2025-01-19 11:02:05] style(theme): refine sapphire and cyan accent palette
 - [2025-01-19 12:47:10] feat(auth): enhance biometric encryption handshake
 - [2025-01-19 15:58:28] refactor(domain): isolate business logic from presentation layer
+- [2025-01-19 15:10:10] feat(sync): add offline outbox synchronization worker

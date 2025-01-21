@@ -235,3 +235,4 @@
 - [2025-01-21 11:42:26] test(unit): add behavioral test assertions for domain logic
 - [2025-01-21 13:44:55] fix(navigation): optimize pushReplacement transition timing
 - [2025-01-21 14:03:24] refactor(clean): decouple service layer contracts
+- [2025-01-21 14:07:49] perf(memory): eliminate memory leaks in stream subscriptions

@@ -237,3 +237,4 @@
 - [2025-01-21 14:03:24] refactor(clean): decouple service layer contracts
 - [2025-01-21 14:07:49] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-01-21 16:13:50] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-01-21 17:16:56] refactor(clean): decouple service layer contracts

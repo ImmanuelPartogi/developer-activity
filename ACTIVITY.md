@@ -233,3 +233,4 @@
 - [2025-01-21 08:23:43] feat(core): optimize reactive state flow lifecycle
 - [2025-01-21 11:34:58] test(integration): verify cross-platform pipeline integrity
 - [2025-01-21 11:42:26] test(unit): add behavioral test assertions for domain logic
+- [2025-01-21 13:44:55] fix(navigation): optimize pushReplacement transition timing

@@ -249,3 +249,4 @@
 - [2025-01-22 17:17:46] perf(db): streamline sqlite indexed query execution
 - [2025-01-22 17:36:51] fix(layout): adjust squircle corner radii and padding
 - [2025-01-22 17:18:14] feat(core): optimize reactive state flow lifecycle
+- [2025-01-22 20:22:43] feat(sync): add offline outbox synchronization worker

@@ -273,3 +273,4 @@
 - [2025-01-24 19:19:51] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-24 19:56:18] feat(telemetry): record daily performance metrics
 - [2025-01-24 20:31:02] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-01-24 20:34:14] perf(memory): eliminate memory leaks in stream subscriptions

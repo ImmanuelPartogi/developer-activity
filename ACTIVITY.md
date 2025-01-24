@@ -267,3 +267,4 @@
 - [2025-01-24 08:34:08] refactor(domain): isolate business logic from presentation layer
 - [2025-01-24 08:54:59] refactor(clean): decouple service layer contracts
 - [2025-01-24 12:37:05] feat(core): optimize reactive state flow lifecycle
+- [2025-01-24 12:57:16] fix(navigation): optimize pushReplacement transition timing

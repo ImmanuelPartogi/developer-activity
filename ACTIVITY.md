@@ -275,3 +275,4 @@
 - [2025-01-24 20:31:02] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-01-24 20:34:14] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-01-24 21:26:37] fix(navigation): optimize pushReplacement transition timing
+- [2025-01-25 09:31:05] feat(auth): enhance biometric encryption handshake

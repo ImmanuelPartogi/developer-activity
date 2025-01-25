@@ -280,3 +280,4 @@
 - [2025-01-25 11:32:30] chore(deps): review upstream security patches & dependencies
 - [2025-01-25 15:33:41] feat(auth): enhance biometric encryption handshake
 - [2025-01-25 15:41:35] feat(cache): implement two-tier memory and persistent cache
+- [2025-01-25 15:30:59] fix(navigation): optimize pushReplacement transition timing

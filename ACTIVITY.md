@@ -284,3 +284,4 @@
 - [2025-01-25 16:04:16] feat(sync): add offline outbox synchronization worker
 - [2025-01-25 21:48:49] refactor(clean): decouple service layer contracts
 - [2025-01-26 08:38:16] feat(cache): implement two-tier memory and persistent cache
+- [2025-01-26 12:51:05] refactor(domain): isolate business logic from presentation layer

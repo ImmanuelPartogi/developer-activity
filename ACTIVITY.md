@@ -300,3 +300,4 @@
 - [2025-01-27 18:57:13] chore(deps): review upstream security patches & dependencies
 - [2025-01-27 18:30:04] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-27 19:35:03] feat(sync): add offline outbox synchronization worker
+- [2025-01-27 20:40:00] perf(memory): eliminate memory leaks in stream subscriptions

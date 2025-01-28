@@ -306,3 +306,4 @@
 - [2025-01-28 09:47:20] feat(core): optimize reactive state flow lifecycle
 - [2025-01-28 09:49:48] feat(auth): enhance biometric encryption handshake
 - [2025-01-28 10:18:58] style(design): polish tactile numpad elevation and haptics
+- [2025-01-28 11:15:51] perf(memory): eliminate memory leaks in stream subscriptions

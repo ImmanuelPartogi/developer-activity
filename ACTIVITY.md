@@ -304,3 +304,4 @@
 - [2025-01-27 21:53:43] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-01-28 08:58:45] chore(deps): review upstream security patches & dependencies
 - [2025-01-28 09:47:20] feat(core): optimize reactive state flow lifecycle
+- [2025-01-28 09:49:48] feat(auth): enhance biometric encryption handshake

@@ -313,3 +313,4 @@
 - [2025-01-28 20:36:09] docs(telemetry): log continuous development activity
 - [2025-01-28 20:31:26] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-28 21:22:16] feat(sync): add offline outbox synchronization worker
+- [2025-01-29 08:41:05] refactor(clean): decouple service layer contracts

@@ -314,3 +314,4 @@
 - [2025-01-28 20:31:26] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-01-28 21:22:16] feat(sync): add offline outbox synchronization worker
 - [2025-01-29 08:41:05] refactor(clean): decouple service layer contracts
+- [2025-01-29 08:56:02] feat(core): optimize reactive state flow lifecycle

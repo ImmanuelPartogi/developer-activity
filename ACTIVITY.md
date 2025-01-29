@@ -316,3 +316,4 @@
 - [2025-01-29 08:41:05] refactor(clean): decouple service layer contracts
 - [2025-01-29 08:56:02] feat(core): optimize reactive state flow lifecycle
 - [2025-01-29 09:56:53] fix(layout): adjust squircle corner radii and padding
+- [2025-01-29 11:16:52] docs(arch): update repository architectural blueprint

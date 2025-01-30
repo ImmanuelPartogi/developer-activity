@@ -324,3 +324,4 @@
 - [2025-01-29 18:26:50] perf(db): streamline sqlite indexed query execution
 - [2025-01-29 19:54:14] feat(cache): implement two-tier memory and persistent cache
 - [2025-01-29 20:42:55] feat(cache): implement two-tier memory and persistent cache
+- [2025-01-30 08:46:27] fix(layout): adjust squircle corner radii and padding

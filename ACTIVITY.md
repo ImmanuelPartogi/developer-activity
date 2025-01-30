@@ -332,3 +332,4 @@
 - [2025-01-30 17:41:24] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-01-30 17:43:04] feat(core): optimize reactive state flow lifecycle
 - [2025-01-30 19:32:01] test(benchmark): execute flame chart micro-benchmarks
+- [2025-01-30 20:20:49] fix(navigation): optimize pushReplacement transition timing

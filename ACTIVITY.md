@@ -338,3 +338,4 @@
 - [2025-01-31 08:55:01] feat(cache): implement two-tier memory and persistent cache
 - [2025-01-31 09:53:51] perf(db): streamline sqlite indexed query execution
 - [2025-01-31 09:13:30] feat(analytics): add real-time category distribution parser
+- [2025-01-31 12:04:21] fix(navigation): optimize pushReplacement transition timing

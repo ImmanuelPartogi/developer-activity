@@ -344,3 +344,4 @@
 - [2025-01-31 16:29:44] feat(core): optimize reactive state flow lifecycle
 - [2025-01-31 16:58:27] chore(deps): review upstream security patches & dependencies
 - [2025-01-31 16:01:53] chore(deps): review upstream security patches & dependencies
+- [2025-01-31 19:58:45] refactor(clean): decouple service layer contracts

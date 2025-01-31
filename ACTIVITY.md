@@ -341,3 +341,4 @@
 - [2025-01-31 12:04:21] fix(navigation): optimize pushReplacement transition timing
 - [2025-01-31 12:44:39] chore(deps): review upstream security patches & dependencies
 - [2025-01-31 15:35:52] chore(deps): review upstream security patches & dependencies
+- [2025-01-31 16:29:44] feat(core): optimize reactive state flow lifecycle

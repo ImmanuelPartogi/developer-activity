@@ -358,3 +358,4 @@
 - [2025-02-02 14:19:31] feat(analytics): add real-time category distribution parser
 - [2025-02-02 16:45:18] test(benchmark): execute flame chart micro-benchmarks
 - [2025-02-02 18:49:30] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-02-02 20:12:11] perf(memory): eliminate memory leaks in stream subscriptions

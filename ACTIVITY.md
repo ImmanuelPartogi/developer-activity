@@ -362,3 +362,4 @@
 - [2025-02-02 21:09:50] style(theme): refine sapphire and cyan accent palette
 - [2025-02-03 08:04:47] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-02-03 09:42:01] docs(arch): update repository architectural blueprint
+- [2025-02-03 09:47:45] fix(nullsafety): resolve edge-case nullable dereference

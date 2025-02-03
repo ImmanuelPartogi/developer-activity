@@ -371,3 +371,4 @@
 - [2025-02-03 15:32:41] feat(sync): add offline outbox synchronization worker
 - [2025-02-03 16:19:41] style(theme): refine sapphire and cyan accent palette
 - [2025-02-03 17:04:10] style(theme): refine sapphire and cyan accent palette
+- [2025-02-03 18:53:50] perf(render): minimize widget rebuild tree overhead

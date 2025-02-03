@@ -368,3 +368,4 @@
 - [2025-02-03 13:27:20] refactor(domain): isolate business logic from presentation layer
 - [2025-02-03 14:48:17] perf(db): streamline sqlite indexed query execution
 - [2025-02-03 15:03:53] chore(deps): review upstream security patches & dependencies
+- [2025-02-03 15:32:41] feat(sync): add offline outbox synchronization worker

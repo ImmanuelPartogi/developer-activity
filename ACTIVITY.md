@@ -364,3 +364,4 @@
 - [2025-02-03 09:42:01] docs(arch): update repository architectural blueprint
 - [2025-02-03 09:47:45] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-02-03 11:11:59] chore(deps): review upstream security patches & dependencies
+- [2025-02-03 12:30:43] feat(core): optimize reactive state flow lifecycle

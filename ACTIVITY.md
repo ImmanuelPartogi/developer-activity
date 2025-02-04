@@ -379,3 +379,4 @@
 - [2025-02-04 13:59:01] feat(analytics): add real-time category distribution parser
 - [2025-02-04 13:18:10] fix(navigation): optimize pushReplacement transition timing
 - [2025-02-04 14:07:08] fix(layout): adjust squircle corner radii and padding
+- [2025-02-04 18:48:20] refactor(clean): decouple service layer contracts

@@ -393,3 +393,4 @@
 - [2025-02-05 14:57:34] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-02-05 15:00:51] feat(telemetry): record daily performance metrics
 - [2025-02-05 16:28:17] feat(cache): implement two-tier memory and persistent cache
+- [2025-02-05 17:19:35] fix(navigation): optimize pushReplacement transition timing

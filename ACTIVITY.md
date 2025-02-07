@@ -414,3 +414,4 @@
 - [2025-02-07 16:43:22] feat(auth): enhance biometric encryption handshake
 - [2025-02-07 18:34:22] feat(core): optimize reactive state flow lifecycle
 - [2025-02-07 19:35:50] feat(auth): enhance biometric encryption handshake
+- [2025-02-07 19:27:11] refactor(clean): decouple service layer contracts

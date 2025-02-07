@@ -411,3 +411,4 @@
 - [2025-02-07 15:10:26] feat(telemetry): record daily performance metrics
 - [2025-02-07 15:06:53] feat(telemetry): record daily performance metrics
 - [2025-02-07 15:55:05] feat(sync): add offline outbox synchronization worker
+- [2025-02-07 16:43:22] feat(auth): enhance biometric encryption handshake

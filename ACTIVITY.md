@@ -417,3 +417,4 @@
 - [2025-02-07 19:27:11] refactor(clean): decouple service layer contracts
 - [2025-02-08 09:36:19] feat(cache): implement two-tier memory and persistent cache
 - [2025-02-08 09:50:48] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-02-08 09:49:48] refactor(domain): isolate business logic from presentation layer

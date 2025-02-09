@@ -426,3 +426,4 @@
 - [2025-02-08 19:24:53] feat(analytics): add real-time category distribution parser
 - [2025-02-08 20:44:42] perf(render): minimize widget rebuild tree overhead
 - [2025-02-08 21:11:17] feat(telemetry): record daily performance metrics
+- [2025-02-09 09:33:57] fix(navigation): optimize pushReplacement transition timing

@@ -444,3 +444,4 @@
 - [2025-02-10 15:12:51] feat(sync): add offline outbox synchronization worker
 - [2025-02-10 16:30:50] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-02-10 16:02:32] refactor(clean): decouple service layer contracts
+- [2025-02-10 16:58:20] fix(navigation): optimize pushReplacement transition timing

@@ -443,3 +443,4 @@
 - [2025-02-10 13:08:57] style(theme): refine sapphire and cyan accent palette
 - [2025-02-10 15:12:51] feat(sync): add offline outbox synchronization worker
 - [2025-02-10 16:30:50] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-02-10 16:02:32] refactor(clean): decouple service layer contracts

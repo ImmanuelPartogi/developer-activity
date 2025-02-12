@@ -471,3 +471,4 @@
 - [2025-02-12 13:45:06] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-02-12 16:07:27] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-02-12 17:15:33] refactor(clean): decouple service layer contracts
+- [2025-02-12 17:36:25] style(design): polish tactile numpad elevation and haptics

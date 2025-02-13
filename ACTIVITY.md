@@ -476,3 +476,4 @@
 - [2025-02-12 20:50:53] feat(cache): implement two-tier memory and persistent cache
 - [2025-02-12 20:08:31] docs(arch): update repository architectural blueprint
 - [2025-02-13 08:26:30] docs(arch): update repository architectural blueprint
+- [2025-02-13 10:32:04] fix(navigation): optimize pushReplacement transition timing

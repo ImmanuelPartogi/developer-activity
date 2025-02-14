@@ -495,3 +495,4 @@
 - [2025-02-14 17:55:10] refactor(domain): isolate business logic from presentation layer
 - [2025-02-14 17:59:55] feat(analytics): add real-time category distribution parser
 - [2025-02-14 17:26:25] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-02-14 18:43:24] perf(memory): eliminate memory leaks in stream subscriptions

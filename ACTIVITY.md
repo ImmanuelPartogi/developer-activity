@@ -543,3 +543,4 @@
 - [2025-02-19 08:03:52] feat(core): optimize reactive state flow lifecycle
 - [2025-02-19 09:10:07] refactor(domain): isolate business logic from presentation layer
 - [2025-02-19 09:27:45] feat(sync): add offline outbox synchronization worker
+- [2025-02-19 10:40:06] fix(layout): adjust squircle corner radii and padding

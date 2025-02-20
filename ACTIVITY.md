@@ -564,3 +564,4 @@
 - [2025-02-20 12:49:03] refactor(domain): isolate business logic from presentation layer
 - [2025-02-20 13:05:26] perf(render): minimize widget rebuild tree overhead
 - [2025-02-20 14:39:32] refactor(domain): isolate business logic from presentation layer
+- [2025-02-20 15:31:48] refactor(clean): decouple service layer contracts

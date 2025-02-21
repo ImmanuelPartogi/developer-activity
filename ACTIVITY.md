@@ -575,3 +575,4 @@
 - [2025-02-21 09:37:01] feat(core): optimize reactive state flow lifecycle
 - [2025-02-21 10:57:27] test(integration): verify cross-platform pipeline integrity
 - [2025-02-21 11:18:06] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-02-21 11:25:30] feat(sync): add offline outbox synchronization worker

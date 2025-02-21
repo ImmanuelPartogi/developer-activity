@@ -571,3 +571,4 @@
 - [2025-02-20 19:30:25] feat(auth): enhance biometric encryption handshake
 - [2025-02-20 19:54:10] perf(db): streamline sqlite indexed query execution
 - [2025-02-20 20:35:36] fix(layout): adjust squircle corner radii and padding
+- [2025-02-21 09:25:07] refactor(domain): isolate business logic from presentation layer

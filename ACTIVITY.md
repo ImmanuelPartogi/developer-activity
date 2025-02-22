@@ -581,3 +581,4 @@
 - [2025-02-21 18:44:20] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-02-21 20:18:30] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-02-22 11:00:23] feat(sync): add offline outbox synchronization worker
+- [2025-02-22 14:48:24] fix(nullsafety): resolve edge-case nullable dereference

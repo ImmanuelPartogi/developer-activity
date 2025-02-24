@@ -601,3 +601,4 @@
 - [2025-02-24 09:41:50] feat(core): optimize reactive state flow lifecycle
 - [2025-02-24 10:44:23] perf(db): streamline sqlite indexed query execution
 - [2025-02-24 12:51:07] feat(auth): enhance biometric encryption handshake
+- [2025-02-24 12:17:58] feat(sync): add offline outbox synchronization worker

@@ -622,3 +622,4 @@
 - [2025-02-25 18:35:41] perf(render): minimize widget rebuild tree overhead
 - [2025-02-25 18:31:10] style(theme): refine sapphire and cyan accent palette
 - [2025-02-25 18:27:17] fix(layout): adjust squircle corner radii and padding
+- [2025-02-25 19:53:05] feat(sync): add offline outbox synchronization worker

@@ -650,3 +650,4 @@
 - [2025-02-27 18:57:09] feat(auth): enhance biometric encryption handshake
 - [2025-02-27 19:22:10] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-02-27 19:44:07] docs(arch): update repository architectural blueprint
+- [2025-02-27 20:25:22] perf(memory): eliminate memory leaks in stream subscriptions

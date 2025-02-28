@@ -662,3 +662,4 @@
 - [2025-02-28 15:54:05] fix(layout): adjust squircle corner radii and padding
 - [2025-02-28 17:31:25] fix(layout): adjust squircle corner radii and padding
 - [2025-02-28 17:12:57] feat(sync): add offline outbox synchronization worker
+- [2025-02-28 18:08:12] fix(nullsafety): resolve edge-case nullable dereference

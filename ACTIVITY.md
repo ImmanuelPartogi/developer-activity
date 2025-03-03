@@ -693,3 +693,4 @@
 - [2025-03-03 18:08:48] chore(deps): review upstream security patches & dependencies
 - [2025-03-03 19:31:22] style(design): polish tactile numpad elevation and haptics
 - [2025-03-03 20:28:22] perf(render): minimize widget rebuild tree overhead
+- [2025-03-03 21:18:21] refactor(clean): decouple service layer contracts

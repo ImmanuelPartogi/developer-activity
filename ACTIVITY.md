@@ -685,3 +685,4 @@
 - [2025-03-03 09:29:19] chore(deps): review upstream security patches & dependencies
 - [2025-03-03 09:25:51] feat(telemetry): record daily performance metrics
 - [2025-03-03 12:34:57] chore(deps): review upstream security patches & dependencies
+- [2025-03-03 13:48:27] perf(render): minimize widget rebuild tree overhead

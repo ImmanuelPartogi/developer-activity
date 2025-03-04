@@ -696,3 +696,4 @@
 - [2025-03-03 21:18:21] refactor(clean): decouple service layer contracts
 - [2025-03-04 10:37:24] feat(analytics): add real-time category distribution parser
 - [2025-03-04 11:59:37] feat(analytics): add real-time category distribution parser
+- [2025-03-04 11:55:25] fix(nullsafety): resolve edge-case nullable dereference

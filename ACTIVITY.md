@@ -718,3 +718,4 @@
 - [2025-03-05 18:05:55] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-03-05 20:33:18] docs(arch): update repository architectural blueprint
 - [2025-03-06 08:36:31] test(unit): add behavioral test assertions for domain logic
+- [2025-03-06 10:27:02] refactor(clean): decouple service layer contracts

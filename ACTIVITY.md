@@ -728,3 +728,4 @@
 - [2025-03-06 14:46:54] docs(telemetry): log continuous development activity
 - [2025-03-06 14:34:41] style(design): polish tactile numpad elevation and haptics
 - [2025-03-06 17:39:43] chore(deps): review upstream security patches & dependencies
+- [2025-03-06 19:12:59] fix(layout): adjust squircle corner radii and padding

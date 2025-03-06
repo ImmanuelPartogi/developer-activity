@@ -721,3 +721,4 @@
 - [2025-03-06 10:27:02] refactor(clean): decouple service layer contracts
 - [2025-03-06 10:29:53] feat(cache): implement two-tier memory and persistent cache
 - [2025-03-06 10:50:16] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-03-06 11:02:06] fix(layout): adjust squircle corner radii and padding

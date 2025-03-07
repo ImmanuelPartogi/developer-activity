@@ -742,3 +742,4 @@
 - [2025-03-07 15:37:41] refactor(domain): isolate business logic from presentation layer
 - [2025-03-07 15:54:25] fix(layout): adjust squircle corner radii and padding
 - [2025-03-07 19:19:07] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-03-07 20:44:08] refactor(ui): elevate glassmorphism tokens & dark elevation

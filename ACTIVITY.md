@@ -736,3 +736,4 @@
 - [2025-03-07 09:33:23] style(design): polish tactile numpad elevation and haptics
 - [2025-03-07 10:10:05] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-03-07 10:10:00] refactor(domain): isolate business logic from presentation layer
+- [2025-03-07 11:20:54] feat(core): optimize reactive state flow lifecycle

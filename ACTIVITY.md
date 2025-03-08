@@ -747,3 +747,4 @@
 - [2025-03-08 09:46:59] fix(layout): adjust squircle corner radii and padding
 - [2025-03-08 09:18:43] refactor(clean): decouple service layer contracts
 - [2025-03-08 10:13:51] feat(sync): add offline outbox synchronization worker
+- [2025-03-08 11:45:57] docs(arch): update repository architectural blueprint

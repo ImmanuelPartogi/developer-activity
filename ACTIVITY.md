@@ -744,3 +744,4 @@
 - [2025-03-07 19:19:07] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-03-07 20:44:08] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-03-07 21:08:52] feat(analytics): add real-time category distribution parser
+- [2025-03-08 09:46:59] fix(layout): adjust squircle corner radii and padding

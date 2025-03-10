@@ -768,3 +768,4 @@
 - [2025-03-10 16:32:55] style(design): polish tactile numpad elevation and haptics
 - [2025-03-10 16:15:22] test(integration): verify cross-platform pipeline integrity
 - [2025-03-10 19:40:31] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-03-10 20:12:28] refactor(domain): isolate business logic from presentation layer

@@ -760,3 +760,4 @@
 - [2025-03-09 16:17:50] fix(layout): adjust squircle corner radii and padding
 - [2025-03-09 18:55:25] perf(render): minimize widget rebuild tree overhead
 - [2025-03-09 20:16:40] chore(deps): review upstream security patches & dependencies
+- [2025-03-10 09:25:21] feat(cache): implement two-tier memory and persistent cache

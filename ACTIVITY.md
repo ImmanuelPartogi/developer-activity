@@ -767,3 +767,4 @@
 - [2025-03-10 14:27:48] perf(render): minimize widget rebuild tree overhead
 - [2025-03-10 16:32:55] style(design): polish tactile numpad elevation and haptics
 - [2025-03-10 16:15:22] test(integration): verify cross-platform pipeline integrity
+- [2025-03-10 19:40:31] fix(nullsafety): resolve edge-case nullable dereference

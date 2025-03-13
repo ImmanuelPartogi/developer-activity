@@ -805,3 +805,4 @@
 - [2025-03-13 15:07:22] chore(deps): review upstream security patches & dependencies
 - [2025-03-13 16:08:44] style(theme): refine sapphire and cyan accent palette
 - [2025-03-13 16:27:05] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-03-13 17:42:28] feat(auth): enhance biometric encryption handshake

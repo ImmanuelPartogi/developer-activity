@@ -836,3 +836,4 @@
 - [2025-03-16 09:36:07] chore(deps): review upstream security patches & dependencies
 - [2025-03-16 12:44:26] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-03-16 12:50:03] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-03-16 16:49:36] fix(nullsafety): resolve edge-case nullable dereference

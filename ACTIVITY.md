@@ -834,3 +834,4 @@
 - [2025-03-16 08:31:38] feat(telemetry): record daily performance metrics
 - [2025-03-16 08:32:02] style(theme): refine sapphire and cyan accent palette
 - [2025-03-16 09:36:07] chore(deps): review upstream security patches & dependencies
+- [2025-03-16 12:44:26] refactor(ui): elevate glassmorphism tokens & dark elevation

@@ -846,3 +846,4 @@
 - [2025-03-17 14:48:51] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-03-17 14:35:17] feat(sync): add offline outbox synchronization worker
 - [2025-03-17 14:23:31] test(benchmark): execute flame chart micro-benchmarks
+- [2025-03-17 14:15:39] fix(navigation): optimize pushReplacement transition timing

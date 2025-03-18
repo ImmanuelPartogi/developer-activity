@@ -858,3 +858,4 @@
 - [2025-03-18 08:45:20] docs(arch): update repository architectural blueprint
 - [2025-03-18 08:14:37] feat(sync): add offline outbox synchronization worker
 - [2025-03-18 12:27:40] feat(sync): add offline outbox synchronization worker
+- [2025-03-18 13:05:37] refactor(domain): isolate business logic from presentation layer

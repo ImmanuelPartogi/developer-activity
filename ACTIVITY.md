@@ -855,3 +855,4 @@
 - [2025-03-17 20:20:36] refactor(clean): decouple service layer contracts
 - [2025-03-17 21:59:00] chore(deps): review upstream security patches & dependencies
 - [2025-03-18 08:36:33] feat(analytics): add real-time category distribution parser
+- [2025-03-18 08:45:20] docs(arch): update repository architectural blueprint

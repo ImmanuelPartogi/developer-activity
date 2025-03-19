@@ -871,3 +871,4 @@
 - [2025-03-19 08:39:53] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-03-19 08:12:15] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-03-19 09:58:17] style(theme): refine sapphire and cyan accent palette
+- [2025-03-19 10:55:33] refactor(domain): isolate business logic from presentation layer

@@ -868,3 +868,4 @@
 - [2025-03-18 19:21:27] style(design): polish tactile numpad elevation and haptics
 - [2025-03-19 08:11:48] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-03-19 08:38:37] style(theme): refine sapphire and cyan accent palette
+- [2025-03-19 08:39:53] fix(nullsafety): resolve edge-case nullable dereference

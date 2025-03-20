@@ -883,3 +883,4 @@
 - [2025-03-20 08:01:27] style(theme): refine sapphire and cyan accent palette
 - [2025-03-20 08:34:51] refactor(clean): decouple service layer contracts
 - [2025-03-20 09:22:02] style(design): polish tactile numpad elevation and haptics
+- [2025-03-20 09:50:23] perf(db): streamline sqlite indexed query execution

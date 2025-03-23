@@ -915,3 +915,4 @@
 - [2025-03-23 18:41:06] style(design): polish tactile numpad elevation and haptics
 - [2025-03-23 19:15:46] feat(core): optimize reactive state flow lifecycle
 - [2025-03-23 20:50:29] style(theme): refine sapphire and cyan accent palette
+- [2025-03-23 20:06:32] fix(nullsafety): resolve edge-case nullable dereference

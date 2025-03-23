@@ -916,3 +916,4 @@
 - [2025-03-23 19:15:46] feat(core): optimize reactive state flow lifecycle
 - [2025-03-23 20:50:29] style(theme): refine sapphire and cyan accent palette
 - [2025-03-23 20:06:32] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-03-23 21:06:27] docs(arch): update repository architectural blueprint

@@ -934,3 +934,4 @@
 - [2025-03-25 11:39:11] style(design): polish tactile numpad elevation and haptics
 - [2025-03-25 11:31:42] feat(core): optimize reactive state flow lifecycle
 - [2025-03-25 14:51:58] feat(auth): enhance biometric encryption handshake
+- [2025-03-25 16:46:32] refactor(clean): decouple service layer contracts

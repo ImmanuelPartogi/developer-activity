@@ -937,3 +937,4 @@
 - [2025-03-25 16:46:32] refactor(clean): decouple service layer contracts
 - [2025-03-25 16:50:19] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-03-25 20:01:14] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-03-25 20:05:43] perf(memory): eliminate memory leaks in stream subscriptions

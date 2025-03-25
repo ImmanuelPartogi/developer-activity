@@ -932,3 +932,4 @@
 - [2025-03-25 08:06:09] feat(core): optimize reactive state flow lifecycle
 - [2025-03-25 10:24:48] style(design): polish tactile numpad elevation and haptics
 - [2025-03-25 11:39:11] style(design): polish tactile numpad elevation and haptics
+- [2025-03-25 11:31:42] feat(core): optimize reactive state flow lifecycle

@@ -939,3 +939,4 @@
 - [2025-03-25 20:01:14] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-03-25 20:05:43] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-03-25 20:21:55] feat(cache): implement two-tier memory and persistent cache
+- [2025-03-26 08:51:13] feat(sync): add offline outbox synchronization worker

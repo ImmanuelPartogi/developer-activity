@@ -950,3 +950,4 @@
 - [2025-03-26 15:23:51] perf(render): minimize widget rebuild tree overhead
 - [2025-03-26 18:37:19] test(unit): add behavioral test assertions for domain logic
 - [2025-03-26 19:38:20] perf(db): streamline sqlite indexed query execution
+- [2025-03-26 19:34:29] perf(memory): eliminate memory leaks in stream subscriptions

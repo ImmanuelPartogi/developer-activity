@@ -965,3 +965,4 @@
 - [2025-03-27 17:20:24] feat(sync): add offline outbox synchronization worker
 - [2025-03-27 18:20:34] perf(render): minimize widget rebuild tree overhead
 - [2025-03-27 19:00:16] chore(deps): review upstream security patches & dependencies
+- [2025-03-27 19:27:24] fix(navigation): optimize pushReplacement transition timing

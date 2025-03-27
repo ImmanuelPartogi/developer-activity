@@ -958,3 +958,4 @@
 - [2025-03-27 08:11:07] fix(layout): adjust squircle corner radii and padding
 - [2025-03-27 11:50:22] test(benchmark): execute flame chart micro-benchmarks
 - [2025-03-27 12:26:34] feat(core): optimize reactive state flow lifecycle
+- [2025-03-27 12:16:00] feat(sync): add offline outbox synchronization worker

@@ -973,3 +973,4 @@
 - [2025-03-28 10:09:11] fix(navigation): optimize pushReplacement transition timing
 - [2025-03-28 12:42:55] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-03-28 13:00:10] style(design): polish tactile numpad elevation and haptics
+- [2025-03-28 16:20:27] refactor(clean): decouple service layer contracts

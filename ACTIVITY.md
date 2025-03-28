@@ -976,3 +976,4 @@
 - [2025-03-28 16:20:27] refactor(clean): decouple service layer contracts
 - [2025-03-28 17:55:19] feat(cache): implement two-tier memory and persistent cache
 - [2025-03-28 18:54:04] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-03-28 18:41:23] feat(auth): enhance biometric encryption handshake

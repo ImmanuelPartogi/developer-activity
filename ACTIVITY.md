@@ -999,3 +999,4 @@
 - [2025-03-31 08:31:52] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-03-31 08:15:48] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-03-31 10:30:58] feat(cache): implement two-tier memory and persistent cache
+- [2025-03-31 14:00:47] fix(navigation): optimize pushReplacement transition timing

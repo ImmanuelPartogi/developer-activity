@@ -996,3 +996,4 @@
 - [2025-03-30 20:00:14] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-03-31 08:11:15] docs(arch): update repository architectural blueprint
 - [2025-03-31 08:58:19] feat(telemetry): record daily performance metrics
+- [2025-03-31 08:31:52] perf(memory): eliminate memory leaks in stream subscriptions

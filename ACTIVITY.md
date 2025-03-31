@@ -1002,3 +1002,4 @@
 - [2025-03-31 14:00:47] fix(navigation): optimize pushReplacement transition timing
 - [2025-03-31 20:50:46] style(design): polish tactile numpad elevation and haptics
 - [2025-03-31 20:26:40] docs(arch): update repository architectural blueprint
+- [2025-03-31 20:55:42] fix(layout): adjust squircle corner radii and padding

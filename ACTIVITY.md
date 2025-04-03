@@ -1035,3 +1035,4 @@
 - [2025-04-03 14:01:27] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-04-03 17:06:14] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-04-03 17:52:05] chore(deps): review upstream security patches & dependencies
+- [2025-04-03 18:13:52] perf(db): streamline sqlite indexed query execution

@@ -1057,3 +1057,4 @@
 - [2025-04-05 18:20:14] feat(core): optimize reactive state flow lifecycle
 - [2025-04-05 19:38:47] fix(layout): adjust squircle corner radii and padding
 - [2025-04-05 20:18:29] style(theme): refine sapphire and cyan accent palette
+- [2025-04-05 21:21:11] refactor(clean): decouple service layer contracts

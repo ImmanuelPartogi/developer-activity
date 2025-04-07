@@ -1070,3 +1070,4 @@
 - [2025-04-07 12:57:22] refactor(clean): decouple service layer contracts
 - [2025-04-07 12:48:08] docs(arch): update repository architectural blueprint
 - [2025-04-07 12:57:51] refactor(clean): decouple service layer contracts
+- [2025-04-07 13:13:17] refactor(domain): isolate business logic from presentation layer

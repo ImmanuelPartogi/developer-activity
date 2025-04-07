@@ -1073,3 +1073,4 @@
 - [2025-04-07 13:13:17] refactor(domain): isolate business logic from presentation layer
 - [2025-04-07 13:04:38] test(integration): verify cross-platform pipeline integrity
 - [2025-04-07 14:21:41] test(unit): add behavioral test assertions for domain logic
+- [2025-04-07 14:51:17] docs(arch): update repository architectural blueprint

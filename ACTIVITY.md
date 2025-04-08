@@ -1090,3 +1090,4 @@
 - [2025-04-08 16:29:14] style(design): polish tactile numpad elevation and haptics
 - [2025-04-08 16:14:32] feat(core): optimize reactive state flow lifecycle
 - [2025-04-08 16:26:21] test(benchmark): execute flame chart micro-benchmarks
+- [2025-04-08 20:37:30] fix(nullsafety): resolve edge-case nullable dereference

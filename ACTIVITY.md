@@ -1107,3 +1107,4 @@
 - [2025-04-09 21:36:54] fix(layout): adjust squircle corner radii and padding
 - [2025-04-09 21:31:11] perf(render): minimize widget rebuild tree overhead
 - [2025-04-09 21:05:59] feat(cache): implement two-tier memory and persistent cache
+- [2025-04-10 08:32:29] perf(memory): eliminate memory leaks in stream subscriptions

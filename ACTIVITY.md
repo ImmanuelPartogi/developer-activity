@@ -1121,3 +1121,4 @@
 - [2025-04-11 09:34:10] docs(arch): update repository architectural blueprint
 - [2025-04-11 10:06:39] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-04-11 11:08:36] style(theme): refine sapphire and cyan accent palette
+- [2025-04-11 12:51:50] perf(memory): eliminate memory leaks in stream subscriptions

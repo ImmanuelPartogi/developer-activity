@@ -1123,3 +1123,4 @@
 - [2025-04-11 11:08:36] style(theme): refine sapphire and cyan accent palette
 - [2025-04-11 12:51:50] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-04-11 13:40:24] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-04-11 13:06:50] fix(navigation): optimize pushReplacement transition timing

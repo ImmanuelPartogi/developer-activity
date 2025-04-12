@@ -1135,3 +1135,4 @@
 - [2025-04-12 11:45:12] feat(cache): implement two-tier memory and persistent cache
 - [2025-04-12 11:08:54] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-04-12 12:28:50] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-04-12 15:37:09] refactor(domain): isolate business logic from presentation layer

@@ -1161,3 +1161,4 @@
 - [2025-04-15 10:41:24] refactor(clean): decouple service layer contracts
 - [2025-04-15 13:59:17] refactor(clean): decouple service layer contracts
 - [2025-04-15 15:26:08] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-04-15 15:23:21] refactor(domain): isolate business logic from presentation layer

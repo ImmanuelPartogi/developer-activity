@@ -1163,3 +1163,4 @@
 - [2025-04-15 15:26:08] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-04-15 15:23:21] refactor(domain): isolate business logic from presentation layer
 - [2025-04-15 15:50:43] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-04-15 17:39:05] feat(cache): implement two-tier memory and persistent cache

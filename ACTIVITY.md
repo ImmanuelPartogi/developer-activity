@@ -1173,3 +1173,4 @@
 - [2025-04-16 09:45:20] feat(core): optimize reactive state flow lifecycle
 - [2025-04-16 10:16:23] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-04-16 10:43:21] feat(auth): enhance biometric encryption handshake
+- [2025-04-16 14:20:55] refactor(domain): isolate business logic from presentation layer

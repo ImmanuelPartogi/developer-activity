@@ -1179,3 +1179,4 @@
 - [2025-04-16 19:08:32] feat(analytics): add real-time category distribution parser
 - [2025-04-16 19:32:56] style(theme): refine sapphire and cyan accent palette
 - [2025-04-16 19:40:59] test(integration): verify cross-platform pipeline integrity
+- [2025-04-16 21:11:46] refactor(clean): decouple service layer contracts

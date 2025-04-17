@@ -1181,3 +1181,4 @@
 - [2025-04-16 19:40:59] test(integration): verify cross-platform pipeline integrity
 - [2025-04-16 21:11:46] refactor(clean): decouple service layer contracts
 - [2025-04-17 08:44:13] style(theme): refine sapphire and cyan accent palette
+- [2025-04-17 09:49:51] refactor(ui): elevate glassmorphism tokens & dark elevation

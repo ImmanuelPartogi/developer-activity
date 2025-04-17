@@ -1182,3 +1182,4 @@
 - [2025-04-16 21:11:46] refactor(clean): decouple service layer contracts
 - [2025-04-17 08:44:13] style(theme): refine sapphire and cyan accent palette
 - [2025-04-17 09:49:51] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-04-17 09:51:18] feat(auth): enhance biometric encryption handshake

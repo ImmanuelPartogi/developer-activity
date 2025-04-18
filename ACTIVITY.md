@@ -1205,3 +1205,4 @@
 - [2025-04-18 16:07:44] feat(core): optimize reactive state flow lifecycle
 - [2025-04-18 17:07:16] docs(arch): update repository architectural blueprint
 - [2025-04-18 19:15:52] style(theme): refine sapphire and cyan accent palette
+- [2025-04-18 19:45:23] refactor(clean): decouple service layer contracts

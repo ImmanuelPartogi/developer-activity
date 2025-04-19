@@ -1207,3 +1207,4 @@
 - [2025-04-18 19:15:52] style(theme): refine sapphire and cyan accent palette
 - [2025-04-18 19:45:23] refactor(clean): decouple service layer contracts
 - [2025-04-18 21:06:30] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-04-19 08:25:10] docs(arch): update repository architectural blueprint

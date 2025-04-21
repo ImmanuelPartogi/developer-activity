@@ -1225,3 +1225,4 @@
 - [2025-04-20 20:50:17] feat(telemetry): record daily performance metrics
 - [2025-04-20 21:35:59] docs(arch): update repository architectural blueprint
 - [2025-04-21 08:27:18] feat(auth): enhance biometric encryption handshake
+- [2025-04-21 08:28:56] perf(memory): eliminate memory leaks in stream subscriptions

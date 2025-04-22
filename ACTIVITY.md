@@ -1242,3 +1242,4 @@
 - [2025-04-22 13:34:56] fix(layout): adjust squircle corner radii and padding
 - [2025-04-22 14:08:59] fix(layout): adjust squircle corner radii and padding
 - [2025-04-22 14:27:06] feat(telemetry): record daily performance metrics
+- [2025-04-22 18:08:07] fix(navigation): optimize pushReplacement transition timing

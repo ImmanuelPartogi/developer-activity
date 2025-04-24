@@ -1263,3 +1263,4 @@
 - [2025-04-24 09:39:21] feat(core): optimize reactive state flow lifecycle
 - [2025-04-24 09:38:43] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-04-24 13:16:04] feat(auth): enhance biometric encryption handshake
+- [2025-04-24 14:57:44] fix(navigation): optimize pushReplacement transition timing

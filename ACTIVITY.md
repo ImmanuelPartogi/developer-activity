@@ -1265,3 +1265,4 @@
 - [2025-04-24 13:16:04] feat(auth): enhance biometric encryption handshake
 - [2025-04-24 14:57:44] fix(navigation): optimize pushReplacement transition timing
 - [2025-04-24 16:06:33] feat(sync): add offline outbox synchronization worker
+- [2025-04-24 17:56:46] fix(navigation): optimize pushReplacement transition timing

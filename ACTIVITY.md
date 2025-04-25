@@ -1275,3 +1275,4 @@
 - [2025-04-25 09:00:18] fix(layout): adjust squircle corner radii and padding
 - [2025-04-25 11:21:02] style(design): polish tactile numpad elevation and haptics
 - [2025-04-25 11:23:49] perf(render): minimize widget rebuild tree overhead
+- [2025-04-25 12:04:51] fix(layout): adjust squircle corner radii and padding

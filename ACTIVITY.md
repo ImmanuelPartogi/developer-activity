@@ -1301,3 +1301,4 @@
 - [2025-04-27 17:55:08] feat(sync): add offline outbox synchronization worker
 - [2025-04-27 18:01:11] refactor(clean): decouple service layer contracts
 - [2025-04-27 19:09:59] fix(layout): adjust squircle corner radii and padding
+- [2025-04-27 19:38:36] feat(sync): add offline outbox synchronization worker

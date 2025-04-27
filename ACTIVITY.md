@@ -1296,3 +1296,4 @@
 - [2025-04-27 12:59:54] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-04-27 12:14:10] chore(deps): review upstream security patches & dependencies
 - [2025-04-27 12:44:04] refactor(clean): decouple service layer contracts
+- [2025-04-27 14:36:17] fix(navigation): optimize pushReplacement transition timing

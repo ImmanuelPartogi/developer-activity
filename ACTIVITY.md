@@ -1303,3 +1303,4 @@
 - [2025-04-27 19:09:59] fix(layout): adjust squircle corner radii and padding
 - [2025-04-27 19:38:36] feat(sync): add offline outbox synchronization worker
 - [2025-04-28 08:28:29] feat(telemetry): record daily performance metrics
+- [2025-04-28 09:34:11] fix(nullsafety): resolve edge-case nullable dereference

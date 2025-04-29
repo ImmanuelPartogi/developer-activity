@@ -1325,3 +1325,4 @@
 - [2025-04-29 16:14:09] feat(auth): enhance biometric encryption handshake
 - [2025-04-29 17:07:38] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-04-29 17:28:36] chore(deps): review upstream security patches & dependencies
+- [2025-04-29 17:25:54] refactor(ui): elevate glassmorphism tokens & dark elevation

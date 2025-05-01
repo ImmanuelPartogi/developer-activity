@@ -1337,3 +1337,4 @@
 - [2025-04-30 20:09:40] feat(auth): enhance biometric encryption handshake
 - [2025-04-30 21:49:25] feat(auth): enhance biometric encryption handshake
 - [2025-05-01 08:00:51] fix(layout): adjust squircle corner radii and padding
+- [2025-05-01 08:21:46] refactor(clean): decouple service layer contracts

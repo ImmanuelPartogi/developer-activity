@@ -1355,3 +1355,4 @@
 - [2025-05-02 13:09:27] feat(telemetry): record daily performance metrics
 - [2025-05-02 13:17:46] feat(core): optimize reactive state flow lifecycle
 - [2025-05-02 14:28:38] fix(layout): adjust squircle corner radii and padding
+- [2025-05-02 14:49:52] perf(memory): eliminate memory leaks in stream subscriptions

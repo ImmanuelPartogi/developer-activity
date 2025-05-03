@@ -1372,3 +1372,4 @@
 - [2025-05-03 16:46:41] refactor(clean): decouple service layer contracts
 - [2025-05-03 17:50:38] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-05-03 18:26:12] feat(sync): add offline outbox synchronization worker
+- [2025-05-03 18:14:41] docs(arch): update repository architectural blueprint

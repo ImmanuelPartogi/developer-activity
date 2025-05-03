@@ -1366,3 +1366,4 @@
 - [2025-05-02 21:08:06] feat(analytics): add real-time category distribution parser
 - [2025-05-02 21:50:04] feat(core): optimize reactive state flow lifecycle
 - [2025-05-02 21:20:05] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-05-03 10:28:43] refactor(clean): decouple service layer contracts

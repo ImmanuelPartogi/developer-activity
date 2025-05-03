@@ -1371,3 +1371,4 @@
 - [2025-05-03 13:45:10] perf(db): streamline sqlite indexed query execution
 - [2025-05-03 16:46:41] refactor(clean): decouple service layer contracts
 - [2025-05-03 17:50:38] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-05-03 18:26:12] feat(sync): add offline outbox synchronization worker

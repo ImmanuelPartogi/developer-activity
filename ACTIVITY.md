@@ -1382,3 +1382,4 @@
 - [2025-05-04 11:04:08] test(integration): verify cross-platform pipeline integrity
 - [2025-05-04 11:59:39] test(integration): verify cross-platform pipeline integrity
 - [2025-05-04 11:27:06] test(unit): add behavioral test assertions for domain logic
+- [2025-05-04 14:27:24] docs(arch): update repository architectural blueprint

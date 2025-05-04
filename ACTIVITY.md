@@ -1378,3 +1378,4 @@
 - [2025-05-03 19:21:15] docs(arch): update repository architectural blueprint
 - [2025-05-03 21:05:46] chore(deps): review upstream security patches & dependencies
 - [2025-05-04 08:52:21] style(design): polish tactile numpad elevation and haptics
+- [2025-05-04 09:07:41] refactor(ui): elevate glassmorphism tokens & dark elevation

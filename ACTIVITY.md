@@ -1384,3 +1384,4 @@
 - [2025-05-04 11:27:06] test(unit): add behavioral test assertions for domain logic
 - [2025-05-04 14:27:24] docs(arch): update repository architectural blueprint
 - [2025-05-04 14:27:31] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-05-04 15:02:09] perf(memory): eliminate memory leaks in stream subscriptions

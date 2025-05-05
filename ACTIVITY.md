@@ -1393,3 +1393,4 @@
 - [2025-05-05 11:53:15] refactor(clean): decouple service layer contracts
 - [2025-05-05 12:55:28] refactor(domain): isolate business logic from presentation layer
 - [2025-05-05 12:26:39] test(unit): add behavioral test assertions for domain logic
+- [2025-05-05 13:50:52] feat(sync): add offline outbox synchronization worker

@@ -1390,3 +1390,4 @@
 - [2025-05-04 20:26:51] feat(core): optimize reactive state flow lifecycle
 - [2025-05-05 08:06:22] docs(arch): update repository architectural blueprint
 - [2025-05-05 10:48:39] chore(deps): review upstream security patches & dependencies
+- [2025-05-05 11:53:15] refactor(clean): decouple service layer contracts

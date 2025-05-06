@@ -1401,3 +1401,4 @@
 - [2025-05-06 09:51:45] fix(layout): adjust squircle corner radii and padding
 - [2025-05-06 09:20:35] feat(analytics): add real-time category distribution parser
 - [2025-05-06 11:46:39] perf(render): minimize widget rebuild tree overhead
+- [2025-05-06 12:56:11] feat(sync): add offline outbox synchronization worker

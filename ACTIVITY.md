@@ -1397,3 +1397,4 @@
 - [2025-05-05 14:37:37] perf(render): minimize widget rebuild tree overhead
 - [2025-05-05 17:28:13] test(benchmark): execute flame chart micro-benchmarks
 - [2025-05-05 20:55:09] perf(render): minimize widget rebuild tree overhead
+- [2025-05-06 08:20:11] docs(arch): update repository architectural blueprint

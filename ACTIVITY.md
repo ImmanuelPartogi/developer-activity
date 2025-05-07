@@ -1419,3 +1419,4 @@
 - [2025-05-07 15:49:05] feat(sync): add offline outbox synchronization worker
 - [2025-05-07 18:34:34] chore(deps): review upstream security patches & dependencies
 - [2025-05-07 18:28:06] fix(layout): adjust squircle corner radii and padding
+- [2025-05-07 19:30:07] refactor(clean): decouple service layer contracts

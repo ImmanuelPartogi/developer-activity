@@ -1411,3 +1411,4 @@
 - [2025-05-06 17:53:58] refactor(domain): isolate business logic from presentation layer
 - [2025-05-07 09:48:45] feat(sync): add offline outbox synchronization worker
 - [2025-05-07 10:10:06] perf(db): streamline sqlite indexed query execution
+- [2025-05-07 13:49:44] test(unit): add behavioral test assertions for domain logic

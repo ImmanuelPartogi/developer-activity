@@ -1416,3 +1416,4 @@
 - [2025-05-07 14:16:59] refactor(clean): decouple service layer contracts
 - [2025-05-07 14:26:37] fix(layout): adjust squircle corner radii and padding
 - [2025-05-07 14:09:07] refactor(clean): decouple service layer contracts
+- [2025-05-07 15:49:05] feat(sync): add offline outbox synchronization worker

@@ -1425,3 +1425,4 @@
 - [2025-05-08 08:36:08] test(unit): add behavioral test assertions for domain logic
 - [2025-05-08 10:44:31] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-05-08 14:47:14] feat(analytics): add real-time category distribution parser
+- [2025-05-08 15:38:06] perf(memory): eliminate memory leaks in stream subscriptions

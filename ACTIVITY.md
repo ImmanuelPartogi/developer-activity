@@ -1435,3 +1435,4 @@
 - [2025-05-09 12:40:03] test(unit): add behavioral test assertions for domain logic
 - [2025-05-09 13:17:56] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-05-09 13:14:02] test(unit): add behavioral test assertions for domain logic
+- [2025-05-09 13:25:39] refactor(ui): elevate glassmorphism tokens & dark elevation

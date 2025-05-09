@@ -1440,3 +1440,4 @@
 - [2025-05-09 16:27:06] feat(core): optimize reactive state flow lifecycle
 - [2025-05-09 18:37:05] feat(telemetry): record daily performance metrics
 - [2025-05-09 19:29:09] test(unit): add behavioral test assertions for domain logic
+- [2025-05-09 20:46:44] fix(nullsafety): resolve edge-case nullable dereference

@@ -1464,3 +1464,4 @@
 - [2025-05-11 17:48:35] chore(deps): review upstream security patches & dependencies
 - [2025-05-11 18:31:42] docs(telemetry): log continuous development activity
 - [2025-05-11 19:46:23] test(integration): verify cross-platform pipeline integrity
+- [2025-05-11 20:04:15] fix(navigation): optimize pushReplacement transition timing

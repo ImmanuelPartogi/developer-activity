@@ -1476,3 +1476,4 @@
 - [2025-05-12 16:01:59] feat(auth): enhance biometric encryption handshake
 - [2025-05-12 16:24:43] feat(cache): implement two-tier memory and persistent cache
 - [2025-05-12 17:23:05] style(design): polish tactile numpad elevation and haptics
+- [2025-05-12 18:57:57] refactor(clean): decouple service layer contracts

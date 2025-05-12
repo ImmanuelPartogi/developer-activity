@@ -1467,3 +1467,4 @@
 - [2025-05-11 20:04:15] fix(navigation): optimize pushReplacement transition timing
 - [2025-05-12 09:42:00] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-05-12 09:33:28] feat(auth): enhance biometric encryption handshake
+- [2025-05-12 10:18:14] refactor(clean): decouple service layer contracts

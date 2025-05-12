@@ -1478,3 +1478,4 @@
 - [2025-05-12 17:23:05] style(design): polish tactile numpad elevation and haptics
 - [2025-05-12 18:57:57] refactor(clean): decouple service layer contracts
 - [2025-05-12 18:34:56] feat(auth): enhance biometric encryption handshake
+- [2025-05-12 21:10:49] perf(memory): eliminate memory leaks in stream subscriptions

@@ -1470,3 +1470,4 @@
 - [2025-05-12 10:18:14] refactor(clean): decouple service layer contracts
 - [2025-05-12 10:54:10] fix(navigation): optimize pushReplacement transition timing
 - [2025-05-12 12:12:36] test(integration): verify cross-platform pipeline integrity
+- [2025-05-12 13:02:14] perf(memory): eliminate memory leaks in stream subscriptions

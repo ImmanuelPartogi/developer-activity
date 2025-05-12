@@ -1473,3 +1473,4 @@
 - [2025-05-12 13:02:14] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-05-12 13:40:21] refactor(clean): decouple service layer contracts
 - [2025-05-12 14:22:40] chore(deps): review upstream security patches & dependencies
+- [2025-05-12 16:01:59] feat(auth): enhance biometric encryption handshake

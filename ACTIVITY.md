@@ -1465,3 +1465,4 @@
 - [2025-05-11 18:31:42] docs(telemetry): log continuous development activity
 - [2025-05-11 19:46:23] test(integration): verify cross-platform pipeline integrity
 - [2025-05-11 20:04:15] fix(navigation): optimize pushReplacement transition timing
+- [2025-05-12 09:42:00] fix(nullsafety): resolve edge-case nullable dereference

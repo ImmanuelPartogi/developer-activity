@@ -1483,3 +1483,4 @@
 - [2025-05-13 08:09:22] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-05-13 09:52:16] perf(db): streamline sqlite indexed query execution
 - [2025-05-13 09:38:13] test(unit): add behavioral test assertions for domain logic
+- [2025-05-13 09:19:25] fix(nullsafety): resolve edge-case nullable dereference

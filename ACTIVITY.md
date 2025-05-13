@@ -1494,3 +1494,4 @@
 - [2025-05-13 16:32:43] test(integration): verify cross-platform pipeline integrity
 - [2025-05-13 17:17:58] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-05-13 17:50:55] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-05-13 20:55:24] perf(memory): eliminate memory leaks in stream subscriptions

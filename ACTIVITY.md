@@ -1492,3 +1492,4 @@
 - [2025-05-13 13:19:04] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-05-13 14:31:42] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-05-13 16:32:43] test(integration): verify cross-platform pipeline integrity
+- [2025-05-13 17:17:58] refactor(ui): elevate glassmorphism tokens & dark elevation

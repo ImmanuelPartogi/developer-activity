@@ -1500,3 +1500,4 @@
 - [2025-05-14 10:24:12] style(design): polish tactile numpad elevation and haptics
 - [2025-05-14 10:05:45] style(design): polish tactile numpad elevation and haptics
 - [2025-05-14 10:28:31] refactor(clean): decouple service layer contracts
+- [2025-05-14 10:23:58] refactor(ui): elevate glassmorphism tokens & dark elevation

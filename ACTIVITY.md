@@ -1504,3 +1504,4 @@
 - [2025-05-14 11:38:52] feat(auth): enhance biometric encryption handshake
 - [2025-05-14 12:53:14] chore(deps): review upstream security patches & dependencies
 - [2025-05-14 14:43:13] chore(deps): review upstream security patches & dependencies
+- [2025-05-14 14:31:46] feat(core): optimize reactive state flow lifecycle

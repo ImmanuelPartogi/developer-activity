@@ -1495,3 +1495,4 @@
 - [2025-05-13 17:17:58] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-05-13 17:50:55] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-05-13 20:55:24] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-05-14 09:23:51] feat(analytics): add real-time category distribution parser

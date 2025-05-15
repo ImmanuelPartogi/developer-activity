@@ -1525,3 +1525,4 @@
 - [2025-05-15 17:34:44] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-05-15 17:25:41] fix(navigation): optimize pushReplacement transition timing
 - [2025-05-15 18:04:01] test(unit): add behavioral test assertions for domain logic
+- [2025-05-15 21:02:13] perf(memory): eliminate memory leaks in stream subscriptions

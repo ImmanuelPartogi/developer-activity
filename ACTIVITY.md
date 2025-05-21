@@ -1590,3 +1590,4 @@
 - [2025-05-21 16:27:38] feat(auth): enhance biometric encryption handshake
 - [2025-05-21 19:56:04] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-05-21 19:23:22] style(design): polish tactile numpad elevation and haptics
+- [2025-05-21 20:05:34] fix(navigation): optimize pushReplacement transition timing

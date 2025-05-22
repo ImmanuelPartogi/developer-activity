@@ -1598,3 +1598,4 @@
 - [2025-05-22 10:33:40] fix(layout): adjust squircle corner radii and padding
 - [2025-05-22 11:53:20] test(integration): verify cross-platform pipeline integrity
 - [2025-05-22 13:20:35] test(unit): add behavioral test assertions for domain logic
+- [2025-05-22 14:12:36] refactor(ui): elevate glassmorphism tokens & dark elevation

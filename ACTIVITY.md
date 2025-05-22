@@ -1595,3 +1595,4 @@
 - [2025-05-22 08:16:29] chore(deps): review upstream security patches & dependencies
 - [2025-05-22 08:17:10] feat(core): optimize reactive state flow lifecycle
 - [2025-05-22 09:22:37] feat(core): optimize reactive state flow lifecycle
+- [2025-05-22 10:33:40] fix(layout): adjust squircle corner radii and padding

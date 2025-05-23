@@ -1601,3 +1601,4 @@
 - [2025-05-22 14:12:36] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-05-22 14:25:12] test(integration): verify cross-platform pipeline integrity
 - [2025-05-22 15:19:06] chore(deps): review upstream security patches & dependencies
+- [2025-05-23 11:07:48] perf(render): minimize widget rebuild tree overhead

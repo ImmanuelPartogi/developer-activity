@@ -1616,3 +1616,4 @@
 - [2025-05-24 11:05:33] style(theme): refine sapphire and cyan accent palette
 - [2025-05-24 13:34:11] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-05-24 16:00:02] refactor(clean): decouple service layer contracts
+- [2025-05-24 17:20:23] perf(db): streamline sqlite indexed query execution

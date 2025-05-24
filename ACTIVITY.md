@@ -1614,3 +1614,4 @@
 - [2025-05-24 10:13:13] fix(navigation): optimize pushReplacement transition timing
 - [2025-05-24 10:25:48] style(design): polish tactile numpad elevation and haptics
 - [2025-05-24 11:05:33] style(theme): refine sapphire and cyan accent palette
+- [2025-05-24 13:34:11] fix(nullsafety): resolve edge-case nullable dereference

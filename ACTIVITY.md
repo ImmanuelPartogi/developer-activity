@@ -1630,3 +1630,4 @@
 - [2025-05-26 10:28:22] docs(arch): update repository architectural blueprint
 - [2025-05-26 11:52:43] perf(db): streamline sqlite indexed query execution
 - [2025-05-26 12:50:45] style(theme): refine sapphire and cyan accent palette
+- [2025-05-26 13:08:04] refactor(ui): elevate glassmorphism tokens & dark elevation

@@ -1631,3 +1631,4 @@
 - [2025-05-26 11:52:43] perf(db): streamline sqlite indexed query execution
 - [2025-05-26 12:50:45] style(theme): refine sapphire and cyan accent palette
 - [2025-05-26 13:08:04] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-05-26 13:10:19] refactor(domain): isolate business logic from presentation layer

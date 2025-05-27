@@ -1644,3 +1644,4 @@
 - [2025-05-27 12:46:02] feat(auth): enhance biometric encryption handshake
 - [2025-05-27 13:36:03] fix(layout): adjust squircle corner radii and padding
 - [2025-05-27 13:39:26] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-05-27 15:06:07] refactor(ui): elevate glassmorphism tokens & dark elevation

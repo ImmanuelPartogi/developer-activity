@@ -1657,3 +1657,4 @@
 - [2025-05-28 15:19:58] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-05-28 16:37:02] feat(analytics): add real-time category distribution parser
 - [2025-05-28 17:02:39] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-05-28 18:05:26] fix(navigation): optimize pushReplacement transition timing

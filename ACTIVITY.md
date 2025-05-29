@@ -1667,3 +1667,4 @@
 - [2025-05-29 09:09:15] feat(sync): add offline outbox synchronization worker
 - [2025-05-29 10:06:08] test(integration): verify cross-platform pipeline integrity
 - [2025-05-29 12:54:49] docs(telemetry): log continuous development activity
+- [2025-05-29 12:49:11] fix(navigation): optimize pushReplacement transition timing

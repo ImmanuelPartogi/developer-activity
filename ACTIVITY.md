@@ -1671,3 +1671,4 @@
 - [2025-05-29 12:12:59] style(design): polish tactile numpad elevation and haptics
 - [2025-05-29 13:27:51] perf(db): streamline sqlite indexed query execution
 - [2025-05-29 14:35:39] test(unit): add behavioral test assertions for domain logic
+- [2025-05-29 17:54:16] refactor(domain): isolate business logic from presentation layer

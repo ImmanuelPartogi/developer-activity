@@ -1685,3 +1685,4 @@
 - [2025-05-30 11:52:41] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-05-30 12:34:29] fix(layout): adjust squircle corner radii and padding
 - [2025-05-30 13:18:56] feat(cache): implement two-tier memory and persistent cache
+- [2025-05-30 15:06:50] refactor(clean): decouple service layer contracts

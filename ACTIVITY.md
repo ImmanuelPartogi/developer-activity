@@ -1697,3 +1697,4 @@
 - [2025-05-31 12:16:49] docs(telemetry): log continuous development activity
 - [2025-05-31 13:30:58] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-05-31 15:21:39] fix(layout): adjust squircle corner radii and padding
+- [2025-05-31 18:51:51] refactor(domain): isolate business logic from presentation layer

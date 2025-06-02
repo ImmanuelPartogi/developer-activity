@@ -1708,3 +1708,4 @@
 - [2025-06-01 17:21:19] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-06-01 18:09:45] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-06-01 19:51:15] style(theme): refine sapphire and cyan accent palette
+- [2025-06-02 08:11:48] refactor(clean): decouple service layer contracts

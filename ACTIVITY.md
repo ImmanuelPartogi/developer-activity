@@ -1709,3 +1709,4 @@
 - [2025-06-01 18:09:45] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-06-01 19:51:15] style(theme): refine sapphire and cyan accent palette
 - [2025-06-02 08:11:48] refactor(clean): decouple service layer contracts
+- [2025-06-02 10:07:00] feat(cache): implement two-tier memory and persistent cache

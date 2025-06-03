@@ -1720,3 +1720,4 @@
 - [2025-06-03 08:01:30] test(unit): add behavioral test assertions for domain logic
 - [2025-06-03 08:51:03] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-06-03 08:45:52] style(design): polish tactile numpad elevation and haptics
+- [2025-06-03 09:12:29] perf(memory): eliminate memory leaks in stream subscriptions

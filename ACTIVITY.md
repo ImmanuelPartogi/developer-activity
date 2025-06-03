@@ -1728,3 +1728,4 @@
 - [2025-06-03 12:51:30] docs(arch): update repository architectural blueprint
 - [2025-06-03 12:36:20] perf(render): minimize widget rebuild tree overhead
 - [2025-06-03 16:29:10] feat(telemetry): record daily performance metrics
+- [2025-06-03 18:46:07] refactor(clean): decouple service layer contracts

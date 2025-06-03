@@ -1722,3 +1722,4 @@
 - [2025-06-03 08:45:52] style(design): polish tactile numpad elevation and haptics
 - [2025-06-03 09:12:29] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-06-03 10:53:43] feat(auth): enhance biometric encryption handshake
+- [2025-06-03 10:51:49] docs(arch): update repository architectural blueprint

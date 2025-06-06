@@ -1755,3 +1755,4 @@
 - [2025-06-06 08:32:16] docs(arch): update repository architectural blueprint
 - [2025-06-06 09:36:07] chore(deps): review upstream security patches & dependencies
 - [2025-06-06 11:26:44] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-06-06 11:23:55] refactor(clean): decouple service layer contracts

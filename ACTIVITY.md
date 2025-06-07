@@ -1771,3 +1771,4 @@
 - [2025-06-07 12:30:28] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-06-07 13:08:43] chore(deps): review upstream security patches & dependencies
 - [2025-06-07 18:55:14] style(theme): refine sapphire and cyan accent palette
+- [2025-06-07 20:26:42] refactor(ui): elevate glassmorphism tokens & dark elevation

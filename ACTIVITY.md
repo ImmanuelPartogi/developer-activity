@@ -1774,3 +1774,4 @@
 - [2025-06-07 20:26:42] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-06-07 20:41:14] feat(sync): add offline outbox synchronization worker
 - [2025-06-07 20:46:57] chore(deps): review upstream security patches & dependencies
+- [2025-06-07 21:34:26] perf(db): streamline sqlite indexed query execution

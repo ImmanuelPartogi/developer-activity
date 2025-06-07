@@ -1775,3 +1775,4 @@
 - [2025-06-07 20:41:14] feat(sync): add offline outbox synchronization worker
 - [2025-06-07 20:46:57] chore(deps): review upstream security patches & dependencies
 - [2025-06-07 21:34:26] perf(db): streamline sqlite indexed query execution
+- [2025-06-07 21:15:23] perf(memory): eliminate memory leaks in stream subscriptions

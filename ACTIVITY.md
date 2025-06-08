@@ -1784,3 +1784,4 @@
 - [2025-06-08 20:52:38] test(unit): add behavioral test assertions for domain logic
 - [2025-06-08 21:46:29] feat(cache): implement two-tier memory and persistent cache
 - [2025-06-08 21:33:59] test(integration): verify cross-platform pipeline integrity
+- [2025-06-08 21:29:41] docs(arch): update repository architectural blueprint

@@ -1777,3 +1777,4 @@
 - [2025-06-07 21:34:26] perf(db): streamline sqlite indexed query execution
 - [2025-06-07 21:15:23] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-06-08 15:24:44] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-06-08 15:15:28] feat(sync): add offline outbox synchronization worker

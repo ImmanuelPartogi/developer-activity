@@ -1778,3 +1778,4 @@
 - [2025-06-07 21:15:23] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-06-08 15:24:44] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-06-08 15:15:28] feat(sync): add offline outbox synchronization worker
+- [2025-06-08 16:27:46] fix(nullsafety): resolve edge-case nullable dereference

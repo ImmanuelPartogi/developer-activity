@@ -1792,3 +1792,4 @@
 - [2025-06-09 13:41:29] chore(deps): review upstream security patches & dependencies
 - [2025-06-09 15:49:47] perf(db): streamline sqlite indexed query execution
 - [2025-06-09 16:37:55] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-06-09 17:51:51] style(theme): refine sapphire and cyan accent palette

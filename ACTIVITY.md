@@ -1820,3 +1820,4 @@
 - [2025-06-11 15:06:39] feat(telemetry): record daily performance metrics
 - [2025-06-11 16:53:54] style(design): polish tactile numpad elevation and haptics
 - [2025-06-11 16:40:58] chore(deps): review upstream security patches & dependencies
+- [2025-06-11 17:46:57] perf(memory): eliminate memory leaks in stream subscriptions

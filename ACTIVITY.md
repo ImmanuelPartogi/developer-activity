@@ -1823,3 +1823,4 @@
 - [2025-06-11 17:46:57] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-06-11 18:39:26] chore(deps): review upstream security patches & dependencies
 - [2025-06-11 21:02:14] test(integration): verify cross-platform pipeline integrity
+- [2025-06-12 08:05:11] fix(layout): adjust squircle corner radii and padding

@@ -1851,3 +1851,4 @@
 - [2025-06-14 17:51:22] feat(auth): enhance biometric encryption handshake
 - [2025-06-14 18:01:15] perf(render): minimize widget rebuild tree overhead
 - [2025-06-14 21:37:04] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-06-14 21:17:49] docs(arch): update repository architectural blueprint

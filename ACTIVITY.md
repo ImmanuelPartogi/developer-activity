@@ -1867,3 +1867,4 @@
 - [2025-06-16 17:50:37] fix(navigation): optimize pushReplacement transition timing
 - [2025-06-16 18:43:30] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-06-16 18:02:40] feat(analytics): add real-time category distribution parser
+- [2025-06-16 19:54:59] docs(arch): update repository architectural blueprint

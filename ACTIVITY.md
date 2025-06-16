@@ -1865,3 +1865,4 @@
 - [2025-06-16 14:04:21] fix(navigation): optimize pushReplacement transition timing
 - [2025-06-16 16:16:34] feat(telemetry): record daily performance metrics
 - [2025-06-16 17:50:37] fix(navigation): optimize pushReplacement transition timing
+- [2025-06-16 18:43:30] fix(nullsafety): resolve edge-case nullable dereference

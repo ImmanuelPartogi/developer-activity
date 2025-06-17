@@ -1875,3 +1875,4 @@
 - [2025-06-17 10:45:10] feat(sync): add offline outbox synchronization worker
 - [2025-06-17 13:50:57] test(benchmark): execute flame chart micro-benchmarks
 - [2025-06-17 13:39:37] perf(render): minimize widget rebuild tree overhead
+- [2025-06-17 16:22:28] fix(navigation): optimize pushReplacement transition timing

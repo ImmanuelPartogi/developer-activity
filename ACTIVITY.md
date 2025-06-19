@@ -1896,3 +1896,4 @@
 - [2025-06-19 14:30:10] feat(analytics): add real-time category distribution parser
 - [2025-06-19 14:08:36] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-06-19 16:44:32] feat(cache): implement two-tier memory and persistent cache
+- [2025-06-19 16:51:39] perf(db): streamline sqlite indexed query execution

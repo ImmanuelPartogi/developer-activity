@@ -1915,3 +1915,4 @@
 - [2025-06-20 18:26:59] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-06-20 20:52:13] style(theme): refine sapphire and cyan accent palette
 - [2025-06-20 21:03:26] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-06-20 21:24:41] docs(arch): update repository architectural blueprint

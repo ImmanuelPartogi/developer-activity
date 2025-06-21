@@ -1922,3 +1922,4 @@
 - [2025-06-21 10:07:49] chore(deps): review upstream security patches & dependencies
 - [2025-06-21 10:48:11] refactor(clean): decouple service layer contracts
 - [2025-06-21 11:20:36] fix(navigation): optimize pushReplacement transition timing
+- [2025-06-21 12:25:59] fix(nullsafety): resolve edge-case nullable dereference

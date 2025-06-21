@@ -1923,3 +1923,4 @@
 - [2025-06-21 10:48:11] refactor(clean): decouple service layer contracts
 - [2025-06-21 11:20:36] fix(navigation): optimize pushReplacement transition timing
 - [2025-06-21 12:25:59] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-06-21 13:02:24] feat(sync): add offline outbox synchronization worker

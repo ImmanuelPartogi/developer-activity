@@ -1945,3 +1945,4 @@
 - [2025-06-23 15:28:25] fix(navigation): optimize pushReplacement transition timing
 - [2025-06-23 16:36:57] fix(layout): adjust squircle corner radii and padding
 - [2025-06-23 18:02:10] docs(arch): update repository architectural blueprint
+- [2025-06-23 19:11:45] fix(navigation): optimize pushReplacement transition timing

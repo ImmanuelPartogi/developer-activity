@@ -1944,3 +1944,4 @@
 - [2025-06-23 14:12:52] style(design): polish tactile numpad elevation and haptics
 - [2025-06-23 15:28:25] fix(navigation): optimize pushReplacement transition timing
 - [2025-06-23 16:36:57] fix(layout): adjust squircle corner radii and padding
+- [2025-06-23 18:02:10] docs(arch): update repository architectural blueprint

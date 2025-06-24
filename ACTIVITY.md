@@ -1950,3 +1950,4 @@
 - [2025-06-24 10:31:17] fix(layout): adjust squircle corner radii and padding
 - [2025-06-24 13:37:17] feat(cache): implement two-tier memory and persistent cache
 - [2025-06-24 13:09:41] fix(navigation): optimize pushReplacement transition timing
+- [2025-06-24 14:37:44] refactor(domain): isolate business logic from presentation layer

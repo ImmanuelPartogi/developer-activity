@@ -1971,3 +1971,4 @@
 - [2025-06-25 19:58:00] fix(layout): adjust squircle corner radii and padding
 - [2025-06-25 20:10:45] test(integration): verify cross-platform pipeline integrity
 - [2025-06-26 09:51:45] feat(analytics): add real-time category distribution parser
+- [2025-06-26 09:14:06] refactor(clean): decouple service layer contracts

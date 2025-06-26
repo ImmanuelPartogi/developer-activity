@@ -1973,3 +1973,4 @@
 - [2025-06-26 09:51:45] feat(analytics): add real-time category distribution parser
 - [2025-06-26 09:14:06] refactor(clean): decouple service layer contracts
 - [2025-06-26 10:51:08] style(theme): refine sapphire and cyan accent palette
+- [2025-06-26 11:51:10] feat(cache): implement two-tier memory and persistent cache

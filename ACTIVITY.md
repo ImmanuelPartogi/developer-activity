@@ -1997,3 +1997,4 @@
 - [2025-06-28 08:49:07] feat(telemetry): record daily performance metrics
 - [2025-06-28 08:25:16] feat(sync): add offline outbox synchronization worker
 - [2025-06-28 09:01:09] test(integration): verify cross-platform pipeline integrity
+- [2025-06-28 12:09:12] perf(memory): eliminate memory leaks in stream subscriptions

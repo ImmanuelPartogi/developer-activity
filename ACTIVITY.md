@@ -2002,3 +2002,4 @@
 - [2025-06-28 14:10:14] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-06-28 15:11:42] style(theme): refine sapphire and cyan accent palette
 - [2025-06-28 19:28:46] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-06-29 08:24:10] test(unit): add behavioral test assertions for domain logic

@@ -2018,3 +2018,4 @@
 - [2025-06-30 11:23:23] style(design): polish tactile numpad elevation and haptics
 - [2025-06-30 13:53:57] feat(analytics): add real-time category distribution parser
 - [2025-06-30 17:46:27] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-06-30 17:35:14] docs(arch): update repository architectural blueprint

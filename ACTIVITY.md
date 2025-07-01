@@ -2028,3 +2028,4 @@
 - [2025-07-01 11:24:04] test(integration): verify cross-platform pipeline integrity
 - [2025-07-01 12:24:50] perf(db): streamline sqlite indexed query execution
 - [2025-07-01 13:27:21] style(design): polish tactile numpad elevation and haptics
+- [2025-07-01 14:34:04] refactor(clean): decouple service layer contracts

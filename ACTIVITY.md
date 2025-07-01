@@ -2022,3 +2022,4 @@
 - [2025-06-30 18:28:46] feat(analytics): add real-time category distribution parser
 - [2025-06-30 18:31:53] feat(telemetry): record daily performance metrics
 - [2025-06-30 20:27:11] feat(cache): implement two-tier memory and persistent cache
+- [2025-07-01 08:54:00] perf(memory): eliminate memory leaks in stream subscriptions

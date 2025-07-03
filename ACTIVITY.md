@@ -2055,3 +2055,4 @@
 - [2025-07-03 16:54:45] feat(telemetry): record daily performance metrics
 - [2025-07-03 18:14:22] chore(deps): review upstream security patches & dependencies
 - [2025-07-03 18:52:21] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-07-03 19:35:56] perf(db): streamline sqlite indexed query execution

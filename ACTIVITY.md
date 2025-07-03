@@ -2049,3 +2049,4 @@
 - [2025-07-02 19:09:37] feat(telemetry): record daily performance metrics
 - [2025-07-02 20:15:14] test(integration): verify cross-platform pipeline integrity
 - [2025-07-02 20:28:54] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-07-03 08:51:03] refactor(clean): decouple service layer contracts

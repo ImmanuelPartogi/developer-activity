@@ -2070,3 +2070,4 @@
 - [2025-07-04 20:18:23] feat(analytics): add real-time category distribution parser
 - [2025-07-04 21:51:27] feat(core): optimize reactive state flow lifecycle
 - [2025-07-05 10:35:42] feat(cache): implement two-tier memory and persistent cache
+- [2025-07-05 15:29:14] fix(navigation): optimize pushReplacement transition timing

@@ -2085,3 +2085,4 @@
 - [2025-07-06 17:42:08] fix(layout): adjust squircle corner radii and padding
 - [2025-07-06 17:16:49] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-07-06 19:46:50] feat(telemetry): record daily performance metrics
+- [2025-07-06 20:20:40] perf(memory): eliminate memory leaks in stream subscriptions

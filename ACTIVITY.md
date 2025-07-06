@@ -2082,3 +2082,4 @@
 - [2025-07-06 14:19:28] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-06 14:53:36] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-07-06 16:51:44] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-07-06 17:42:08] fix(layout): adjust squircle corner radii and padding

@@ -2079,3 +2079,4 @@
 - [2025-07-06 10:09:36] refactor(clean): decouple service layer contracts
 - [2025-07-06 13:50:59] style(design): polish tactile numpad elevation and haptics
 - [2025-07-06 14:44:31] test(integration): verify cross-platform pipeline integrity
+- [2025-07-06 14:19:28] refactor(ui): elevate glassmorphism tokens & dark elevation

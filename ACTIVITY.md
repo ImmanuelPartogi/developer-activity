@@ -2096,3 +2096,4 @@
 - [2025-07-07 16:20:29] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-07-07 17:03:54] refactor(clean): decouple service layer contracts
 - [2025-07-07 17:05:13] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-07-07 18:35:55] style(theme): refine sapphire and cyan accent palette

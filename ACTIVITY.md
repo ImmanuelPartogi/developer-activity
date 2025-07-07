@@ -2094,3 +2094,4 @@
 - [2025-07-07 16:57:15] chore(deps): review upstream security patches & dependencies
 - [2025-07-07 16:32:37] feat(cache): implement two-tier memory and persistent cache
 - [2025-07-07 16:20:29] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-07-07 17:03:54] refactor(clean): decouple service layer contracts

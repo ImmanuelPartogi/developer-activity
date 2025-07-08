@@ -2105,3 +2105,4 @@
 - [2025-07-08 15:41:19] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-08 15:19:01] docs(telemetry): log continuous development activity
 - [2025-07-08 15:07:38] feat(core): optimize reactive state flow lifecycle
+- [2025-07-08 15:33:53] refactor(clean): decouple service layer contracts

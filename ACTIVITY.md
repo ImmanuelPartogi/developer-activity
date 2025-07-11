@@ -2141,3 +2141,4 @@
 - [2025-07-11 10:39:46] test(unit): add behavioral test assertions for domain logic
 - [2025-07-11 11:05:42] test(unit): add behavioral test assertions for domain logic
 - [2025-07-11 12:58:31] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-07-11 12:46:17] refactor(ui): elevate glassmorphism tokens & dark elevation

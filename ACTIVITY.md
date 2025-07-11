@@ -2147,3 +2147,4 @@
 - [2025-07-11 13:30:23] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-07-11 13:53:06] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-11 17:50:43] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-07-11 18:53:20] feat(auth): enhance biometric encryption handshake

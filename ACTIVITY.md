@@ -2164,3 +2164,4 @@
 - [2025-07-13 17:02:59] chore(deps): review upstream security patches & dependencies
 - [2025-07-13 20:02:24] refactor(domain): isolate business logic from presentation layer
 - [2025-07-13 21:35:10] test(unit): add behavioral test assertions for domain logic
+- [2025-07-13 21:06:48] refactor(clean): decouple service layer contracts

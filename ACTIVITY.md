@@ -2176,3 +2176,4 @@
 - [2025-07-14 19:03:35] feat(analytics): add real-time category distribution parser
 - [2025-07-14 20:20:51] feat(auth): enhance biometric encryption handshake
 - [2025-07-14 20:36:45] feat(telemetry): record daily performance metrics
+- [2025-07-14 20:16:38] perf(memory): eliminate memory leaks in stream subscriptions

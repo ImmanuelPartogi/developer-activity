@@ -2182,3 +2182,4 @@
 - [2025-07-15 16:54:29] fix(layout): adjust squircle corner radii and padding
 - [2025-07-15 17:55:03] fix(navigation): optimize pushReplacement transition timing
 - [2025-07-15 18:41:14] feat(core): optimize reactive state flow lifecycle
+- [2025-07-15 19:17:40] refactor(ui): elevate glassmorphism tokens & dark elevation

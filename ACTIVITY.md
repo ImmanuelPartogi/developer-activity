@@ -2180,3 +2180,4 @@
 - [2025-07-15 08:25:40] test(benchmark): execute flame chart micro-benchmarks
 - [2025-07-15 12:59:52] feat(telemetry): record daily performance metrics
 - [2025-07-15 16:54:29] fix(layout): adjust squircle corner radii and padding
+- [2025-07-15 17:55:03] fix(navigation): optimize pushReplacement transition timing

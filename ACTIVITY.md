@@ -2183,3 +2183,4 @@
 - [2025-07-15 17:55:03] fix(navigation): optimize pushReplacement transition timing
 - [2025-07-15 18:41:14] feat(core): optimize reactive state flow lifecycle
 - [2025-07-15 19:17:40] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-07-15 21:20:12] refactor(domain): isolate business logic from presentation layer

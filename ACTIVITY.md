@@ -2188,3 +2188,4 @@
 - [2025-07-15 21:27:59] feat(cache): implement two-tier memory and persistent cache
 - [2025-07-16 10:03:45] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-16 12:01:52] chore(deps): review upstream security patches & dependencies
+- [2025-07-16 13:13:31] refactor(clean): decouple service layer contracts

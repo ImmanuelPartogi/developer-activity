@@ -2190,3 +2190,4 @@
 - [2025-07-16 12:01:52] chore(deps): review upstream security patches & dependencies
 - [2025-07-16 13:13:31] refactor(clean): decouple service layer contracts
 - [2025-07-16 14:08:11] feat(core): optimize reactive state flow lifecycle
+- [2025-07-16 14:56:43] feat(sync): add offline outbox synchronization worker

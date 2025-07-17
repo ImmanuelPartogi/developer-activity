@@ -2203,3 +2203,4 @@
 - [2025-07-17 15:53:40] test(integration): verify cross-platform pipeline integrity
 - [2025-07-17 15:46:11] style(theme): refine sapphire and cyan accent palette
 - [2025-07-17 16:22:41] feat(analytics): add real-time category distribution parser
+- [2025-07-17 17:05:46] refactor(domain): isolate business logic from presentation layer

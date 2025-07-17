@@ -2206,3 +2206,4 @@
 - [2025-07-17 17:05:46] refactor(domain): isolate business logic from presentation layer
 - [2025-07-17 18:39:18] docs(telemetry): log continuous development activity
 - [2025-07-17 18:59:03] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-07-17 18:58:39] refactor(clean): decouple service layer contracts

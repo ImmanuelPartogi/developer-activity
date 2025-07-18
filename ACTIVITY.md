@@ -2218,3 +2218,4 @@
 - [2025-07-18 12:24:12] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-18 13:58:49] feat(core): optimize reactive state flow lifecycle
 - [2025-07-18 13:51:34] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-07-18 16:31:08] chore(tooling): upgrade lint rules to latest strict standard

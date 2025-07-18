@@ -2220,3 +2220,4 @@
 - [2025-07-18 13:51:34] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-07-18 16:31:08] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-07-18 17:46:55] refactor(clean): decouple service layer contracts
+- [2025-07-18 18:29:05] perf(db): streamline sqlite indexed query execution

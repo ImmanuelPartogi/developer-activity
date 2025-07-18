@@ -2219,3 +2219,4 @@
 - [2025-07-18 13:58:49] feat(core): optimize reactive state flow lifecycle
 - [2025-07-18 13:51:34] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-07-18 16:31:08] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-07-18 17:46:55] refactor(clean): decouple service layer contracts

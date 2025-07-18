@@ -2217,3 +2217,4 @@
 - [2025-07-18 10:08:11] refactor(clean): decouple service layer contracts
 - [2025-07-18 12:24:12] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-18 13:58:49] feat(core): optimize reactive state flow lifecycle
+- [2025-07-18 13:51:34] fix(nullsafety): resolve edge-case nullable dereference

@@ -2228,3 +2228,4 @@
 - [2025-07-19 11:15:48] refactor(domain): isolate business logic from presentation layer
 - [2025-07-19 12:04:47] fix(navigation): optimize pushReplacement transition timing
 - [2025-07-19 13:14:02] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-07-19 14:09:49] feat(sync): add offline outbox synchronization worker

@@ -2226,3 +2226,4 @@
 - [2025-07-19 08:16:02] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-07-19 08:20:03] feat(cache): implement two-tier memory and persistent cache
 - [2025-07-19 11:15:48] refactor(domain): isolate business logic from presentation layer
+- [2025-07-19 12:04:47] fix(navigation): optimize pushReplacement transition timing

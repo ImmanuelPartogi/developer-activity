@@ -2230,3 +2230,4 @@
 - [2025-07-19 13:14:02] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-07-19 14:09:49] feat(sync): add offline outbox synchronization worker
 - [2025-07-19 17:29:58] feat(auth): enhance biometric encryption handshake
+- [2025-07-19 19:43:26] perf(memory): eliminate memory leaks in stream subscriptions

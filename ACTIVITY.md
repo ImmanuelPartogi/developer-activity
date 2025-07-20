@@ -2239,3 +2239,4 @@
 - [2025-07-20 12:15:22] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-07-20 12:00:28] feat(telemetry): record daily performance metrics
 - [2025-07-20 15:17:54] style(theme): refine sapphire and cyan accent palette
+- [2025-07-20 16:36:06] refactor(clean): decouple service layer contracts

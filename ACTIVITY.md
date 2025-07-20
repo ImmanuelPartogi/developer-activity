@@ -2241,3 +2241,4 @@
 - [2025-07-20 15:17:54] style(theme): refine sapphire and cyan accent palette
 - [2025-07-20 16:36:06] refactor(clean): decouple service layer contracts
 - [2025-07-20 16:45:23] perf(db): streamline sqlite indexed query execution
+- [2025-07-20 21:30:17] perf(render): minimize widget rebuild tree overhead

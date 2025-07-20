@@ -2240,3 +2240,4 @@
 - [2025-07-20 12:00:28] feat(telemetry): record daily performance metrics
 - [2025-07-20 15:17:54] style(theme): refine sapphire and cyan accent palette
 - [2025-07-20 16:36:06] refactor(clean): decouple service layer contracts
+- [2025-07-20 16:45:23] perf(db): streamline sqlite indexed query execution

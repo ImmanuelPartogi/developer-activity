@@ -2269,3 +2269,4 @@
 - [2025-07-23 08:31:53] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-07-23 09:36:27] style(theme): refine sapphire and cyan accent palette
 - [2025-07-23 09:29:37] feat(telemetry): record daily performance metrics
+- [2025-07-23 09:55:30] perf(memory): eliminate memory leaks in stream subscriptions

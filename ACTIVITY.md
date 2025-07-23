@@ -2277,3 +2277,4 @@
 - [2025-07-23 17:44:21] style(theme): refine sapphire and cyan accent palette
 - [2025-07-23 17:24:55] feat(analytics): add real-time category distribution parser
 - [2025-07-23 18:19:52] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-07-23 20:23:43] perf(render): minimize widget rebuild tree overhead

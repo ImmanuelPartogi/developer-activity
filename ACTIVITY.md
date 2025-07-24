@@ -2286,3 +2286,4 @@
 - [2025-07-24 13:51:00] test(integration): verify cross-platform pipeline integrity
 - [2025-07-24 17:23:34] feat(telemetry): record daily performance metrics
 - [2025-07-24 17:49:20] feat(analytics): add real-time category distribution parser
+- [2025-07-24 18:15:46] perf(memory): eliminate memory leaks in stream subscriptions

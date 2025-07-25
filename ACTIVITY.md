@@ -2295,3 +2295,4 @@
 - [2025-07-25 15:07:42] fix(navigation): optimize pushReplacement transition timing
 - [2025-07-25 17:59:35] style(theme): refine sapphire and cyan accent palette
 - [2025-07-25 18:56:38] style(theme): refine sapphire and cyan accent palette
+- [2025-07-25 18:57:50] feat(sync): add offline outbox synchronization worker

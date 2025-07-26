@@ -2298,3 +2298,4 @@
 - [2025-07-25 18:57:50] feat(sync): add offline outbox synchronization worker
 - [2025-07-25 19:46:13] docs(arch): update repository architectural blueprint
 - [2025-07-25 20:29:04] feat(core): optimize reactive state flow lifecycle
+- [2025-07-26 09:09:49] fix(layout): adjust squircle corner radii and padding

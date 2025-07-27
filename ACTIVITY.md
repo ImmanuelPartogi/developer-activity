@@ -2307,3 +2307,4 @@
 - [2025-07-26 20:16:49] feat(cache): implement two-tier memory and persistent cache
 - [2025-07-27 08:25:37] perf(db): streamline sqlite indexed query execution
 - [2025-07-27 09:21:08] feat(sync): add offline outbox synchronization worker
+- [2025-07-27 09:19:54] perf(memory): eliminate memory leaks in stream subscriptions

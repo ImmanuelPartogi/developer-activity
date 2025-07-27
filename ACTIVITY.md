@@ -2311,3 +2311,4 @@
 - [2025-07-27 10:33:24] perf(db): streamline sqlite indexed query execution
 - [2025-07-27 15:52:41] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-07-27 18:46:00] feat(core): optimize reactive state flow lifecycle
+- [2025-07-27 19:02:23] docs(arch): update repository architectural blueprint

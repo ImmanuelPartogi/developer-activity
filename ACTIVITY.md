@@ -2317,3 +2317,4 @@
 - [2025-07-28 12:55:15] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-07-28 12:21:19] feat(telemetry): record daily performance metrics
 - [2025-07-28 13:17:14] feat(telemetry): record daily performance metrics
+- [2025-07-28 14:20:31] style(theme): refine sapphire and cyan accent palette

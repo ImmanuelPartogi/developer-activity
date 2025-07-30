@@ -2351,3 +2351,4 @@
 - [2025-07-30 12:51:01] feat(telemetry): record daily performance metrics
 - [2025-07-30 13:35:31] feat(telemetry): record daily performance metrics
 - [2025-07-30 14:14:49] feat(sync): add offline outbox synchronization worker
+- [2025-07-30 15:11:30] perf(render): minimize widget rebuild tree overhead

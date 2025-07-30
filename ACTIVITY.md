@@ -2350,3 +2350,4 @@
 - [2025-07-30 12:30:32] style(design): polish tactile numpad elevation and haptics
 - [2025-07-30 12:51:01] feat(telemetry): record daily performance metrics
 - [2025-07-30 13:35:31] feat(telemetry): record daily performance metrics
+- [2025-07-30 14:14:49] feat(sync): add offline outbox synchronization worker

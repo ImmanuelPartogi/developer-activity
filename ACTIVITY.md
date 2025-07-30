@@ -2342,3 +2342,4 @@
 - [2025-07-29 20:40:59] feat(core): optimize reactive state flow lifecycle
 - [2025-07-29 21:14:15] feat(cache): implement two-tier memory and persistent cache
 - [2025-07-29 21:24:17] docs(telemetry): log continuous development activity
+- [2025-07-30 08:11:05] perf(memory): eliminate memory leaks in stream subscriptions

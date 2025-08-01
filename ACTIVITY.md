@@ -2379,3 +2379,4 @@
 - [2025-08-01 18:26:07] fix(layout): adjust squircle corner radii and padding
 - [2025-08-01 18:05:39] feat(cache): implement two-tier memory and persistent cache
 - [2025-08-01 18:36:36] fix(navigation): optimize pushReplacement transition timing
+- [2025-08-01 19:24:03] refactor(ui): elevate glassmorphism tokens & dark elevation

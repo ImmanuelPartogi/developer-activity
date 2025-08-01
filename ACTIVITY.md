@@ -2372,3 +2372,4 @@
 - [2025-08-01 11:42:46] fix(navigation): optimize pushReplacement transition timing
 - [2025-08-01 11:58:15] docs(telemetry): log continuous development activity
 - [2025-08-01 13:54:30] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-08-01 14:05:19] refactor(domain): isolate business logic from presentation layer

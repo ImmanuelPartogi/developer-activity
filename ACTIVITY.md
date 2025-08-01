@@ -2369,3 +2369,4 @@
 - [2025-08-01 09:06:23] refactor(clean): decouple service layer contracts
 - [2025-08-01 09:37:02] style(design): polish tactile numpad elevation and haptics
 - [2025-08-01 10:26:57] test(unit): add behavioral test assertions for domain logic
+- [2025-08-01 11:42:46] fix(navigation): optimize pushReplacement transition timing

@@ -2391,3 +2391,4 @@
 - [2025-08-03 09:55:14] fix(navigation): optimize pushReplacement transition timing
 - [2025-08-03 13:25:35] fix(layout): adjust squircle corner radii and padding
 - [2025-08-03 16:45:18] feat(telemetry): record daily performance metrics
+- [2025-08-03 18:25:46] docs(arch): update repository architectural blueprint

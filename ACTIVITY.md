@@ -2392,3 +2392,4 @@
 - [2025-08-03 13:25:35] fix(layout): adjust squircle corner radii and padding
 - [2025-08-03 16:45:18] feat(telemetry): record daily performance metrics
 - [2025-08-03 18:25:46] docs(arch): update repository architectural blueprint
+- [2025-08-03 19:08:15] refactor(domain): isolate business logic from presentation layer

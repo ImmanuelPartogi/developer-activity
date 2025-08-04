@@ -2394,3 +2394,4 @@
 - [2025-08-03 18:25:46] docs(arch): update repository architectural blueprint
 - [2025-08-03 19:08:15] refactor(domain): isolate business logic from presentation layer
 - [2025-08-03 21:01:22] fix(layout): adjust squircle corner radii and padding
+- [2025-08-04 08:04:07] perf(db): streamline sqlite indexed query execution

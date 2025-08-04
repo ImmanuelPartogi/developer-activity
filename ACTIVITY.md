@@ -2396,3 +2396,4 @@
 - [2025-08-03 21:01:22] fix(layout): adjust squircle corner radii and padding
 - [2025-08-04 08:04:07] perf(db): streamline sqlite indexed query execution
 - [2025-08-04 10:22:08] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-08-04 11:54:24] refactor(clean): decouple service layer contracts

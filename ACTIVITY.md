@@ -2400,3 +2400,4 @@
 - [2025-08-04 11:07:17] fix(navigation): optimize pushReplacement transition timing
 - [2025-08-04 11:01:36] feat(analytics): add real-time category distribution parser
 - [2025-08-04 11:35:02] style(theme): refine sapphire and cyan accent palette
+- [2025-08-04 11:48:11] refactor(clean): decouple service layer contracts

@@ -2407,3 +2407,4 @@
 - [2025-08-04 17:05:14] feat(telemetry): record daily performance metrics
 - [2025-08-04 18:21:44] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-04 18:43:41] chore(deps): review upstream security patches & dependencies
+- [2025-08-05 08:03:08] feat(core): optimize reactive state flow lifecycle

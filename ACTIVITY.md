@@ -2420,3 +2420,4 @@
 - [2025-08-05 16:46:00] test(benchmark): execute flame chart micro-benchmarks
 - [2025-08-05 16:20:27] feat(core): optimize reactive state flow lifecycle
 - [2025-08-05 20:44:21] docs(arch): update repository architectural blueprint
+- [2025-08-05 20:19:38] fix(navigation): optimize pushReplacement transition timing

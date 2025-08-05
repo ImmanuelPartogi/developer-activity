@@ -2410,3 +2410,4 @@
 - [2025-08-05 08:03:08] feat(core): optimize reactive state flow lifecycle
 - [2025-08-05 10:05:43] chore(deps): review upstream security patches & dependencies
 - [2025-08-05 10:42:05] feat(telemetry): record daily performance metrics
+- [2025-08-05 10:52:39] refactor(domain): isolate business logic from presentation layer

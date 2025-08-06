@@ -2432,3 +2432,4 @@
 - [2025-08-06 15:06:45] test(integration): verify cross-platform pipeline integrity
 - [2025-08-06 18:01:28] style(theme): refine sapphire and cyan accent palette
 - [2025-08-06 18:51:24] style(design): polish tactile numpad elevation and haptics
+- [2025-08-06 20:15:24] perf(memory): eliminate memory leaks in stream subscriptions

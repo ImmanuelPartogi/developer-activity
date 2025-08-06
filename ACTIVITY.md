@@ -2425,3 +2425,4 @@
 - [2025-08-06 09:12:47] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-08-06 09:33:26] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-08-06 09:27:16] fix(navigation): optimize pushReplacement transition timing
+- [2025-08-06 12:49:50] feat(sync): add offline outbox synchronization worker

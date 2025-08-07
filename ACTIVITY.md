@@ -2438,3 +2438,4 @@
 - [2025-08-07 10:49:54] test(integration): verify cross-platform pipeline integrity
 - [2025-08-07 10:39:53] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-08-07 10:44:43] feat(analytics): add real-time category distribution parser
+- [2025-08-07 12:04:58] perf(memory): eliminate memory leaks in stream subscriptions

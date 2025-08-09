@@ -2459,3 +2459,4 @@
 - [2025-08-08 21:04:36] chore(deps): review upstream security patches & dependencies
 - [2025-08-09 08:05:49] feat(analytics): add real-time category distribution parser
 - [2025-08-09 08:06:19] feat(core): optimize reactive state flow lifecycle
+- [2025-08-09 12:13:32] fix(nullsafety): resolve edge-case nullable dereference

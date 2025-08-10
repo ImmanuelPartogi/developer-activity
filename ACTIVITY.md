@@ -2471,3 +2471,4 @@
 - [2025-08-10 16:01:52] style(design): polish tactile numpad elevation and haptics
 - [2025-08-10 17:52:48] feat(cache): implement two-tier memory and persistent cache
 - [2025-08-10 19:02:54] test(unit): add behavioral test assertions for domain logic
+- [2025-08-10 21:26:16] fix(navigation): optimize pushReplacement transition timing

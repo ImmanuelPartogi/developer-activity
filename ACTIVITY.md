@@ -2466,3 +2466,4 @@
 - [2025-08-09 16:06:12] feat(sync): add offline outbox synchronization worker
 - [2025-08-09 18:37:30] test(benchmark): execute flame chart micro-benchmarks
 - [2025-08-09 19:07:28] feat(core): optimize reactive state flow lifecycle
+- [2025-08-10 14:02:08] perf(memory): eliminate memory leaks in stream subscriptions

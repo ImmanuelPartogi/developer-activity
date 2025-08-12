@@ -2495,3 +2495,4 @@
 - [2025-08-12 18:29:02] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-08-12 19:38:59] docs(telemetry): log continuous development activity
 - [2025-08-12 20:34:58] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-08-12 20:16:42] refactor(domain): isolate business logic from presentation layer

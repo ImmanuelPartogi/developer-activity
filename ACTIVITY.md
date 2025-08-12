@@ -2488,3 +2488,4 @@
 - [2025-08-11 21:47:17] feat(sync): add offline outbox synchronization worker
 - [2025-08-12 11:34:26] test(benchmark): execute flame chart micro-benchmarks
 - [2025-08-12 15:14:35] perf(render): minimize widget rebuild tree overhead
+- [2025-08-12 15:30:44] perf(memory): eliminate memory leaks in stream subscriptions

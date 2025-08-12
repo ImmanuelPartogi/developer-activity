@@ -2491,3 +2491,4 @@
 - [2025-08-12 15:30:44] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-12 15:19:21] style(theme): refine sapphire and cyan accent palette
 - [2025-08-12 17:17:12] perf(db): streamline sqlite indexed query execution
+- [2025-08-12 18:22:14] docs(arch): update repository architectural blueprint

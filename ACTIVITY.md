@@ -2509,3 +2509,4 @@
 - [2025-08-13 16:38:23] feat(cache): implement two-tier memory and persistent cache
 - [2025-08-13 16:16:20] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-13 16:09:51] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-08-13 16:02:37] fix(nullsafety): resolve edge-case nullable dereference

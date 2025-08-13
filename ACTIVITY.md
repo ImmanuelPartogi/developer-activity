@@ -2502,3 +2502,4 @@
 - [2025-08-13 08:42:30] style(theme): refine sapphire and cyan accent palette
 - [2025-08-13 10:30:19] test(unit): add behavioral test assertions for domain logic
 - [2025-08-13 10:02:37] chore(deps): review upstream security patches & dependencies
+- [2025-08-13 11:36:58] fix(nullsafety): resolve edge-case nullable dereference

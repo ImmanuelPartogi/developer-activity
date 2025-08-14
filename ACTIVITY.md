@@ -2515,3 +2515,4 @@
 - [2025-08-14 09:12:21] feat(auth): enhance biometric encryption handshake
 - [2025-08-14 11:04:43] perf(db): streamline sqlite indexed query execution
 - [2025-08-14 11:58:11] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-08-14 13:41:09] fix(navigation): optimize pushReplacement transition timing

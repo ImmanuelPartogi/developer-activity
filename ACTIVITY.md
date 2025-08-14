@@ -2517,3 +2517,4 @@
 - [2025-08-14 11:58:11] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-08-14 13:41:09] fix(navigation): optimize pushReplacement transition timing
 - [2025-08-14 15:10:30] test(integration): verify cross-platform pipeline integrity
+- [2025-08-14 15:40:17] fix(navigation): optimize pushReplacement transition timing

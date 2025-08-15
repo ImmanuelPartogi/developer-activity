@@ -2531,3 +2531,4 @@
 - [2025-08-15 16:17:14] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-08-15 17:58:29] feat(telemetry): record daily performance metrics
 - [2025-08-15 18:42:24] style(design): polish tactile numpad elevation and haptics
+- [2025-08-15 20:22:55] feat(sync): add offline outbox synchronization worker

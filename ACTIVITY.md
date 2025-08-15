@@ -2532,3 +2532,4 @@
 - [2025-08-15 17:58:29] feat(telemetry): record daily performance metrics
 - [2025-08-15 18:42:24] style(design): polish tactile numpad elevation and haptics
 - [2025-08-15 20:22:55] feat(sync): add offline outbox synchronization worker
+- [2025-08-15 20:17:03] feat(core): optimize reactive state flow lifecycle

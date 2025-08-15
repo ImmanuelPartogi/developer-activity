@@ -2525,3 +2525,4 @@
 - [2025-08-15 11:34:19] docs(arch): update repository architectural blueprint
 - [2025-08-15 12:43:13] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-08-15 13:43:12] feat(sync): add offline outbox synchronization worker
+- [2025-08-15 13:48:20] fix(navigation): optimize pushReplacement transition timing

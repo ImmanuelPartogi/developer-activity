@@ -2552,3 +2552,4 @@
 - [2025-08-17 18:44:16] feat(telemetry): record daily performance metrics
 - [2025-08-17 20:21:12] test(benchmark): execute flame chart micro-benchmarks
 - [2025-08-18 08:17:48] docs(arch): update repository architectural blueprint
+- [2025-08-18 10:06:51] fix(navigation): optimize pushReplacement transition timing

@@ -2570,3 +2570,4 @@
 - [2025-08-19 13:08:30] fix(navigation): optimize pushReplacement transition timing
 - [2025-08-19 16:19:15] fix(layout): adjust squircle corner radii and padding
 - [2025-08-19 16:38:52] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-08-19 17:26:34] feat(sync): add offline outbox synchronization worker

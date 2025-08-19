@@ -2575,3 +2575,4 @@
 - [2025-08-19 19:03:15] chore(deps): review upstream security patches & dependencies
 - [2025-08-19 19:09:44] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-19 20:21:26] fix(layout): adjust squircle corner radii and padding
+- [2025-08-19 20:18:42] feat(core): optimize reactive state flow lifecycle

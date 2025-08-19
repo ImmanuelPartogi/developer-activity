@@ -2563,3 +2563,4 @@
 - [2025-08-18 19:27:30] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-08-18 19:04:16] test(benchmark): execute flame chart micro-benchmarks
 - [2025-08-19 08:52:04] perf(render): minimize widget rebuild tree overhead
+- [2025-08-19 09:33:02] fix(navigation): optimize pushReplacement transition timing

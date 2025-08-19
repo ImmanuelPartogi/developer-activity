@@ -2573,3 +2573,4 @@
 - [2025-08-19 17:26:34] feat(sync): add offline outbox synchronization worker
 - [2025-08-19 19:17:21] feat(core): optimize reactive state flow lifecycle
 - [2025-08-19 19:03:15] chore(deps): review upstream security patches & dependencies
+- [2025-08-19 19:09:44] perf(memory): eliminate memory leaks in stream subscriptions

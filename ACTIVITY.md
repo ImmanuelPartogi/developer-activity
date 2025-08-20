@@ -2577,3 +2577,4 @@
 - [2025-08-19 20:21:26] fix(layout): adjust squircle corner radii and padding
 - [2025-08-19 20:18:42] feat(core): optimize reactive state flow lifecycle
 - [2025-08-19 21:56:34] docs(telemetry): log continuous development activity
+- [2025-08-20 08:42:46] fix(navigation): optimize pushReplacement transition timing

@@ -2591,3 +2591,4 @@
 - [2025-08-21 13:13:09] docs(telemetry): log continuous development activity
 - [2025-08-21 13:37:41] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-21 15:11:02] feat(sync): add offline outbox synchronization worker
+- [2025-08-21 16:37:40] chore(deps): review upstream security patches & dependencies

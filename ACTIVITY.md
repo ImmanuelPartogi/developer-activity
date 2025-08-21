@@ -2587,3 +2587,4 @@
 - [2025-08-20 15:49:09] chore(deps): review upstream security patches & dependencies
 - [2025-08-20 16:43:19] perf(db): streamline sqlite indexed query execution
 - [2025-08-21 10:39:30] fix(navigation): optimize pushReplacement transition timing
+- [2025-08-21 12:26:05] fix(navigation): optimize pushReplacement transition timing

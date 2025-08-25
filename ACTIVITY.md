@@ -2632,3 +2632,4 @@
 - [2025-08-25 15:57:16] feat(analytics): add real-time category distribution parser
 - [2025-08-25 15:16:24] style(design): polish tactile numpad elevation and haptics
 - [2025-08-25 17:54:59] perf(render): minimize widget rebuild tree overhead
+- [2025-08-25 17:44:28] fix(layout): adjust squircle corner radii and padding

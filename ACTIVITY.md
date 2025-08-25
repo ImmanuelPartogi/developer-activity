@@ -2625,3 +2625,4 @@
 - [2025-08-24 20:50:51] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-08-25 08:17:50] chore(deps): review upstream security patches & dependencies
 - [2025-08-25 13:34:07] fix(layout): adjust squircle corner radii and padding
+- [2025-08-25 15:11:11] feat(sync): add offline outbox synchronization worker

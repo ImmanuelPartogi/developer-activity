@@ -2637,3 +2637,4 @@
 - [2025-08-25 18:58:43] feat(auth): enhance biometric encryption handshake
 - [2025-08-25 18:15:02] perf(render): minimize widget rebuild tree overhead
 - [2025-08-25 18:32:38] feat(auth): enhance biometric encryption handshake
+- [2025-08-25 21:26:39] refactor(domain): isolate business logic from presentation layer

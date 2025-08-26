@@ -2640,3 +2640,4 @@
 - [2025-08-25 21:26:39] refactor(domain): isolate business logic from presentation layer
 - [2025-08-25 21:32:46] chore(deps): review upstream security patches & dependencies
 - [2025-08-26 09:47:51] style(design): polish tactile numpad elevation and haptics
+- [2025-08-26 10:53:45] chore(tooling): upgrade lint rules to latest strict standard

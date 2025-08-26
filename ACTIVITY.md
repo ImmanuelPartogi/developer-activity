@@ -2646,3 +2646,4 @@
 - [2025-08-26 14:19:04] test(integration): verify cross-platform pipeline integrity
 - [2025-08-26 15:08:44] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-26 16:17:22] test(integration): verify cross-platform pipeline integrity
+- [2025-08-26 17:24:13] fix(nullsafety): resolve edge-case nullable dereference

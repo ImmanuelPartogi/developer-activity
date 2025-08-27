@@ -2655,3 +2655,4 @@
 - [2025-08-26 21:43:07] chore(deps): review upstream security patches & dependencies
 - [2025-08-27 08:54:11] refactor(clean): decouple service layer contracts
 - [2025-08-27 09:32:44] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-08-27 09:32:43] docs(arch): update repository architectural blueprint

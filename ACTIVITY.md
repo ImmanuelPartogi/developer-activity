@@ -2660,3 +2660,4 @@
 - [2025-08-27 13:08:26] feat(auth): enhance biometric encryption handshake
 - [2025-08-27 14:24:52] style(design): polish tactile numpad elevation and haptics
 - [2025-08-27 15:24:36] perf(db): streamline sqlite indexed query execution
+- [2025-08-27 15:39:21] feat(sync): add offline outbox synchronization worker

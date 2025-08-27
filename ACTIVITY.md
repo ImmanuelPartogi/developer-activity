@@ -2664,3 +2664,4 @@
 - [2025-08-27 16:35:29] test(integration): verify cross-platform pipeline integrity
 - [2025-08-27 19:43:43] test(benchmark): execute flame chart micro-benchmarks
 - [2025-08-27 20:05:42] feat(sync): add offline outbox synchronization worker
+- [2025-08-27 21:54:23] perf(memory): eliminate memory leaks in stream subscriptions

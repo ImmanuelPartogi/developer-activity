@@ -2667,3 +2667,4 @@
 - [2025-08-27 21:54:23] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-08-28 09:26:44] style(design): polish tactile numpad elevation and haptics
 - [2025-08-28 09:04:50] perf(render): minimize widget rebuild tree overhead
+- [2025-08-28 11:43:17] fix(layout): adjust squircle corner radii and padding

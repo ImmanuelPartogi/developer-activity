@@ -2682,3 +2682,4 @@
 - [2025-08-29 11:49:59] style(design): polish tactile numpad elevation and haptics
 - [2025-08-29 11:48:49] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-08-29 11:22:42] feat(sync): add offline outbox synchronization worker
+- [2025-08-29 12:21:14] feat(telemetry): record daily performance metrics

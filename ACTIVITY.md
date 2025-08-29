@@ -2681,3 +2681,4 @@
 - [2025-08-29 10:09:44] docs(telemetry): log continuous development activity
 - [2025-08-29 11:49:59] style(design): polish tactile numpad elevation and haptics
 - [2025-08-29 11:48:49] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-08-29 11:22:42] feat(sync): add offline outbox synchronization worker

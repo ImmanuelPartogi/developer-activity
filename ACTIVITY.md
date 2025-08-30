@@ -2696,3 +2696,4 @@
 - [2025-08-30 12:45:39] feat(core): optimize reactive state flow lifecycle
 - [2025-08-30 13:48:15] docs(telemetry): log continuous development activity
 - [2025-08-30 16:22:16] docs(arch): update repository architectural blueprint
+- [2025-08-30 21:40:35] fix(navigation): optimize pushReplacement transition timing

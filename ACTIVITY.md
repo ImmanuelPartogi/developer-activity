@@ -2702,3 +2702,4 @@
 - [2025-08-31 11:10:37] refactor(clean): decouple service layer contracts
 - [2025-08-31 11:52:18] refactor(domain): isolate business logic from presentation layer
 - [2025-08-31 13:08:21] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-08-31 15:28:43] refactor(ui): elevate glassmorphism tokens & dark elevation

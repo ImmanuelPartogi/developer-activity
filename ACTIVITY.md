@@ -2701,3 +2701,4 @@
 - [2025-08-31 09:24:41] feat(analytics): add real-time category distribution parser
 - [2025-08-31 11:10:37] refactor(clean): decouple service layer contracts
 - [2025-08-31 11:52:18] refactor(domain): isolate business logic from presentation layer
+- [2025-08-31 13:08:21] perf(memory): eliminate memory leaks in stream subscriptions

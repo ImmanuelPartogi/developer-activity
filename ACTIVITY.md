@@ -2714,3 +2714,4 @@
 - [2025-09-01 16:24:26] feat(sync): add offline outbox synchronization worker
 - [2025-09-01 18:45:46] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-01 18:17:45] perf(db): streamline sqlite indexed query execution
+- [2025-09-01 19:16:46] feat(core): optimize reactive state flow lifecycle

@@ -2717,3 +2717,4 @@
 - [2025-09-01 19:16:46] feat(core): optimize reactive state flow lifecycle
 - [2025-09-02 08:31:52] feat(telemetry): record daily performance metrics
 - [2025-09-02 08:40:10] feat(analytics): add real-time category distribution parser
+- [2025-09-02 09:27:54] fix(nullsafety): resolve edge-case nullable dereference

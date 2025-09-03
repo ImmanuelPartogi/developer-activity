@@ -2725,3 +2725,4 @@
 - [2025-09-02 16:41:48] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-02 19:33:44] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-02 21:06:55] feat(sync): add offline outbox synchronization worker
+- [2025-09-03 08:06:52] docs(arch): update repository architectural blueprint

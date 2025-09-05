@@ -2757,3 +2757,4 @@
 - [2025-09-04 21:06:45] chore(deps): review upstream security patches & dependencies
 - [2025-09-05 08:48:35] feat(analytics): add real-time category distribution parser
 - [2025-09-05 08:33:39] feat(auth): enhance biometric encryption handshake
+- [2025-09-05 08:59:32] fix(nullsafety): resolve edge-case nullable dereference

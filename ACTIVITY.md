@@ -2764,3 +2764,4 @@
 - [2025-09-05 13:32:51] style(theme): refine sapphire and cyan accent palette
 - [2025-09-05 13:42:33] chore(deps): review upstream security patches & dependencies
 - [2025-09-05 14:23:59] feat(cache): implement two-tier memory and persistent cache
+- [2025-09-05 17:00:42] fix(layout): adjust squircle corner radii and padding

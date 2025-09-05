@@ -2765,3 +2765,4 @@
 - [2025-09-05 13:42:33] chore(deps): review upstream security patches & dependencies
 - [2025-09-05 14:23:59] feat(cache): implement two-tier memory and persistent cache
 - [2025-09-05 17:00:42] fix(layout): adjust squircle corner radii and padding
+- [2025-09-05 20:42:55] perf(memory): eliminate memory leaks in stream subscriptions

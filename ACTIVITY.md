@@ -2763,3 +2763,4 @@
 - [2025-09-05 12:02:43] style(design): polish tactile numpad elevation and haptics
 - [2025-09-05 13:32:51] style(theme): refine sapphire and cyan accent palette
 - [2025-09-05 13:42:33] chore(deps): review upstream security patches & dependencies
+- [2025-09-05 14:23:59] feat(cache): implement two-tier memory and persistent cache

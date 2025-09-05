@@ -2766,3 +2766,4 @@
 - [2025-09-05 14:23:59] feat(cache): implement two-tier memory and persistent cache
 - [2025-09-05 17:00:42] fix(layout): adjust squircle corner radii and padding
 - [2025-09-05 20:42:55] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-09-05 21:11:48] perf(db): streamline sqlite indexed query execution

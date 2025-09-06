@@ -2768,3 +2768,4 @@
 - [2025-09-05 20:42:55] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-09-05 21:11:48] perf(db): streamline sqlite indexed query execution
 - [2025-09-06 09:28:33] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-09-06 12:45:46] fix(nullsafety): resolve edge-case nullable dereference

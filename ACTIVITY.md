@@ -2779,3 +2779,4 @@
 - [2025-09-06 20:36:00] feat(telemetry): record daily performance metrics
 - [2025-09-07 08:10:14] style(design): polish tactile numpad elevation and haptics
 - [2025-09-07 08:12:07] docs(arch): update repository architectural blueprint
+- [2025-09-07 08:35:46] refactor(ui): elevate glassmorphism tokens & dark elevation

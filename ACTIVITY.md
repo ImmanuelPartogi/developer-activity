@@ -2785,3 +2785,4 @@
 - [2025-09-07 13:03:03] feat(core): optimize reactive state flow lifecycle
 - [2025-09-07 14:55:22] feat(telemetry): record daily performance metrics
 - [2025-09-07 21:40:22] feat(analytics): add real-time category distribution parser
+- [2025-09-07 21:56:31] fix(navigation): optimize pushReplacement transition timing

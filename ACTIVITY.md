@@ -2787,3 +2787,4 @@
 - [2025-09-07 21:40:22] feat(analytics): add real-time category distribution parser
 - [2025-09-07 21:56:31] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-08 08:49:17] feat(auth): enhance biometric encryption handshake
+- [2025-09-08 09:37:20] refactor(clean): decouple service layer contracts

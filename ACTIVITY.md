@@ -2798,3 +2798,4 @@
 - [2025-09-09 09:44:58] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-09 12:22:24] perf(db): streamline sqlite indexed query execution
 - [2025-09-09 12:46:40] fix(navigation): optimize pushReplacement transition timing
+- [2025-09-09 12:18:52] fix(layout): adjust squircle corner radii and padding

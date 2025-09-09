@@ -2805,3 +2805,4 @@
 - [2025-09-09 16:42:08] feat(sync): add offline outbox synchronization worker
 - [2025-09-09 19:37:00] feat(cache): implement two-tier memory and persistent cache
 - [2025-09-09 20:39:43] style(theme): refine sapphire and cyan accent palette
+- [2025-09-09 20:18:01] refactor(ui): elevate glassmorphism tokens & dark elevation

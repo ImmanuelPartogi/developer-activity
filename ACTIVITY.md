@@ -2817,3 +2817,4 @@
 - [2025-09-10 10:54:27] test(benchmark): execute flame chart micro-benchmarks
 - [2025-09-10 10:39:53] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-10 12:05:38] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-09-10 13:14:05] feat(cache): implement two-tier memory and persistent cache

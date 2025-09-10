@@ -2816,3 +2816,4 @@
 - [2025-09-10 10:43:49] perf(render): minimize widget rebuild tree overhead
 - [2025-09-10 10:54:27] test(benchmark): execute flame chart micro-benchmarks
 - [2025-09-10 10:39:53] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-09-10 12:05:38] perf(memory): eliminate memory leaks in stream subscriptions

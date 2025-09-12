@@ -2837,3 +2837,4 @@
 - [2025-09-12 09:26:24] perf(db): streamline sqlite indexed query execution
 - [2025-09-12 11:21:13] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-09-12 12:48:06] test(integration): verify cross-platform pipeline integrity
+- [2025-09-12 12:10:43] perf(memory): eliminate memory leaks in stream subscriptions

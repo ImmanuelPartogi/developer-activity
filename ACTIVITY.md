@@ -2848,3 +2848,4 @@
 - [2025-09-12 21:05:15] test(unit): add behavioral test assertions for domain logic
 - [2025-09-13 08:45:31] style(theme): refine sapphire and cyan accent palette
 - [2025-09-13 12:53:37] feat(sync): add offline outbox synchronization worker
+- [2025-09-13 12:41:38] refactor(ui): elevate glassmorphism tokens & dark elevation

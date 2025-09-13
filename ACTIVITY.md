@@ -2852,3 +2852,4 @@
 - [2025-09-13 14:27:52] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-09-13 14:15:46] style(theme): refine sapphire and cyan accent palette
 - [2025-09-13 17:36:26] feat(cache): implement two-tier memory and persistent cache
+- [2025-09-13 17:46:49] perf(memory): eliminate memory leaks in stream subscriptions

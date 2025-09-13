@@ -2850,3 +2850,4 @@
 - [2025-09-13 12:53:37] feat(sync): add offline outbox synchronization worker
 - [2025-09-13 12:41:38] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-09-13 14:27:52] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-09-13 14:15:46] style(theme): refine sapphire and cyan accent palette

@@ -2849,3 +2849,4 @@
 - [2025-09-13 08:45:31] style(theme): refine sapphire and cyan accent palette
 - [2025-09-13 12:53:37] feat(sync): add offline outbox synchronization worker
 - [2025-09-13 12:41:38] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-09-13 14:27:52] perf(memory): eliminate memory leaks in stream subscriptions

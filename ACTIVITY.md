@@ -2864,3 +2864,4 @@
 - [2025-09-14 13:37:29] refactor(clean): decouple service layer contracts
 - [2025-09-14 14:41:25] fix(layout): adjust squircle corner radii and padding
 - [2025-09-14 15:16:54] feat(cache): implement two-tier memory and persistent cache
+- [2025-09-14 17:03:03] fix(navigation): optimize pushReplacement transition timing

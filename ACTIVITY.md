@@ -2863,3 +2863,4 @@
 - [2025-09-14 12:14:29] perf(db): streamline sqlite indexed query execution
 - [2025-09-14 13:37:29] refactor(clean): decouple service layer contracts
 - [2025-09-14 14:41:25] fix(layout): adjust squircle corner radii and padding
+- [2025-09-14 15:16:54] feat(cache): implement two-tier memory and persistent cache

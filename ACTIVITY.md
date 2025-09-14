@@ -2860,3 +2860,4 @@
 - [2025-09-14 08:53:53] feat(telemetry): record daily performance metrics
 - [2025-09-14 09:18:12] refactor(domain): isolate business logic from presentation layer
 - [2025-09-14 09:52:56] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-09-14 12:14:29] perf(db): streamline sqlite indexed query execution

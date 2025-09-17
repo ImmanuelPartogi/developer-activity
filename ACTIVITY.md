@@ -2901,3 +2901,4 @@
 - [2025-09-17 14:50:37] chore(deps): review upstream security patches & dependencies
 - [2025-09-17 15:56:25] test(benchmark): execute flame chart micro-benchmarks
 - [2025-09-17 16:09:23] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-09-17 17:10:35] perf(db): streamline sqlite indexed query execution

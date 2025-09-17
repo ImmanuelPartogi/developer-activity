@@ -2902,3 +2902,4 @@
 - [2025-09-17 15:56:25] test(benchmark): execute flame chart micro-benchmarks
 - [2025-09-17 16:09:23] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-17 17:10:35] perf(db): streamline sqlite indexed query execution
+- [2025-09-17 17:30:00] perf(memory): eliminate memory leaks in stream subscriptions

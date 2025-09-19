@@ -2921,3 +2921,4 @@
 - [2025-09-18 21:37:53] perf(db): streamline sqlite indexed query execution
 - [2025-09-19 11:12:41] style(design): polish tactile numpad elevation and haptics
 - [2025-09-19 13:37:39] fix(layout): adjust squircle corner radii and padding
+- [2025-09-19 13:02:36] feat(sync): add offline outbox synchronization worker

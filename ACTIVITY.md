@@ -2948,3 +2948,4 @@
 - [2025-09-21 19:34:31] feat(sync): add offline outbox synchronization worker
 - [2025-09-21 20:25:01] chore(deps): review upstream security patches & dependencies
 - [2025-09-21 21:40:11] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-09-21 21:51:16] feat(analytics): add real-time category distribution parser

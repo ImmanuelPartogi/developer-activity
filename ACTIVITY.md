@@ -2945,3 +2945,4 @@
 - [2025-09-21 11:47:56] style(theme): refine sapphire and cyan accent palette
 - [2025-09-21 14:34:31] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-21 16:00:00] perf(render): minimize widget rebuild tree overhead
+- [2025-09-21 19:34:31] feat(sync): add offline outbox synchronization worker

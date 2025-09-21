@@ -2949,3 +2949,4 @@
 - [2025-09-21 20:25:01] chore(deps): review upstream security patches & dependencies
 - [2025-09-21 21:40:11] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-21 21:51:16] feat(analytics): add real-time category distribution parser
+- [2025-09-21 21:51:28] perf(memory): eliminate memory leaks in stream subscriptions

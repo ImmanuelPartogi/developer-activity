@@ -2960,3 +2960,4 @@
 - [2025-09-22 14:45:27] test(integration): verify cross-platform pipeline integrity
 - [2025-09-22 14:22:27] refactor(domain): isolate business logic from presentation layer
 - [2025-09-22 15:27:16] docs(arch): update repository architectural blueprint
+- [2025-09-22 16:12:12] fix(navigation): optimize pushReplacement transition timing

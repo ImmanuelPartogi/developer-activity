@@ -2959,3 +2959,4 @@
 - [2025-09-22 13:22:28] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-09-22 14:45:27] test(integration): verify cross-platform pipeline integrity
 - [2025-09-22 14:22:27] refactor(domain): isolate business logic from presentation layer
+- [2025-09-22 15:27:16] docs(arch): update repository architectural blueprint

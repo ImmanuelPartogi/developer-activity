@@ -2973,3 +2973,4 @@
 - [2025-09-23 14:44:08] chore(deps): review upstream security patches & dependencies
 - [2025-09-23 16:54:51] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-09-23 16:51:53] fix(layout): adjust squircle corner radii and padding
+- [2025-09-23 19:29:45] fix(navigation): optimize pushReplacement transition timing

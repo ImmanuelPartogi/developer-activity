@@ -2979,3 +2979,4 @@
 - [2025-09-24 12:17:40] feat(auth): enhance biometric encryption handshake
 - [2025-09-24 12:44:57] feat(analytics): add real-time category distribution parser
 - [2025-09-24 12:26:29] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-09-24 14:03:57] refactor(clean): decouple service layer contracts

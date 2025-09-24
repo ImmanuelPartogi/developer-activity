@@ -2978,3 +2978,4 @@
 - [2025-09-24 10:10:40] style(theme): refine sapphire and cyan accent palette
 - [2025-09-24 12:17:40] feat(auth): enhance biometric encryption handshake
 - [2025-09-24 12:44:57] feat(analytics): add real-time category distribution parser
+- [2025-09-24 12:26:29] refactor(ui): elevate glassmorphism tokens & dark elevation

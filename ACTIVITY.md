@@ -2991,3 +2991,4 @@
 - [2025-09-25 11:58:23] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-25 11:34:52] feat(core): optimize reactive state flow lifecycle
 - [2025-09-25 14:25:47] chore(deps): review upstream security patches & dependencies
+- [2025-09-25 15:25:46] feat(auth): enhance biometric encryption handshake

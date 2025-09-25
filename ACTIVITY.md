@@ -2993,3 +2993,4 @@
 - [2025-09-25 14:25:47] chore(deps): review upstream security patches & dependencies
 - [2025-09-25 15:25:46] feat(auth): enhance biometric encryption handshake
 - [2025-09-25 15:22:09] refactor(domain): isolate business logic from presentation layer
+- [2025-09-25 15:06:02] feat(sync): add offline outbox synchronization worker

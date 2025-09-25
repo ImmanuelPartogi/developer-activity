@@ -2988,3 +2988,4 @@
 - [2025-09-24 21:33:23] feat(cache): implement two-tier memory and persistent cache
 - [2025-09-25 08:35:28] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-09-25 11:31:12] feat(auth): enhance biometric encryption handshake
+- [2025-09-25 11:58:23] fix(navigation): optimize pushReplacement transition timing

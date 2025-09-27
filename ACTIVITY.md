@@ -3011,3 +3011,4 @@
 - [2025-09-26 21:08:12] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-09-27 09:54:55] test(unit): add behavioral test assertions for domain logic
 - [2025-09-27 10:31:27] test(benchmark): execute flame chart micro-benchmarks
+- [2025-09-27 10:28:45] perf(memory): eliminate memory leaks in stream subscriptions

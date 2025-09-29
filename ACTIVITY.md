@@ -3032,3 +3032,4 @@
 - [2025-09-29 17:26:51] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-29 18:10:23] feat(core): optimize reactive state flow lifecycle
 - [2025-09-29 18:49:27] docs(arch): update repository architectural blueprint
+- [2025-09-29 20:45:29] refactor(clean): decouple service layer contracts

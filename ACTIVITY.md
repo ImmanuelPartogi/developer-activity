@@ -3028,3 +3028,4 @@
 - [2025-09-29 14:06:53] feat(analytics): add real-time category distribution parser
 - [2025-09-29 14:09:53] feat(analytics): add real-time category distribution parser
 - [2025-09-29 14:31:58] perf(render): minimize widget rebuild tree overhead
+- [2025-09-29 15:23:17] refactor(domain): isolate business logic from presentation layer

@@ -3045,3 +3045,4 @@
 - [2025-09-30 15:51:29] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-30 15:10:39] test(unit): add behavioral test assertions for domain logic
 - [2025-09-30 16:42:20] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-09-30 16:47:59] refactor(domain): isolate business logic from presentation layer

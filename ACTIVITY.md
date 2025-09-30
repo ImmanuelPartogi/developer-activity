@@ -3039,3 +3039,4 @@
 - [2025-09-30 08:58:07] fix(navigation): optimize pushReplacement transition timing
 - [2025-09-30 10:43:26] fix(layout): adjust squircle corner radii and padding
 - [2025-09-30 10:02:57] style(theme): refine sapphire and cyan accent palette
+- [2025-09-30 11:52:24] refactor(ui): elevate glassmorphism tokens & dark elevation

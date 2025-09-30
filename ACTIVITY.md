@@ -3049,3 +3049,4 @@
 - [2025-09-30 17:10:08] fix(layout): adjust squircle corner radii and padding
 - [2025-09-30 17:21:19] feat(sync): add offline outbox synchronization worker
 - [2025-09-30 17:46:33] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-09-30 18:41:49] perf(memory): eliminate memory leaks in stream subscriptions

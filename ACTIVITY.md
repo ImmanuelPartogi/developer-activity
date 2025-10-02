@@ -3071,3 +3071,4 @@
 - [2025-10-02 12:42:27] feat(auth): enhance biometric encryption handshake
 - [2025-10-02 13:04:01] feat(sync): add offline outbox synchronization worker
 - [2025-10-02 13:06:29] test(integration): verify cross-platform pipeline integrity
+- [2025-10-02 13:06:45] fix(navigation): optimize pushReplacement transition timing

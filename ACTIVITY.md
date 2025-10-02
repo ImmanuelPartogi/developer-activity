@@ -3074,3 +3074,4 @@
 - [2025-10-02 13:06:45] fix(navigation): optimize pushReplacement transition timing
 - [2025-10-02 14:58:21] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-02 17:49:25] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-10-02 18:12:33] test(unit): add behavioral test assertions for domain logic

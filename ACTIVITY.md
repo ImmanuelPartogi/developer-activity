@@ -3091,3 +3091,4 @@
 - [2025-10-04 14:53:05] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-04 19:48:44] feat(sync): add offline outbox synchronization worker
 - [2025-10-04 19:07:05] feat(auth): enhance biometric encryption handshake
+- [2025-10-04 21:15:43] perf(memory): eliminate memory leaks in stream subscriptions

@@ -3086,3 +3086,4 @@
 - [2025-10-03 17:54:54] chore(deps): review upstream security patches & dependencies
 - [2025-10-03 17:25:25] feat(cache): implement two-tier memory and persistent cache
 - [2025-10-03 17:20:52] feat(auth): enhance biometric encryption handshake
+- [2025-10-04 09:46:32] refactor(domain): isolate business logic from presentation layer

@@ -3088,3 +3088,4 @@
 - [2025-10-03 17:20:52] feat(auth): enhance biometric encryption handshake
 - [2025-10-04 09:46:32] refactor(domain): isolate business logic from presentation layer
 - [2025-10-04 12:37:28] perf(db): streamline sqlite indexed query execution
+- [2025-10-04 14:53:05] perf(memory): eliminate memory leaks in stream subscriptions

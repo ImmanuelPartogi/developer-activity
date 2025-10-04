@@ -3089,3 +3089,4 @@
 - [2025-10-04 09:46:32] refactor(domain): isolate business logic from presentation layer
 - [2025-10-04 12:37:28] perf(db): streamline sqlite indexed query execution
 - [2025-10-04 14:53:05] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-10-04 19:48:44] feat(sync): add offline outbox synchronization worker

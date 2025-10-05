@@ -3094,3 +3094,4 @@
 - [2025-10-04 21:15:43] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-04 21:48:15] style(theme): refine sapphire and cyan accent palette
 - [2025-10-05 08:06:12] feat(sync): add offline outbox synchronization worker
+- [2025-10-05 08:26:10] feat(sync): add offline outbox synchronization worker

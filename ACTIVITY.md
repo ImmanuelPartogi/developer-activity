@@ -3119,3 +3119,4 @@
 - [2025-10-07 18:32:29] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-10-07 18:34:01] fix(layout): adjust squircle corner radii and padding
 - [2025-10-07 19:28:27] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-10-07 20:56:51] perf(memory): eliminate memory leaks in stream subscriptions

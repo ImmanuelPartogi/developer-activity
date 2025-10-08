@@ -3131,3 +3131,4 @@
 - [2025-10-08 15:22:45] docs(arch): update repository architectural blueprint
 - [2025-10-08 16:29:22] test(integration): verify cross-platform pipeline integrity
 - [2025-10-08 16:02:50] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-10-08 16:11:44] feat(auth): enhance biometric encryption handshake

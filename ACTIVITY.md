@@ -3122,3 +3122,4 @@
 - [2025-10-07 20:56:51] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-07 21:09:44] test(integration): verify cross-platform pipeline integrity
 - [2025-10-07 21:01:51] test(unit): add behavioral test assertions for domain logic
+- [2025-10-08 09:17:13] fix(layout): adjust squircle corner radii and padding

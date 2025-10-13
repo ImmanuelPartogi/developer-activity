@@ -3187,3 +3187,4 @@
 - [2025-10-13 12:53:27] feat(sync): add offline outbox synchronization worker
 - [2025-10-13 14:53:57] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-10-13 14:10:59] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-10-13 15:02:06] refactor(clean): decouple service layer contracts

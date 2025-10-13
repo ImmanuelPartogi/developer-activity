@@ -3184,3 +3184,4 @@
 - [2025-10-13 11:31:13] style(design): polish tactile numpad elevation and haptics
 - [2025-10-13 11:34:29] feat(analytics): add real-time category distribution parser
 - [2025-10-13 12:02:28] perf(render): minimize widget rebuild tree overhead
+- [2025-10-13 12:53:27] feat(sync): add offline outbox synchronization worker

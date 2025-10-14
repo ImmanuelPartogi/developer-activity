@@ -3204,3 +3204,4 @@
 - [2025-10-14 12:26:59] feat(sync): add offline outbox synchronization worker
 - [2025-10-14 12:38:18] refactor(clean): decouple service layer contracts
 - [2025-10-14 13:52:11] docs(arch): update repository architectural blueprint
+- [2025-10-14 15:53:11] fix(navigation): optimize pushReplacement transition timing

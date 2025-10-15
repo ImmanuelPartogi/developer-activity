@@ -3223,3 +3223,4 @@
 - [2025-10-15 14:39:19] style(design): polish tactile numpad elevation and haptics
 - [2025-10-15 14:04:55] refactor(domain): isolate business logic from presentation layer
 - [2025-10-15 14:03:15] fix(layout): adjust squircle corner radii and padding
+- [2025-10-15 16:26:35] fix(nullsafety): resolve edge-case nullable dereference

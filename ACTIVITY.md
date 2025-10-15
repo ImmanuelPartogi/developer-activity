@@ -3219,3 +3219,4 @@
 - [2025-10-15 12:57:30] fix(layout): adjust squircle corner radii and padding
 - [2025-10-15 12:28:04] docs(telemetry): log continuous development activity
 - [2025-10-15 12:15:52] feat(auth): enhance biometric encryption handshake
+- [2025-10-15 13:13:35] perf(memory): eliminate memory leaks in stream subscriptions

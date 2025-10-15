@@ -3221,3 +3221,4 @@
 - [2025-10-15 12:15:52] feat(auth): enhance biometric encryption handshake
 - [2025-10-15 13:13:35] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-15 14:39:19] style(design): polish tactile numpad elevation and haptics
+- [2025-10-15 14:04:55] refactor(domain): isolate business logic from presentation layer

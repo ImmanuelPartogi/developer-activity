@@ -3231,3 +3231,4 @@
 - [2025-10-16 09:51:42] fix(layout): adjust squircle corner radii and padding
 - [2025-10-16 09:24:23] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-16 10:51:32] fix(navigation): optimize pushReplacement transition timing
+- [2025-10-16 10:26:25] refactor(clean): decouple service layer contracts

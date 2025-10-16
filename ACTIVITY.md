@@ -3229,3 +3229,4 @@
 - [2025-10-15 20:18:31] chore(deps): review upstream security patches & dependencies
 - [2025-10-16 08:03:13] docs(arch): update repository architectural blueprint
 - [2025-10-16 09:51:42] fix(layout): adjust squircle corner radii and padding
+- [2025-10-16 09:24:23] perf(memory): eliminate memory leaks in stream subscriptions

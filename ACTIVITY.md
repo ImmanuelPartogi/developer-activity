@@ -3230,3 +3230,4 @@
 - [2025-10-16 08:03:13] docs(arch): update repository architectural blueprint
 - [2025-10-16 09:51:42] fix(layout): adjust squircle corner radii and padding
 - [2025-10-16 09:24:23] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-10-16 10:51:32] fix(navigation): optimize pushReplacement transition timing

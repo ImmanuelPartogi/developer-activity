@@ -3240,3 +3240,4 @@
 - [2025-10-16 16:27:32] chore(deps): review upstream security patches & dependencies
 - [2025-10-16 17:22:01] feat(sync): add offline outbox synchronization worker
 - [2025-10-16 19:35:34] fix(layout): adjust squircle corner radii and padding
+- [2025-10-16 19:48:41] style(theme): refine sapphire and cyan accent palette

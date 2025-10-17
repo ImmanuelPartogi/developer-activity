@@ -3244,3 +3244,4 @@
 - [2025-10-16 21:02:42] perf(db): streamline sqlite indexed query execution
 - [2025-10-17 08:26:28] feat(sync): add offline outbox synchronization worker
 - [2025-10-17 12:29:00] refactor(domain): isolate business logic from presentation layer
+- [2025-10-17 13:45:08] perf(memory): eliminate memory leaks in stream subscriptions

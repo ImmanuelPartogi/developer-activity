@@ -3242,3 +3242,4 @@
 - [2025-10-16 19:35:34] fix(layout): adjust squircle corner radii and padding
 - [2025-10-16 19:48:41] style(theme): refine sapphire and cyan accent palette
 - [2025-10-16 21:02:42] perf(db): streamline sqlite indexed query execution
+- [2025-10-17 08:26:28] feat(sync): add offline outbox synchronization worker

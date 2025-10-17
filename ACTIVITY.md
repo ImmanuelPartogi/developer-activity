@@ -3247,3 +3247,4 @@
 - [2025-10-17 13:45:08] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-10-17 14:33:23] refactor(clean): decouple service layer contracts
 - [2025-10-17 14:00:33] test(unit): add behavioral test assertions for domain logic
+- [2025-10-17 14:28:11] docs(arch): update repository architectural blueprint

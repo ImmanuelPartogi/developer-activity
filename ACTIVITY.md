@@ -3265,3 +3265,4 @@
 - [2025-10-18 15:49:17] fix(layout): adjust squircle corner radii and padding
 - [2025-10-18 17:46:40] fix(layout): adjust squircle corner radii and padding
 - [2025-10-18 18:30:02] refactor(domain): isolate business logic from presentation layer
+- [2025-10-18 18:32:05] feat(sync): add offline outbox synchronization worker

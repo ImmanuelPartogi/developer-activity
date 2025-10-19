@@ -3274,3 +3274,4 @@
 - [2025-10-19 14:04:45] fix(navigation): optimize pushReplacement transition timing
 - [2025-10-19 16:41:51] refactor(clean): decouple service layer contracts
 - [2025-10-19 16:40:48] feat(sync): add offline outbox synchronization worker
+- [2025-10-19 17:58:50] docs(arch): update repository architectural blueprint

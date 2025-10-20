@@ -3279,3 +3279,4 @@
 - [2025-10-19 19:21:17] chore(deps): review upstream security patches & dependencies
 - [2025-10-19 20:01:59] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-10-19 21:34:37] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-10-20 09:33:18] fix(layout): adjust squircle corner radii and padding

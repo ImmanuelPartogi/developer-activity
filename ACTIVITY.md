@@ -3281,3 +3281,4 @@
 - [2025-10-19 21:34:37] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-10-20 09:33:18] fix(layout): adjust squircle corner radii and padding
 - [2025-10-20 10:44:04] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-10-20 12:07:50] feat(auth): enhance biometric encryption handshake

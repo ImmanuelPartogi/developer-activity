@@ -3301,3 +3301,4 @@
 - [2025-10-21 15:35:32] feat(sync): add offline outbox synchronization worker
 - [2025-10-21 15:25:56] style(design): polish tactile numpad elevation and haptics
 - [2025-10-21 16:38:40] fix(layout): adjust squircle corner radii and padding
+- [2025-10-21 17:01:44] fix(navigation): optimize pushReplacement transition timing

@@ -3300,3 +3300,4 @@
 - [2025-10-21 15:22:30] refactor(domain): isolate business logic from presentation layer
 - [2025-10-21 15:35:32] feat(sync): add offline outbox synchronization worker
 - [2025-10-21 15:25:56] style(design): polish tactile numpad elevation and haptics
+- [2025-10-21 16:38:40] fix(layout): adjust squircle corner radii and padding

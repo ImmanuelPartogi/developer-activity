@@ -3298,3 +3298,4 @@
 - [2025-10-21 13:16:00] fix(navigation): optimize pushReplacement transition timing
 - [2025-10-21 14:59:41] feat(cache): implement two-tier memory and persistent cache
 - [2025-10-21 15:22:30] refactor(domain): isolate business logic from presentation layer
+- [2025-10-21 15:35:32] feat(sync): add offline outbox synchronization worker

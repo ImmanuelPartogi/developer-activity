@@ -3308,3 +3308,4 @@
 - [2025-10-21 21:45:32] feat(core): optimize reactive state flow lifecycle
 - [2025-10-22 09:48:24] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-10-22 09:57:07] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-10-22 10:25:21] feat(sync): add offline outbox synchronization worker

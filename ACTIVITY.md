@@ -3310,3 +3310,4 @@
 - [2025-10-22 09:57:07] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-10-22 10:25:21] feat(sync): add offline outbox synchronization worker
 - [2025-10-22 11:03:51] style(design): polish tactile numpad elevation and haptics
+- [2025-10-22 15:29:05] perf(memory): eliminate memory leaks in stream subscriptions

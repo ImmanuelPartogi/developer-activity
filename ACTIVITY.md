@@ -3323,3 +3323,4 @@
 - [2025-10-23 11:14:10] style(design): polish tactile numpad elevation and haptics
 - [2025-10-23 12:35:52] test(unit): add behavioral test assertions for domain logic
 - [2025-10-23 12:53:24] perf(render): minimize widget rebuild tree overhead
+- [2025-10-23 12:51:26] refactor(clean): decouple service layer contracts

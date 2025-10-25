@@ -3353,3 +3353,4 @@
 - [2025-10-25 09:56:21] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-10-25 12:51:53] chore(deps): review upstream security patches & dependencies
 - [2025-10-25 16:11:10] feat(telemetry): record daily performance metrics
+- [2025-10-25 16:20:45] refactor(clean): decouple service layer contracts

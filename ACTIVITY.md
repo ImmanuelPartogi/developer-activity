@@ -3375,3 +3375,4 @@
 - [2025-10-27 11:47:23] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-10-27 12:55:38] feat(telemetry): record daily performance metrics
 - [2025-10-27 13:33:29] refactor(clean): decouple service layer contracts
+- [2025-10-27 15:33:10] docs(arch): update repository architectural blueprint

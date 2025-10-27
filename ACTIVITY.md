@@ -3368,3 +3368,4 @@
 - [2025-10-26 17:11:14] fix(layout): adjust squircle corner radii and padding
 - [2025-10-26 18:20:33] test(integration): verify cross-platform pipeline integrity
 - [2025-10-26 21:16:39] style(theme): refine sapphire and cyan accent palette
+- [2025-10-27 09:31:55] refactor(ui): elevate glassmorphism tokens & dark elevation

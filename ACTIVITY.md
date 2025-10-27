@@ -3372,3 +3372,4 @@
 - [2025-10-27 11:27:00] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-10-27 11:56:06] style(design): polish tactile numpad elevation and haptics
 - [2025-10-27 11:27:25] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-10-27 11:47:23] fix(nullsafety): resolve edge-case nullable dereference

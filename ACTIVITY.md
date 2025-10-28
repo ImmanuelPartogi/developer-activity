@@ -3382,3 +3382,4 @@
 - [2025-10-28 09:41:52] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-10-28 09:52:38] style(theme): refine sapphire and cyan accent palette
 - [2025-10-28 10:23:33] feat(sync): add offline outbox synchronization worker
+- [2025-10-28 10:43:37] refactor(clean): decouple service layer contracts

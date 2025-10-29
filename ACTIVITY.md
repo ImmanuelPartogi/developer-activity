@@ -3394,3 +3394,4 @@
 - [2025-10-29 09:27:31] style(design): polish tactile numpad elevation and haptics
 - [2025-10-29 10:26:28] refactor(domain): isolate business logic from presentation layer
 - [2025-10-29 11:56:05] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-10-29 11:27:40] fix(layout): adjust squircle corner radii and padding

@@ -3392,3 +3392,4 @@
 - [2025-10-28 20:01:45] feat(core): optimize reactive state flow lifecycle
 - [2025-10-29 09:20:10] chore(deps): review upstream security patches & dependencies
 - [2025-10-29 09:27:31] style(design): polish tactile numpad elevation and haptics
+- [2025-10-29 10:26:28] refactor(domain): isolate business logic from presentation layer

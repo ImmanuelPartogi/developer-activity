@@ -3402,3 +3402,4 @@
 - [2025-10-29 17:28:04] feat(analytics): add real-time category distribution parser
 - [2025-10-29 20:51:58] feat(core): optimize reactive state flow lifecycle
 - [2025-10-30 08:37:16] fix(layout): adjust squircle corner radii and padding
+- [2025-10-30 09:33:27] refactor(clean): decouple service layer contracts

@@ -3406,3 +3406,4 @@
 - [2025-10-30 09:45:53] feat(telemetry): record daily performance metrics
 - [2025-10-30 11:28:33] refactor(clean): decouple service layer contracts
 - [2025-10-30 12:54:31] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-10-30 15:12:04] fix(navigation): optimize pushReplacement transition timing

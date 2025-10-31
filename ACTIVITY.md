@@ -3419,3 +3419,4 @@
 - [2025-10-31 17:18:30] perf(db): streamline sqlite indexed query execution
 - [2025-10-31 17:32:53] feat(cache): implement two-tier memory and persistent cache
 - [2025-10-31 18:41:40] test(integration): verify cross-platform pipeline integrity
+- [2025-10-31 18:25:23] refactor(domain): isolate business logic from presentation layer

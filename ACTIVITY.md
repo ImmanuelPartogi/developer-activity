@@ -3434,3 +3434,4 @@
 - [2025-11-02 15:17:05] docs(telemetry): log continuous development activity
 - [2025-11-02 16:57:17] fix(layout): adjust squircle corner radii and padding
 - [2025-11-02 17:04:38] refactor(clean): decouple service layer contracts
+- [2025-11-02 20:37:23] fix(nullsafety): resolve edge-case nullable dereference

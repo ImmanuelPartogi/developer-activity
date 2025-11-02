@@ -3433,3 +3433,4 @@
 - [2025-11-02 12:42:16] refactor(domain): isolate business logic from presentation layer
 - [2025-11-02 15:17:05] docs(telemetry): log continuous development activity
 - [2025-11-02 16:57:17] fix(layout): adjust squircle corner radii and padding
+- [2025-11-02 17:04:38] refactor(clean): decouple service layer contracts

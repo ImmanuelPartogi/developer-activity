@@ -3435,3 +3435,4 @@
 - [2025-11-02 16:57:17] fix(layout): adjust squircle corner radii and padding
 - [2025-11-02 17:04:38] refactor(clean): decouple service layer contracts
 - [2025-11-02 20:37:23] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-11-02 20:12:55] refactor(ui): elevate glassmorphism tokens & dark elevation

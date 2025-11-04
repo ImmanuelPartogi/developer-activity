@@ -3448,3 +3448,4 @@
 - [2025-11-03 21:04:49] refactor(domain): isolate business logic from presentation layer
 - [2025-11-03 21:56:39] perf(db): streamline sqlite indexed query execution
 - [2025-11-04 10:52:22] fix(navigation): optimize pushReplacement transition timing
+- [2025-11-04 11:52:49] refactor(clean): decouple service layer contracts

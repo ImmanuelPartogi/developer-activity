@@ -3447,3 +3447,4 @@
 - [2025-11-03 21:20:36] feat(core): optimize reactive state flow lifecycle
 - [2025-11-03 21:04:49] refactor(domain): isolate business logic from presentation layer
 - [2025-11-03 21:56:39] perf(db): streamline sqlite indexed query execution
+- [2025-11-04 10:52:22] fix(navigation): optimize pushReplacement transition timing

@@ -3474,3 +3474,4 @@
 - [2025-11-06 13:51:34] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-11-06 13:46:16] perf(render): minimize widget rebuild tree overhead
 - [2025-11-06 15:40:09] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-11-06 16:48:07] refactor(domain): isolate business logic from presentation layer

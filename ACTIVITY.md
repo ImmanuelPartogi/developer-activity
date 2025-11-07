@@ -3483,3 +3483,4 @@
 - [2025-11-07 09:30:59] refactor(domain): isolate business logic from presentation layer
 - [2025-11-07 11:58:08] feat(core): optimize reactive state flow lifecycle
 - [2025-11-07 12:50:19] style(theme): refine sapphire and cyan accent palette
+- [2025-11-07 15:51:03] fix(nullsafety): resolve edge-case nullable dereference

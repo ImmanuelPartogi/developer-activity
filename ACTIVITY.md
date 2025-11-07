@@ -3489,3 +3489,4 @@
 - [2025-11-07 21:24:29] test(integration): verify cross-platform pipeline integrity
 - [2025-11-07 21:15:21] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-11-07 21:24:25] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-11-07 21:58:20] feat(cache): implement two-tier memory and persistent cache

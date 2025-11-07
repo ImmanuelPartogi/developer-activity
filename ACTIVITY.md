@@ -3488,3 +3488,4 @@
 - [2025-11-07 17:07:00] docs(telemetry): log continuous development activity
 - [2025-11-07 21:24:29] test(integration): verify cross-platform pipeline integrity
 - [2025-11-07 21:15:21] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-11-07 21:24:25] perf(memory): eliminate memory leaks in stream subscriptions

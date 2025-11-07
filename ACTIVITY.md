@@ -3480,3 +3480,4 @@
 - [2025-11-06 19:05:35] feat(cache): implement two-tier memory and persistent cache
 - [2025-11-07 08:04:00] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-11-07 09:21:20] feat(analytics): add real-time category distribution parser
+- [2025-11-07 09:30:59] refactor(domain): isolate business logic from presentation layer

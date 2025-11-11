@@ -3520,3 +3520,4 @@
 - [2025-11-10 20:57:39] refactor(clean): decouple service layer contracts
 - [2025-11-10 21:09:37] feat(analytics): add real-time category distribution parser
 - [2025-11-11 08:03:41] feat(analytics): add real-time category distribution parser
+- [2025-11-11 09:36:23] fix(layout): adjust squircle corner radii and padding

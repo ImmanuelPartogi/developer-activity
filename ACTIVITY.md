@@ -3523,3 +3523,4 @@
 - [2025-11-11 09:36:23] fix(layout): adjust squircle corner radii and padding
 - [2025-11-11 10:15:35] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-11-11 11:08:54] fix(navigation): optimize pushReplacement transition timing
+- [2025-11-11 11:23:52] chore(deps): review upstream security patches & dependencies

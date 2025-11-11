@@ -3521,3 +3521,4 @@
 - [2025-11-10 21:09:37] feat(analytics): add real-time category distribution parser
 - [2025-11-11 08:03:41] feat(analytics): add real-time category distribution parser
 - [2025-11-11 09:36:23] fix(layout): adjust squircle corner radii and padding
+- [2025-11-11 10:15:35] fix(nullsafety): resolve edge-case nullable dereference

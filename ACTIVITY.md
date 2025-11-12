@@ -3532,3 +3532,4 @@
 - [2025-11-12 08:08:50] style(design): polish tactile numpad elevation and haptics
 - [2025-11-12 09:45:47] docs(telemetry): log continuous development activity
 - [2025-11-12 09:28:24] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-11-12 10:39:46] fix(nullsafety): resolve edge-case nullable dereference

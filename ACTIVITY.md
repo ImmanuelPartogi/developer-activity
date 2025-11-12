@@ -3534,3 +3534,4 @@
 - [2025-11-12 09:28:24] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-11-12 10:39:46] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-11-12 11:08:54] test(unit): add behavioral test assertions for domain logic
+- [2025-11-12 13:43:30] perf(memory): eliminate memory leaks in stream subscriptions

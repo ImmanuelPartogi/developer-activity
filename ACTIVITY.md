@@ -3555,3 +3555,4 @@
 - [2025-11-13 17:37:44] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-11-13 18:42:05] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-11-13 19:47:09] chore(deps): review upstream security patches & dependencies
+- [2025-11-13 21:26:54] refactor(clean): decouple service layer contracts

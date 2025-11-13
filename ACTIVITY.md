@@ -3541,3 +3541,4 @@
 - [2025-11-12 20:36:41] feat(sync): add offline outbox synchronization worker
 - [2025-11-12 21:01:04] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-11-13 08:37:06] feat(telemetry): record daily performance metrics
+- [2025-11-13 10:35:21] perf(render): minimize widget rebuild tree overhead

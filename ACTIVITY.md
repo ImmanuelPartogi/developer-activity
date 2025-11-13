@@ -3547,3 +3547,4 @@
 - [2025-11-13 12:07:57] docs(arch): update repository architectural blueprint
 - [2025-11-13 13:36:27] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-11-13 15:12:11] perf(render): minimize widget rebuild tree overhead
+- [2025-11-13 15:47:14] refactor(domain): isolate business logic from presentation layer

@@ -3573,3 +3573,4 @@
 - [2025-11-14 21:39:32] docs(arch): update repository architectural blueprint
 - [2025-11-15 08:22:59] refactor(domain): isolate business logic from presentation layer
 - [2025-11-15 09:37:57] feat(telemetry): record daily performance metrics
+- [2025-11-15 10:43:02] refactor(clean): decouple service layer contracts

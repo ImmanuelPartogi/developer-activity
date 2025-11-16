@@ -3587,3 +3587,4 @@
 - [2025-11-16 16:39:21] fix(layout): adjust squircle corner radii and padding
 - [2025-11-16 18:53:10] fix(layout): adjust squircle corner radii and padding
 - [2025-11-16 18:26:24] feat(cache): implement two-tier memory and persistent cache
+- [2025-11-16 19:15:35] fix(navigation): optimize pushReplacement transition timing

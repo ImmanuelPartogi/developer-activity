@@ -3604,3 +3604,4 @@
 - [2025-11-17 21:39:31] test(integration): verify cross-platform pipeline integrity
 - [2025-11-18 10:39:41] perf(render): minimize widget rebuild tree overhead
 - [2025-11-18 11:11:13] chore(deps): review upstream security patches & dependencies
+- [2025-11-18 11:18:04] refactor(clean): decouple service layer contracts

@@ -3614,3 +3614,4 @@
 - [2025-11-19 08:02:26] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-11-19 09:56:09] chore(deps): review upstream security patches & dependencies
 - [2025-11-19 09:23:30] feat(core): optimize reactive state flow lifecycle
+- [2025-11-19 10:01:38] perf(memory): eliminate memory leaks in stream subscriptions

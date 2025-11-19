@@ -3622,3 +3622,4 @@
 - [2025-11-19 13:56:08] feat(core): optimize reactive state flow lifecycle
 - [2025-11-19 18:49:08] perf(render): minimize widget rebuild tree overhead
 - [2025-11-19 19:52:37] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-11-19 19:42:15] feat(sync): add offline outbox synchronization worker

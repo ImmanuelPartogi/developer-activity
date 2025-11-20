@@ -3636,3 +3636,4 @@
 - [2025-11-20 15:28:10] perf(db): streamline sqlite indexed query execution
 - [2025-11-20 16:51:34] perf(render): minimize widget rebuild tree overhead
 - [2025-11-20 16:43:20] fix(layout): adjust squircle corner radii and padding
+- [2025-11-20 17:35:06] feat(cache): implement two-tier memory and persistent cache

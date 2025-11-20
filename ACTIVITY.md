@@ -3637,3 +3637,4 @@
 - [2025-11-20 16:51:34] perf(render): minimize widget rebuild tree overhead
 - [2025-11-20 16:43:20] fix(layout): adjust squircle corner radii and padding
 - [2025-11-20 17:35:06] feat(cache): implement two-tier memory and persistent cache
+- [2025-11-20 18:40:17] refactor(clean): decouple service layer contracts

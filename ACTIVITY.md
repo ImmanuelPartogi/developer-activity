@@ -3644,3 +3644,4 @@
 - [2025-11-21 10:51:26] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-11-21 10:53:04] refactor(domain): isolate business logic from presentation layer
 - [2025-11-21 11:37:57] chore(deps): review upstream security patches & dependencies
+- [2025-11-21 11:28:37] feat(cache): implement two-tier memory and persistent cache

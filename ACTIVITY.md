@@ -3654,3 +3654,4 @@
 - [2025-11-22 14:42:01] feat(cache): implement two-tier memory and persistent cache
 - [2025-11-22 14:20:51] perf(render): minimize widget rebuild tree overhead
 - [2025-11-22 18:28:52] docs(telemetry): log continuous development activity
+- [2025-11-22 18:22:58] refactor(clean): decouple service layer contracts

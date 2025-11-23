@@ -3657,3 +3657,4 @@
 - [2025-11-22 18:22:58] refactor(clean): decouple service layer contracts
 - [2025-11-23 09:04:43] feat(auth): enhance biometric encryption handshake
 - [2025-11-23 10:31:48] refactor(domain): isolate business logic from presentation layer
+- [2025-11-23 11:22:48] refactor(ui): elevate glassmorphism tokens & dark elevation

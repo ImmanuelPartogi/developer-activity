@@ -3666,3 +3666,4 @@
 - [2025-11-24 09:44:05] docs(arch): update repository architectural blueprint
 - [2025-11-24 10:31:21] feat(auth): enhance biometric encryption handshake
 - [2025-11-24 13:00:59] refactor(clean): decouple service layer contracts
+- [2025-11-24 14:19:46] refactor(domain): isolate business logic from presentation layer

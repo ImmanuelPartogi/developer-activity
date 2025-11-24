@@ -3667,3 +3667,4 @@
 - [2025-11-24 10:31:21] feat(auth): enhance biometric encryption handshake
 - [2025-11-24 13:00:59] refactor(clean): decouple service layer contracts
 - [2025-11-24 14:19:46] refactor(domain): isolate business logic from presentation layer
+- [2025-11-24 14:01:42] fix(nullsafety): resolve edge-case nullable dereference

@@ -3673,3 +3673,4 @@
 - [2025-11-24 21:44:57] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-11-25 09:37:02] feat(core): optimize reactive state flow lifecycle
 - [2025-11-25 10:40:24] fix(navigation): optimize pushReplacement transition timing
+- [2025-11-25 10:25:10] fix(nullsafety): resolve edge-case nullable dereference

@@ -3676,3 +3676,4 @@
 - [2025-11-25 10:25:10] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-11-25 11:54:27] perf(db): streamline sqlite indexed query execution
 - [2025-11-25 13:33:10] perf(db): streamline sqlite indexed query execution
+- [2025-11-25 14:16:34] style(theme): refine sapphire and cyan accent palette

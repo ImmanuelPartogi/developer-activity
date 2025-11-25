@@ -3678,3 +3678,4 @@
 - [2025-11-25 13:33:10] perf(db): streamline sqlite indexed query execution
 - [2025-11-25 14:16:34] style(theme): refine sapphire and cyan accent palette
 - [2025-11-25 15:46:57] refactor(domain): isolate business logic from presentation layer
+- [2025-11-25 17:19:17] refactor(ui): elevate glassmorphism tokens & dark elevation

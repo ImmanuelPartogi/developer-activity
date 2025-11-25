@@ -3681,3 +3681,4 @@
 - [2025-11-25 17:19:17] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-11-25 19:15:46] style(theme): refine sapphire and cyan accent palette
 - [2025-11-25 20:21:32] test(unit): add behavioral test assertions for domain logic
+- [2025-11-25 20:11:29] perf(memory): eliminate memory leaks in stream subscriptions

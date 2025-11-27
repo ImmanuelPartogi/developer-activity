@@ -3698,3 +3698,4 @@
 - [2025-11-27 14:10:54] test(unit): add behavioral test assertions for domain logic
 - [2025-11-27 16:20:18] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-11-27 17:12:35] style(design): polish tactile numpad elevation and haptics
+- [2025-11-27 17:03:15] refactor(clean): decouple service layer contracts

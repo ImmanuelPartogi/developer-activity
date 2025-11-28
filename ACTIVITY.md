@@ -3711,3 +3711,4 @@
 - [2025-11-28 13:31:02] feat(cache): implement two-tier memory and persistent cache
 - [2025-11-28 14:18:36] docs(arch): update repository architectural blueprint
 - [2025-11-28 15:26:35] fix(layout): adjust squircle corner radii and padding
+- [2025-11-28 15:28:20] fix(nullsafety): resolve edge-case nullable dereference

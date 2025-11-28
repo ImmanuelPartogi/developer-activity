@@ -3709,3 +3709,4 @@
 - [2025-11-28 12:07:27] refactor(clean): decouple service layer contracts
 - [2025-11-28 13:28:53] test(unit): add behavioral test assertions for domain logic
 - [2025-11-28 13:31:02] feat(cache): implement two-tier memory and persistent cache
+- [2025-11-28 14:18:36] docs(arch): update repository architectural blueprint

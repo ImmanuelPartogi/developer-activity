@@ -3717,3 +3717,4 @@
 - [2025-11-28 17:28:25] feat(telemetry): record daily performance metrics
 - [2025-11-28 20:11:55] style(design): polish tactile numpad elevation and haptics
 - [2025-11-29 08:09:48] refactor(clean): decouple service layer contracts
+- [2025-11-29 09:47:57] refactor(ui): elevate glassmorphism tokens & dark elevation

@@ -3726,3 +3726,4 @@
 - [2025-11-29 17:52:55] fix(navigation): optimize pushReplacement transition timing
 - [2025-11-29 18:47:03] chore(deps): review upstream security patches & dependencies
 - [2025-11-29 19:38:35] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-11-29 20:20:23] refactor(domain): isolate business logic from presentation layer

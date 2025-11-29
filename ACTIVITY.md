@@ -3723,3 +3723,4 @@
 - [2025-11-29 16:09:30] refactor(clean): decouple service layer contracts
 - [2025-11-29 16:49:10] docs(telemetry): log continuous development activity
 - [2025-11-29 16:10:42] refactor(clean): decouple service layer contracts
+- [2025-11-29 17:52:55] fix(navigation): optimize pushReplacement transition timing

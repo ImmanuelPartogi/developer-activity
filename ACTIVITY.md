@@ -3725,3 +3725,4 @@
 - [2025-11-29 16:10:42] refactor(clean): decouple service layer contracts
 - [2025-11-29 17:52:55] fix(navigation): optimize pushReplacement transition timing
 - [2025-11-29 18:47:03] chore(deps): review upstream security patches & dependencies
+- [2025-11-29 19:38:35] fix(nullsafety): resolve edge-case nullable dereference

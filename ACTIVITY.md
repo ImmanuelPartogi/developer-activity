@@ -3727,3 +3727,4 @@
 - [2025-11-29 18:47:03] chore(deps): review upstream security patches & dependencies
 - [2025-11-29 19:38:35] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-11-29 20:20:23] refactor(domain): isolate business logic from presentation layer
+- [2025-11-30 08:33:26] test(unit): add behavioral test assertions for domain logic

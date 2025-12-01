@@ -3737,3 +3737,4 @@
 - [2025-11-30 21:32:54] perf(db): streamline sqlite indexed query execution
 - [2025-12-01 08:16:06] style(theme): refine sapphire and cyan accent palette
 - [2025-12-01 08:13:31] feat(auth): enhance biometric encryption handshake
+- [2025-12-01 08:47:56] fix(navigation): optimize pushReplacement transition timing

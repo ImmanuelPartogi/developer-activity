@@ -3758,3 +3758,4 @@
 - [2025-12-02 14:32:10] perf(db): streamline sqlite indexed query execution
 - [2025-12-02 15:15:41] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-12-02 15:35:05] style(theme): refine sapphire and cyan accent palette
+- [2025-12-02 15:13:14] feat(sync): add offline outbox synchronization worker

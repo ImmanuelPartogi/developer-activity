@@ -3766,3 +3766,4 @@
 - [2025-12-02 19:56:08] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-12-02 21:01:20] feat(sync): add offline outbox synchronization worker
 - [2025-12-03 08:57:57] refactor(domain): isolate business logic from presentation layer
+- [2025-12-03 08:19:49] test(unit): add behavioral test assertions for domain logic

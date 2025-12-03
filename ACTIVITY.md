@@ -3772,3 +3772,4 @@
 - [2025-12-03 10:49:33] docs(telemetry): log continuous development activity
 - [2025-12-03 11:45:09] docs(telemetry): log continuous development activity
 - [2025-12-03 11:23:56] chore(deps): review upstream security patches & dependencies
+- [2025-12-03 11:40:17] refactor(domain): isolate business logic from presentation layer

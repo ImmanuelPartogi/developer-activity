@@ -3777,3 +3777,4 @@
 - [2025-12-03 15:33:23] refactor(domain): isolate business logic from presentation layer
 - [2025-12-03 16:08:58] refactor(domain): isolate business logic from presentation layer
 - [2025-12-03 18:47:08] style(theme): refine sapphire and cyan accent palette
+- [2025-12-03 19:52:05] feat(sync): add offline outbox synchronization worker

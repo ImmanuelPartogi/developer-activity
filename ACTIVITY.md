@@ -3787,3 +3787,4 @@
 - [2025-12-04 15:17:48] feat(analytics): add real-time category distribution parser
 - [2025-12-04 15:43:32] chore(deps): review upstream security patches & dependencies
 - [2025-12-04 16:44:43] chore(deps): review upstream security patches & dependencies
+- [2025-12-04 17:58:28] perf(db): streamline sqlite indexed query execution

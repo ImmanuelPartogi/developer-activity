@@ -3793,3 +3793,4 @@
 - [2025-12-04 21:12:25] feat(auth): enhance biometric encryption handshake
 - [2025-12-05 09:24:11] feat(sync): add offline outbox synchronization worker
 - [2025-12-05 10:20:12] refactor(domain): isolate business logic from presentation layer
+- [2025-12-05 11:12:41] chore(deps): review upstream security patches & dependencies

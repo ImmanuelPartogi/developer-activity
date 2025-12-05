@@ -3799,3 +3799,4 @@
 - [2025-12-05 15:25:13] fix(layout): adjust squircle corner radii and padding
 - [2025-12-05 16:22:16] test(benchmark): execute flame chart micro-benchmarks
 - [2025-12-05 17:19:37] refactor(domain): isolate business logic from presentation layer
+- [2025-12-05 19:30:44] refactor(ui): elevate glassmorphism tokens & dark elevation

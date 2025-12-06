@@ -3808,3 +3808,4 @@
 - [2025-12-06 15:59:16] refactor(clean): decouple service layer contracts
 - [2025-12-06 16:40:09] test(integration): verify cross-platform pipeline integrity
 - [2025-12-06 16:20:37] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-12-06 17:28:32] perf(db): streamline sqlite indexed query execution

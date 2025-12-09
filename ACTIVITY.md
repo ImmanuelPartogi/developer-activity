@@ -3832,3 +3832,4 @@
 - [2025-12-09 09:51:28] test(integration): verify cross-platform pipeline integrity
 - [2025-12-09 09:38:55] chore(deps): review upstream security patches & dependencies
 - [2025-12-09 12:07:54] refactor(clean): decouple service layer contracts
+- [2025-12-09 12:24:04] docs(arch): update repository architectural blueprint

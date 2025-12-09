@@ -3842,3 +3842,4 @@
 - [2025-12-09 18:13:55] docs(telemetry): log continuous development activity
 - [2025-12-09 18:31:13] refactor(domain): isolate business logic from presentation layer
 - [2025-12-09 20:12:49] refactor(clean): decouple service layer contracts
+- [2025-12-09 21:55:06] fix(nullsafety): resolve edge-case nullable dereference

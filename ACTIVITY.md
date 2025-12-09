@@ -3828,3 +3828,4 @@
 - [2025-12-08 20:52:30] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-08 20:26:06] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-09 08:09:49] feat(core): optimize reactive state flow lifecycle
+- [2025-12-09 09:13:49] docs(arch): update repository architectural blueprint

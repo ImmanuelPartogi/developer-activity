@@ -3837,3 +3837,4 @@
 - [2025-12-09 14:59:58] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-12-09 14:32:35] feat(auth): enhance biometric encryption handshake
 - [2025-12-09 15:15:21] feat(telemetry): record daily performance metrics
+- [2025-12-09 16:16:18] perf(memory): eliminate memory leaks in stream subscriptions

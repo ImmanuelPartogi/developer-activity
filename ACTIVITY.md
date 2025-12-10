@@ -3853,3 +3853,4 @@
 - [2025-12-10 13:07:51] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-12-10 14:11:29] feat(sync): add offline outbox synchronization worker
 - [2025-12-10 15:52:49] feat(analytics): add real-time category distribution parser
+- [2025-12-10 15:31:07] fix(navigation): optimize pushReplacement transition timing

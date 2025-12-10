@@ -3849,3 +3849,4 @@
 - [2025-12-10 11:46:22] fix(layout): adjust squircle corner radii and padding
 - [2025-12-10 12:22:40] style(design): polish tactile numpad elevation and haptics
 - [2025-12-10 12:39:16] feat(cache): implement two-tier memory and persistent cache
+- [2025-12-10 13:26:47] fix(navigation): optimize pushReplacement transition timing

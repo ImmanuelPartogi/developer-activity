@@ -3851,3 +3851,4 @@
 - [2025-12-10 12:39:16] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-10 13:26:47] fix(navigation): optimize pushReplacement transition timing
 - [2025-12-10 13:07:51] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-12-10 14:11:29] feat(sync): add offline outbox synchronization worker

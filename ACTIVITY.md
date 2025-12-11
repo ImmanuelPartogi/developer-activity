@@ -3863,3 +3863,4 @@
 - [2025-12-11 09:49:18] test(benchmark): execute flame chart micro-benchmarks
 - [2025-12-11 10:26:09] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-12-11 10:01:06] feat(analytics): add real-time category distribution parser
+- [2025-12-11 12:20:05] fix(navigation): optimize pushReplacement transition timing

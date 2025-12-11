@@ -3867,3 +3867,4 @@
 - [2025-12-11 14:06:09] test(benchmark): execute flame chart micro-benchmarks
 - [2025-12-11 14:16:17] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-12-11 14:23:29] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-12-11 15:04:51] refactor(domain): isolate business logic from presentation layer

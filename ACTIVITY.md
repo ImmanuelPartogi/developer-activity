@@ -3882,3 +3882,4 @@
 - [2025-12-12 15:35:45] fix(navigation): optimize pushReplacement transition timing
 - [2025-12-12 17:28:46] refactor(clean): decouple service layer contracts
 - [2025-12-12 18:07:35] feat(sync): add offline outbox synchronization worker
+- [2025-12-12 18:41:40] fix(layout): adjust squircle corner radii and padding

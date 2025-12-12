@@ -3878,3 +3878,4 @@
 - [2025-12-12 10:30:55] refactor(domain): isolate business logic from presentation layer
 - [2025-12-12 13:33:32] refactor(domain): isolate business logic from presentation layer
 - [2025-12-12 13:15:10] test(benchmark): execute flame chart micro-benchmarks
+- [2025-12-12 14:30:59] fix(nullsafety): resolve edge-case nullable dereference

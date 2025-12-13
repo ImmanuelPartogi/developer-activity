@@ -3890,3 +3890,4 @@
 - [2025-12-13 14:47:31] refactor(domain): isolate business logic from presentation layer
 - [2025-12-13 14:37:57] feat(sync): add offline outbox synchronization worker
 - [2025-12-13 14:22:44] chore(deps): review upstream security patches & dependencies
+- [2025-12-13 15:47:04] fix(layout): adjust squircle corner radii and padding

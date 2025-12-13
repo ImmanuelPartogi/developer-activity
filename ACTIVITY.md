@@ -3885,3 +3885,4 @@
 - [2025-12-12 18:41:40] fix(layout): adjust squircle corner radii and padding
 - [2025-12-12 18:49:01] test(benchmark): execute flame chart micro-benchmarks
 - [2025-12-12 19:24:23] perf(render): minimize widget rebuild tree overhead
+- [2025-12-13 08:05:41] feat(sync): add offline outbox synchronization worker

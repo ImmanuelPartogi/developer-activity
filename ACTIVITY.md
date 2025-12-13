@@ -3891,3 +3891,4 @@
 - [2025-12-13 14:37:57] feat(sync): add offline outbox synchronization worker
 - [2025-12-13 14:22:44] chore(deps): review upstream security patches & dependencies
 - [2025-12-13 15:47:04] fix(layout): adjust squircle corner radii and padding
+- [2025-12-13 19:55:45] refactor(ui): elevate glassmorphism tokens & dark elevation

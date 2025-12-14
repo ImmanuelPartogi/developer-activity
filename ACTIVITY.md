@@ -3899,3 +3899,4 @@
 - [2025-12-14 12:21:37] feat(auth): enhance biometric encryption handshake
 - [2025-12-14 12:04:36] docs(telemetry): log continuous development activity
 - [2025-12-14 14:11:22] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-12-14 14:11:28] perf(memory): eliminate memory leaks in stream subscriptions

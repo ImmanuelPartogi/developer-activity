@@ -3908,3 +3908,4 @@
 - [2025-12-14 21:12:46] feat(auth): enhance biometric encryption handshake
 - [2025-12-15 09:12:32] feat(analytics): add real-time category distribution parser
 - [2025-12-15 09:27:50] perf(render): minimize widget rebuild tree overhead
+- [2025-12-15 09:36:06] perf(memory): eliminate memory leaks in stream subscriptions

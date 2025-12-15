@@ -3911,3 +3911,4 @@
 - [2025-12-15 09:36:06] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-12-15 11:16:38] refactor(clean): decouple service layer contracts
 - [2025-12-15 12:36:20] fix(layout): adjust squircle corner radii and padding
+- [2025-12-15 13:07:20] refactor(domain): isolate business logic from presentation layer

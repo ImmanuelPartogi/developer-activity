@@ -3929,3 +3929,4 @@
 - [2025-12-16 17:36:37] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-16 17:47:20] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-16 17:41:16] perf(memory): eliminate memory leaks in stream subscriptions
+- [2025-12-16 18:59:56] refactor(clean): decouple service layer contracts

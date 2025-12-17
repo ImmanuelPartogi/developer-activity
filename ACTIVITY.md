@@ -3944,3 +3944,4 @@
 - [2025-12-17 18:27:02] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-17 18:28:20] feat(telemetry): record daily performance metrics
 - [2025-12-17 21:20:12] test(benchmark): execute flame chart micro-benchmarks
+- [2025-12-17 21:10:38] fix(navigation): optimize pushReplacement transition timing

@@ -3950,3 +3950,4 @@
 - [2025-12-18 09:17:50] chore(deps): review upstream security patches & dependencies
 - [2025-12-18 10:20:19] docs(arch): update repository architectural blueprint
 - [2025-12-18 11:32:28] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2025-12-18 12:39:50] fix(layout): adjust squircle corner radii and padding

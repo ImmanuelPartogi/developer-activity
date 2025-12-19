@@ -3961,3 +3961,4 @@
 - [2025-12-19 09:47:28] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-12-19 09:56:35] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-12-19 12:24:32] perf(render): minimize widget rebuild tree overhead
+- [2025-12-19 12:18:19] fix(navigation): optimize pushReplacement transition timing

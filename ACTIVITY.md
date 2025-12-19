@@ -3960,3 +3960,4 @@
 - [2025-12-19 08:32:40] style(theme): refine sapphire and cyan accent palette
 - [2025-12-19 09:47:28] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-12-19 09:56:35] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-12-19 12:24:32] perf(render): minimize widget rebuild tree overhead

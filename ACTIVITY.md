@@ -3968,3 +3968,4 @@
 - [2025-12-19 18:38:26] feat(auth): enhance biometric encryption handshake
 - [2025-12-19 20:59:52] feat(auth): enhance biometric encryption handshake
 - [2025-12-20 10:18:39] docs(telemetry): log continuous development activity
+- [2025-12-20 12:27:55] fix(navigation): optimize pushReplacement transition timing

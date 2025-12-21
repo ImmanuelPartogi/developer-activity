@@ -3980,3 +3980,4 @@
 - [2025-12-21 09:42:58] feat(core): optimize reactive state flow lifecycle
 - [2025-12-21 11:21:45] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-12-21 12:44:16] feat(analytics): add real-time category distribution parser
+- [2025-12-21 12:36:50] refactor(domain): isolate business logic from presentation layer

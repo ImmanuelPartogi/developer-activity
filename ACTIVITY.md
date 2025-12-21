@@ -3978,3 +3978,4 @@
 - [2025-12-20 20:48:06] feat(core): optimize reactive state flow lifecycle
 - [2025-12-20 20:26:43] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-12-21 09:42:58] feat(core): optimize reactive state flow lifecycle
+- [2025-12-21 11:21:45] fix(nullsafety): resolve edge-case nullable dereference

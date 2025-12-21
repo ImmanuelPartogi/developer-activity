@@ -3982,3 +3982,4 @@
 - [2025-12-21 12:44:16] feat(analytics): add real-time category distribution parser
 - [2025-12-21 12:36:50] refactor(domain): isolate business logic from presentation layer
 - [2025-12-21 14:34:59] fix(navigation): optimize pushReplacement transition timing
+- [2025-12-21 14:17:57] refactor(clean): decouple service layer contracts

@@ -3987,3 +3987,4 @@
 - [2025-12-21 16:05:49] style(theme): refine sapphire and cyan accent palette
 - [2025-12-21 17:29:53] docs(telemetry): log continuous development activity
 - [2025-12-21 21:39:37] refactor(domain): isolate business logic from presentation layer
+- [2025-12-22 08:34:22] refactor(ui): elevate glassmorphism tokens & dark elevation

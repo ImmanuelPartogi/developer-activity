@@ -4006,3 +4006,4 @@
 - [2025-12-23 14:29:26] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-12-23 14:23:27] test(integration): verify cross-platform pipeline integrity
 - [2025-12-23 14:04:49] feat(cache): implement two-tier memory and persistent cache
+- [2025-12-23 15:29:37] fix(nullsafety): resolve edge-case nullable dereference

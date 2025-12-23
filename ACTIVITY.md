@@ -4002,3 +4002,4 @@
 - [2025-12-23 08:11:15] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-12-23 09:23:14] style(design): polish tactile numpad elevation and haptics
 - [2025-12-23 11:51:39] fix(layout): adjust squircle corner radii and padding
+- [2025-12-23 12:06:25] feat(sync): add offline outbox synchronization worker

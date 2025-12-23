@@ -4001,3 +4001,4 @@
 - [2025-12-22 21:22:59] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-12-23 08:11:15] chore(tooling): upgrade lint rules to latest strict standard
 - [2025-12-23 09:23:14] style(design): polish tactile numpad elevation and haptics
+- [2025-12-23 11:51:39] fix(layout): adjust squircle corner radii and padding

@@ -4018,3 +4018,4 @@
 - [2025-12-24 11:47:09] feat(core): optimize reactive state flow lifecycle
 - [2025-12-24 12:24:05] perf(memory): eliminate memory leaks in stream subscriptions
 - [2025-12-24 12:27:23] perf(db): streamline sqlite indexed query execution
+- [2025-12-24 14:37:20] refactor(domain): isolate business logic from presentation layer

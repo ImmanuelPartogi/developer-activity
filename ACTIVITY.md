@@ -4036,3 +4036,4 @@
 - [2025-12-25 15:20:47] fix(navigation): optimize pushReplacement transition timing
 - [2025-12-25 18:02:48] feat(cache): implement two-tier memory and persistent cache
 - [2025-12-25 18:29:42] refactor(clean): decouple service layer contracts
+- [2025-12-25 18:02:04] refactor(ui): elevate glassmorphism tokens & dark elevation

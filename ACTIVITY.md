@@ -4044,3 +4044,4 @@
 - [2025-12-25 21:51:02] feat(sync): add offline outbox synchronization worker
 - [2025-12-26 08:50:09] test(unit): add behavioral test assertions for domain logic
 - [2025-12-26 09:24:34] perf(render): minimize widget rebuild tree overhead
+- [2025-12-26 10:07:52] fix(layout): adjust squircle corner radii and padding

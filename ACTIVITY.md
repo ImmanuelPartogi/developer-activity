@@ -4046,3 +4046,4 @@
 - [2025-12-26 09:24:34] perf(render): minimize widget rebuild tree overhead
 - [2025-12-26 10:07:52] fix(layout): adjust squircle corner radii and padding
 - [2025-12-26 10:02:33] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-12-26 12:52:23] refactor(ui): elevate glassmorphism tokens & dark elevation

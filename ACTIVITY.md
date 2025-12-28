@@ -4072,3 +4072,4 @@
 - [2025-12-28 17:09:14] feat(auth): enhance biometric encryption handshake
 - [2025-12-28 19:21:52] fix(layout): adjust squircle corner radii and padding
 - [2025-12-28 19:48:10] fix(nullsafety): resolve edge-case nullable dereference
+- [2025-12-28 21:11:26] perf(memory): eliminate memory leaks in stream subscriptions

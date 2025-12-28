@@ -4067,3 +4067,4 @@
 - [2025-12-27 21:29:45] fix(layout): adjust squircle corner radii and padding
 - [2025-12-27 21:09:26] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-12-28 11:30:46] feat(security): enforce bank-grade AES-256 payload encryption
+- [2025-12-28 13:41:23] perf(memory): eliminate memory leaks in stream subscriptions

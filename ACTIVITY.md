@@ -4076,3 +4076,4 @@
 - [2025-12-29 08:07:45] docs(arch): update repository architectural blueprint
 - [2025-12-29 08:34:32] docs(telemetry): log continuous development activity
 - [2025-12-29 12:11:02] feat(sync): add offline outbox synchronization worker
+- [2025-12-29 13:26:31] fix(nullsafety): resolve edge-case nullable dereference

@@ -4078,3 +4078,4 @@
 - [2025-12-29 12:11:02] feat(sync): add offline outbox synchronization worker
 - [2025-12-29 13:26:31] fix(nullsafety): resolve edge-case nullable dereference
 - [2025-12-29 14:38:30] refactor(clean): decouple service layer contracts
+- [2025-12-29 14:21:23] feat(sync): add offline outbox synchronization worker

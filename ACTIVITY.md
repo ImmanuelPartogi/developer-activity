@@ -4098,3 +4098,4 @@
 - [2025-12-30 15:49:05] feat(sync): add offline outbox synchronization worker
 - [2025-12-30 17:10:02] feat(security): enforce bank-grade AES-256 payload encryption
 - [2025-12-30 17:33:31] chore(tooling): upgrade lint rules to latest strict standard
+- [2025-12-30 17:01:46] fix(navigation): optimize pushReplacement transition timing

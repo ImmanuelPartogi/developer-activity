@@ -4109,3 +4109,4 @@
 - [2025-12-31 10:42:09] fix(layout): adjust squircle corner radii and padding
 - [2025-12-31 10:22:21] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2025-12-31 10:07:35] style(theme): refine sapphire and cyan accent palette
+- [2025-12-31 10:07:25] refactor(clean): decouple service layer contracts

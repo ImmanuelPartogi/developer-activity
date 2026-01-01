@@ -4126,3 +4126,4 @@
 - [2026-01-01 18:24:46] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-01 18:41:39] perf(render): minimize widget rebuild tree overhead
 - [2026-01-01 19:41:26] feat(cache): implement two-tier memory and persistent cache
+- [2026-01-01 20:23:05] fix(navigation): optimize pushReplacement transition timing

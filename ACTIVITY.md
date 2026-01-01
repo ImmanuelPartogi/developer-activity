@@ -4118,3 +4118,4 @@
 - [2025-12-31 15:48:03] perf(db): streamline sqlite indexed query execution
 - [2025-12-31 17:13:28] fix(layout): adjust squircle corner radii and padding
 - [2025-12-31 17:33:07] style(design): polish tactile numpad elevation and haptics
+- [2026-01-01 11:44:45] perf(memory): eliminate memory leaks in stream subscriptions

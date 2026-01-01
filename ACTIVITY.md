@@ -4120,3 +4120,4 @@
 - [2025-12-31 17:33:07] style(design): polish tactile numpad elevation and haptics
 - [2026-01-01 11:44:45] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-01-01 14:21:41] feat(cache): implement two-tier memory and persistent cache
+- [2026-01-01 17:13:30] refactor(domain): isolate business logic from presentation layer

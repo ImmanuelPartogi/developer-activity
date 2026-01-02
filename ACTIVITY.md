@@ -4130,3 +4130,4 @@
 - [2026-01-01 21:36:40] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-01-01 21:10:21] perf(db): streamline sqlite indexed query execution
 - [2026-01-02 08:52:26] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-01-02 09:07:30] feat(cache): implement two-tier memory and persistent cache

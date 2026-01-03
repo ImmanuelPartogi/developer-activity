@@ -4147,3 +4147,4 @@
 - [2026-01-03 10:13:19] refactor(clean): decouple service layer contracts
 - [2026-01-03 13:27:07] style(theme): refine sapphire and cyan accent palette
 - [2026-01-03 13:58:18] feat(sync): add offline outbox synchronization worker
+- [2026-01-03 13:46:54] refactor(ui): elevate glassmorphism tokens & dark elevation

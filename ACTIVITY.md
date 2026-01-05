@@ -4156,3 +4156,4 @@
 - [2026-01-04 13:17:56] test(benchmark): execute flame chart micro-benchmarks
 - [2026-01-04 15:29:34] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-04 16:21:15] refactor(clean): decouple service layer contracts
+- [2026-01-05 08:18:50] fix(navigation): optimize pushReplacement transition timing

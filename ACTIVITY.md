@@ -4160,3 +4160,4 @@
 - [2026-01-05 10:20:02] refactor(domain): isolate business logic from presentation layer
 - [2026-01-05 15:18:50] docs(arch): update repository architectural blueprint
 - [2026-01-05 16:52:11] feat(telemetry): record daily performance metrics
+- [2026-01-05 17:03:12] fix(nullsafety): resolve edge-case nullable dereference

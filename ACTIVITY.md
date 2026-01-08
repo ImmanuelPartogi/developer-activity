@@ -4199,3 +4199,4 @@
 - [2026-01-08 10:48:00] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-08 12:13:00] docs(arch): update repository architectural blueprint
 - [2026-01-08 12:01:20] feat(auth): enhance biometric encryption handshake
+- [2026-01-08 12:56:45] refactor(clean): decouple service layer contracts

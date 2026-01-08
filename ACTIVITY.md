@@ -4192,3 +4192,4 @@
 - [2026-01-07 18:19:33] perf(render): minimize widget rebuild tree overhead
 - [2026-01-08 08:04:39] fix(navigation): optimize pushReplacement transition timing
 - [2026-01-08 08:17:26] feat(cache): implement two-tier memory and persistent cache
+- [2026-01-08 09:05:54] refactor(clean): decouple service layer contracts

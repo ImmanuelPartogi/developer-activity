@@ -4197,3 +4197,4 @@
 - [2026-01-08 09:56:47] perf(db): streamline sqlite indexed query execution
 - [2026-01-08 10:00:39] feat(sync): add offline outbox synchronization worker
 - [2026-01-08 10:48:00] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-01-08 12:13:00] docs(arch): update repository architectural blueprint

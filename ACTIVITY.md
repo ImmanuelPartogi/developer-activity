@@ -4195,3 +4195,4 @@
 - [2026-01-08 09:05:54] refactor(clean): decouple service layer contracts
 - [2026-01-08 09:34:16] refactor(domain): isolate business logic from presentation layer
 - [2026-01-08 09:56:47] perf(db): streamline sqlite indexed query execution
+- [2026-01-08 10:00:39] feat(sync): add offline outbox synchronization worker

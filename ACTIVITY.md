@@ -4224,3 +4224,4 @@
 - [2026-01-11 08:40:25] style(design): polish tactile numpad elevation and haptics
 - [2026-01-11 10:27:27] chore(deps): review upstream security patches & dependencies
 - [2026-01-11 11:11:07] perf(db): streamline sqlite indexed query execution
+- [2026-01-11 12:57:05] fix(layout): adjust squircle corner radii and padding

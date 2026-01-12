@@ -4234,3 +4234,4 @@
 - [2026-01-12 10:02:29] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-12 13:03:40] feat(analytics): add real-time category distribution parser
 - [2026-01-12 13:02:44] refactor(clean): decouple service layer contracts
+- [2026-01-12 13:12:15] fix(layout): adjust squircle corner radii and padding

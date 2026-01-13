@@ -4246,3 +4246,4 @@
 - [2026-01-13 12:59:13] refactor(clean): decouple service layer contracts
 - [2026-01-13 13:24:32] test(unit): add behavioral test assertions for domain logic
 - [2026-01-13 13:42:17] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-01-13 13:57:24] fix(navigation): optimize pushReplacement transition timing

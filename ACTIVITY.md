@@ -4248,3 +4248,4 @@
 - [2026-01-13 13:42:17] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-01-13 13:57:24] fix(navigation): optimize pushReplacement transition timing
 - [2026-01-13 14:11:55] style(design): polish tactile numpad elevation and haptics
+- [2026-01-13 15:08:50] fix(layout): adjust squircle corner radii and padding

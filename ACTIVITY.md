@@ -4256,3 +4256,4 @@
 - [2026-01-13 20:43:44] feat(analytics): add real-time category distribution parser
 - [2026-01-13 21:53:14] style(design): polish tactile numpad elevation and haptics
 - [2026-01-14 10:07:01] chore(deps): review upstream security patches & dependencies
+- [2026-01-14 11:07:11] refactor(domain): isolate business logic from presentation layer

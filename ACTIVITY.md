@@ -4262,3 +4262,4 @@
 - [2026-01-14 12:07:14] fix(layout): adjust squircle corner radii and padding
 - [2026-01-14 13:58:10] feat(telemetry): record daily performance metrics
 - [2026-01-14 15:49:27] feat(telemetry): record daily performance metrics
+- [2026-01-14 17:35:10] feat(auth): enhance biometric encryption handshake

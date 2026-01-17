@@ -4295,3 +4295,4 @@
 - [2026-01-17 11:58:46] style(design): polish tactile numpad elevation and haptics
 - [2026-01-17 11:26:56] feat(core): optimize reactive state flow lifecycle
 - [2026-01-17 15:03:33] feat(core): optimize reactive state flow lifecycle
+- [2026-01-17 18:16:00] fix(layout): adjust squircle corner radii and padding

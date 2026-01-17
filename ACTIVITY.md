@@ -4297,3 +4297,4 @@
 - [2026-01-17 15:03:33] feat(core): optimize reactive state flow lifecycle
 - [2026-01-17 18:16:00] fix(layout): adjust squircle corner radii and padding
 - [2026-01-17 18:40:55] test(integration): verify cross-platform pipeline integrity
+- [2026-01-17 20:48:09] fix(navigation): optimize pushReplacement transition timing

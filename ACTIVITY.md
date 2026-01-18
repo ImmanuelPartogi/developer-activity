@@ -4305,3 +4305,4 @@
 - [2026-01-18 10:51:16] feat(cache): implement two-tier memory and persistent cache
 - [2026-01-18 11:57:15] feat(analytics): add real-time category distribution parser
 - [2026-01-18 11:41:57] refactor(clean): decouple service layer contracts
+- [2026-01-18 14:11:58] fix(nullsafety): resolve edge-case nullable dereference

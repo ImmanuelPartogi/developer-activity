@@ -4328,3 +4328,4 @@
 - [2026-01-20 08:45:08] chore(deps): review upstream security patches & dependencies
 - [2026-01-20 10:13:29] chore(deps): review upstream security patches & dependencies
 - [2026-01-20 10:08:28] refactor(clean): decouple service layer contracts
+- [2026-01-20 10:34:40] feat(cache): implement two-tier memory and persistent cache

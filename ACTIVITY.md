@@ -4346,3 +4346,4 @@
 - [2026-01-21 15:23:17] feat(sync): add offline outbox synchronization worker
 - [2026-01-21 16:37:40] fix(layout): adjust squircle corner radii and padding
 - [2026-01-21 16:50:34] refactor(clean): decouple service layer contracts
+- [2026-01-21 17:04:06] fix(navigation): optimize pushReplacement transition timing

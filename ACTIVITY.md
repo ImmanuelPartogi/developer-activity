@@ -4341,3 +4341,4 @@
 - [2026-01-21 11:29:01] fix(layout): adjust squircle corner radii and padding
 - [2026-01-21 11:49:22] style(design): polish tactile numpad elevation and haptics
 - [2026-01-21 12:27:08] test(integration): verify cross-platform pipeline integrity
+- [2026-01-21 15:03:23] fix(navigation): optimize pushReplacement transition timing

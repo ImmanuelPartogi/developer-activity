@@ -4339,3 +4339,4 @@
 - [2026-01-20 20:53:57] feat(auth): enhance biometric encryption handshake
 - [2026-01-21 08:52:48] feat(sync): add offline outbox synchronization worker
 - [2026-01-21 11:29:01] fix(layout): adjust squircle corner radii and padding
+- [2026-01-21 11:49:22] style(design): polish tactile numpad elevation and haptics

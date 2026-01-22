@@ -4353,3 +4353,4 @@
 - [2026-01-21 18:58:31] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-21 21:23:56] perf(db): streamline sqlite indexed query execution
 - [2026-01-21 21:45:38] style(design): polish tactile numpad elevation and haptics
+- [2026-01-22 09:58:26] test(unit): add behavioral test assertions for domain logic

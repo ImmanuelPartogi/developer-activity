@@ -4362,3 +4362,4 @@
 - [2026-01-22 17:41:46] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-22 18:57:22] perf(db): streamline sqlite indexed query execution
 - [2026-01-22 19:57:02] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-01-22 19:32:06] perf(render): minimize widget rebuild tree overhead

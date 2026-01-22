@@ -4361,3 +4361,4 @@
 - [2026-01-22 16:01:14] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-01-22 17:41:46] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-22 18:57:22] perf(db): streamline sqlite indexed query execution
+- [2026-01-22 19:57:02] refactor(ui): elevate glassmorphism tokens & dark elevation

@@ -4357,3 +4357,4 @@
 - [2026-01-22 10:22:28] feat(sync): add offline outbox synchronization worker
 - [2026-01-22 10:04:59] perf(render): minimize widget rebuild tree overhead
 - [2026-01-22 13:03:49] chore(deps): review upstream security patches & dependencies
+- [2026-01-22 16:33:00] fix(layout): adjust squircle corner radii and padding

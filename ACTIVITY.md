@@ -4373,3 +4373,4 @@
 - [2026-01-23 17:08:53] test(unit): add behavioral test assertions for domain logic
 - [2026-01-23 17:18:54] style(theme): refine sapphire and cyan accent palette
 - [2026-01-23 18:11:42] refactor(domain): isolate business logic from presentation layer
+- [2026-01-23 19:53:41] feat(sync): add offline outbox synchronization worker

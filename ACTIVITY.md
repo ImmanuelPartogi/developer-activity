@@ -4377,3 +4377,4 @@
 - [2026-01-23 20:07:25] refactor(domain): isolate business logic from presentation layer
 - [2026-01-23 20:24:43] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-01-23 21:51:01] docs(telemetry): log continuous development activity
+- [2026-01-23 21:23:07] fix(nullsafety): resolve edge-case nullable dereference

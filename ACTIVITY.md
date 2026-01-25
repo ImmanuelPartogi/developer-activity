@@ -4391,3 +4391,4 @@
 - [2026-01-25 09:28:37] docs(arch): update repository architectural blueprint
 - [2026-01-25 10:10:17] refactor(clean): decouple service layer contracts
 - [2026-01-25 12:30:13] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-01-25 13:58:37] refactor(ui): elevate glassmorphism tokens & dark elevation

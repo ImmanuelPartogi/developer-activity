@@ -4420,3 +4420,4 @@
 - [2026-01-27 15:23:02] refactor(clean): decouple service layer contracts
 - [2026-01-27 16:49:18] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-01-27 16:56:22] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-01-27 19:22:34] chore(tooling): upgrade lint rules to latest strict standard

@@ -4426,3 +4426,4 @@
 - [2026-01-27 19:34:09] docs(arch): update repository architectural blueprint
 - [2026-01-28 08:35:36] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-01-28 08:03:43] fix(layout): adjust squircle corner radii and padding
+- [2026-01-28 09:18:37] refactor(ui): elevate glassmorphism tokens & dark elevation

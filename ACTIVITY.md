@@ -4438,3 +4438,4 @@
 - [2026-01-28 15:23:06] refactor(domain): isolate business logic from presentation layer
 - [2026-01-28 17:25:47] chore(deps): review upstream security patches & dependencies
 - [2026-01-28 17:25:04] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-01-28 18:03:01] fix(nullsafety): resolve edge-case nullable dereference

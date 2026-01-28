@@ -4435,3 +4435,4 @@
 - [2026-01-28 12:26:33] style(design): polish tactile numpad elevation and haptics
 - [2026-01-28 13:58:09] feat(cache): implement two-tier memory and persistent cache
 - [2026-01-28 13:40:39] test(unit): add behavioral test assertions for domain logic
+- [2026-01-28 15:23:06] refactor(domain): isolate business logic from presentation layer

@@ -4444,3 +4444,4 @@
 - [2026-01-29 10:47:52] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-01-29 10:25:10] feat(cache): implement two-tier memory and persistent cache
 - [2026-01-29 11:48:07] test(integration): verify cross-platform pipeline integrity
+- [2026-01-29 14:46:00] refactor(domain): isolate business logic from presentation layer

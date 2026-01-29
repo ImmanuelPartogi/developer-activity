@@ -4447,3 +4447,4 @@
 - [2026-01-29 14:46:00] refactor(domain): isolate business logic from presentation layer
 - [2026-01-29 15:03:53] refactor(clean): decouple service layer contracts
 - [2026-01-29 17:13:06] perf(db): streamline sqlite indexed query execution
+- [2026-01-29 17:19:27] test(unit): add behavioral test assertions for domain logic

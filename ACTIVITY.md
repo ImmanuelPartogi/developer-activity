@@ -4455,3 +4455,4 @@
 - [2026-01-30 08:10:49] perf(render): minimize widget rebuild tree overhead
 - [2026-01-30 08:36:15] fix(layout): adjust squircle corner radii and padding
 - [2026-01-30 09:46:44] refactor(domain): isolate business logic from presentation layer
+- [2026-01-30 10:01:57] feat(sync): add offline outbox synchronization worker

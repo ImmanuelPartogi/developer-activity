@@ -4464,3 +4464,4 @@
 - [2026-01-31 08:36:44] style(theme): refine sapphire and cyan accent palette
 - [2026-01-31 08:07:23] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-01-31 12:28:13] feat(telemetry): record daily performance metrics
+- [2026-01-31 13:39:24] feat(sync): add offline outbox synchronization worker

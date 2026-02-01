@@ -4468,3 +4468,4 @@
 - [2026-01-31 13:33:05] perf(render): minimize widget rebuild tree overhead
 - [2026-01-31 16:35:58] style(theme): refine sapphire and cyan accent palette
 - [2026-01-31 21:45:28] perf(db): streamline sqlite indexed query execution
+- [2026-02-01 08:43:04] fix(navigation): optimize pushReplacement transition timing

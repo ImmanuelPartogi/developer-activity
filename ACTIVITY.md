@@ -4492,3 +4492,4 @@
 - [2026-02-02 14:10:30] perf(render): minimize widget rebuild tree overhead
 - [2026-02-02 15:21:25] feat(telemetry): record daily performance metrics
 - [2026-02-02 16:26:56] style(design): polish tactile numpad elevation and haptics
+- [2026-02-02 18:40:06] perf(memory): eliminate memory leaks in stream subscriptions

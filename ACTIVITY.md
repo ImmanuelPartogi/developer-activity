@@ -4493,3 +4493,4 @@
 - [2026-02-02 15:21:25] feat(telemetry): record daily performance metrics
 - [2026-02-02 16:26:56] style(design): polish tactile numpad elevation and haptics
 - [2026-02-02 18:40:06] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-02-02 19:23:21] docs(arch): update repository architectural blueprint

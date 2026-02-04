@@ -4513,3 +4513,4 @@
 - [2026-02-04 12:28:27] feat(telemetry): record daily performance metrics
 - [2026-02-04 12:20:05] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-02-04 13:34:13] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-02-04 18:45:31] perf(db): streamline sqlite indexed query execution

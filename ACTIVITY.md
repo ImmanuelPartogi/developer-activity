@@ -4518,3 +4518,4 @@
 - [2026-02-04 21:40:01] feat(cache): implement two-tier memory and persistent cache
 - [2026-02-05 09:35:42] docs(arch): update repository architectural blueprint
 - [2026-02-05 11:03:30] chore(deps): review upstream security patches & dependencies
+- [2026-02-05 13:04:14] fix(nullsafety): resolve edge-case nullable dereference

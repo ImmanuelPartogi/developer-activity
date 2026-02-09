@@ -4548,3 +4548,4 @@
 - [2026-02-08 16:53:51] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-02-08 18:37:30] perf(db): streamline sqlite indexed query execution
 - [2026-02-09 08:39:20] perf(db): streamline sqlite indexed query execution
+- [2026-02-09 09:57:42] feat(sync): add offline outbox synchronization worker

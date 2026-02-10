@@ -4562,3 +4562,4 @@
 - [2026-02-10 10:30:42] feat(sync): add offline outbox synchronization worker
 - [2026-02-10 11:03:48] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-02-10 13:29:43] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-02-10 13:39:03] chore(deps): review upstream security patches & dependencies

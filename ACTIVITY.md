@@ -4563,3 +4563,4 @@
 - [2026-02-10 11:03:48] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-02-10 13:29:43] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-02-10 13:39:03] chore(deps): review upstream security patches & dependencies
+- [2026-02-10 15:06:05] fix(layout): adjust squircle corner radii and padding

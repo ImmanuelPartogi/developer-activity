@@ -4560,3 +4560,4 @@
 - [2026-02-10 08:32:53] feat(cache): implement two-tier memory and persistent cache
 - [2026-02-10 08:40:12] style(theme): refine sapphire and cyan accent palette
 - [2026-02-10 10:30:42] feat(sync): add offline outbox synchronization worker
+- [2026-02-10 11:03:48] perf(memory): eliminate memory leaks in stream subscriptions

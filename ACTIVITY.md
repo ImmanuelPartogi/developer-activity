@@ -4572,3 +4572,4 @@
 - [2026-02-11 10:50:49] feat(auth): enhance biometric encryption handshake
 - [2026-02-11 13:53:32] chore(deps): review upstream security patches & dependencies
 - [2026-02-11 14:22:53] test(integration): verify cross-platform pipeline integrity
+- [2026-02-11 15:58:27] refactor(domain): isolate business logic from presentation layer

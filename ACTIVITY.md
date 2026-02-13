@@ -4591,3 +4591,4 @@
 - [2026-02-12 21:09:47] feat(sync): add offline outbox synchronization worker
 - [2026-02-13 09:47:02] feat(telemetry): record daily performance metrics
 - [2026-02-13 09:06:56] style(theme): refine sapphire and cyan accent palette
+- [2026-02-13 11:59:11] refactor(clean): decouple service layer contracts

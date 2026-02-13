@@ -4594,3 +4594,4 @@
 - [2026-02-13 11:59:11] refactor(clean): decouple service layer contracts
 - [2026-02-13 12:57:58] style(design): polish tactile numpad elevation and haptics
 - [2026-02-13 12:46:15] test(integration): verify cross-platform pipeline integrity
+- [2026-02-13 12:45:35] perf(memory): eliminate memory leaks in stream subscriptions

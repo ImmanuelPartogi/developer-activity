@@ -4608,3 +4608,4 @@
 - [2026-02-14 09:32:11] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-02-14 09:31:57] feat(analytics): add real-time category distribution parser
 - [2026-02-14 15:45:26] style(design): polish tactile numpad elevation and haptics
+- [2026-02-14 16:22:43] refactor(clean): decouple service layer contracts

@@ -4618,3 +4618,4 @@
 - [2026-02-15 12:33:34] feat(sync): add offline outbox synchronization worker
 - [2026-02-15 13:21:47] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-02-15 14:30:42] refactor(domain): isolate business logic from presentation layer
+- [2026-02-15 16:27:55] chore(tooling): upgrade lint rules to latest strict standard

@@ -4615,3 +4615,4 @@
 - [2026-02-14 19:03:21] fix(layout): adjust squircle corner radii and padding
 - [2026-02-14 19:16:35] perf(db): streamline sqlite indexed query execution
 - [2026-02-14 21:30:20] perf(db): streamline sqlite indexed query execution
+- [2026-02-15 12:33:34] feat(sync): add offline outbox synchronization worker

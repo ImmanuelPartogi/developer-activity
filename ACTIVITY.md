@@ -4621,3 +4621,4 @@
 - [2026-02-15 16:27:55] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-02-15 16:58:41] refactor(clean): decouple service layer contracts
 - [2026-02-15 18:43:19] feat(cache): implement two-tier memory and persistent cache
+- [2026-02-15 19:06:57] refactor(domain): isolate business logic from presentation layer

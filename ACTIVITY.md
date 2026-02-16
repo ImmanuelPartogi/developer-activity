@@ -4627,3 +4627,4 @@
 - [2026-02-15 21:05:42] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-02-16 08:52:06] chore(deps): review upstream security patches & dependencies
 - [2026-02-16 09:06:48] fix(layout): adjust squircle corner radii and padding
+- [2026-02-16 09:10:25] docs(arch): update repository architectural blueprint

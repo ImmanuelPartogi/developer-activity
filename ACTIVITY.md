@@ -4636,3 +4636,4 @@
 - [2026-02-16 16:03:07] test(integration): verify cross-platform pipeline integrity
 - [2026-02-16 20:45:57] chore(deps): review upstream security patches & dependencies
 - [2026-02-16 21:34:56] feat(sync): add offline outbox synchronization worker
+- [2026-02-17 08:56:16] docs(arch): update repository architectural blueprint

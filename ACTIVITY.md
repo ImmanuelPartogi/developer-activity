@@ -4645,3 +4645,4 @@
 - [2026-02-17 13:40:29] refactor(clean): decouple service layer contracts
 - [2026-02-17 14:43:23] fix(layout): adjust squircle corner radii and padding
 - [2026-02-17 15:20:32] feat(analytics): add real-time category distribution parser
+- [2026-02-17 16:08:42] perf(render): minimize widget rebuild tree overhead

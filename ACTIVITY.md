@@ -4643,3 +4643,4 @@
 - [2026-02-17 12:17:41] docs(arch): update repository architectural blueprint
 - [2026-02-17 12:49:00] feat(sync): add offline outbox synchronization worker
 - [2026-02-17 13:40:29] refactor(clean): decouple service layer contracts
+- [2026-02-17 14:43:23] fix(layout): adjust squircle corner radii and padding

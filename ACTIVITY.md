@@ -4654,3 +4654,4 @@
 - [2026-02-17 21:49:05] style(design): polish tactile numpad elevation and haptics
 - [2026-02-18 08:54:05] perf(render): minimize widget rebuild tree overhead
 - [2026-02-18 08:36:21] perf(db): streamline sqlite indexed query execution
+- [2026-02-18 09:06:01] feat(core): optimize reactive state flow lifecycle

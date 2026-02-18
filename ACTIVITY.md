@@ -4664,3 +4664,4 @@
 - [2026-02-18 16:27:14] perf(db): streamline sqlite indexed query execution
 - [2026-02-18 16:47:03] refactor(clean): decouple service layer contracts
 - [2026-02-18 17:57:35] refactor(domain): isolate business logic from presentation layer
+- [2026-02-18 18:35:24] refactor(ui): elevate glassmorphism tokens & dark elevation

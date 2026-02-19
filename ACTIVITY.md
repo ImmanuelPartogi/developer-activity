@@ -4678,3 +4678,4 @@
 - [2026-02-19 17:10:47] feat(telemetry): record daily performance metrics
 - [2026-02-19 18:38:06] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-02-19 18:09:32] feat(telemetry): record daily performance metrics
+- [2026-02-19 18:17:23] feat(core): optimize reactive state flow lifecycle

@@ -4682,3 +4682,4 @@
 - [2026-02-20 09:48:06] docs(telemetry): log continuous development activity
 - [2026-02-20 11:06:44] feat(sync): add offline outbox synchronization worker
 - [2026-02-20 11:39:01] feat(cache): implement two-tier memory and persistent cache
+- [2026-02-20 13:09:48] refactor(clean): decouple service layer contracts

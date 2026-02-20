@@ -4687,3 +4687,4 @@
 - [2026-02-20 16:13:25] refactor(clean): decouple service layer contracts
 - [2026-02-20 19:35:32] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-02-20 20:36:50] style(design): polish tactile numpad elevation and haptics
+- [2026-02-20 21:01:41] style(theme): refine sapphire and cyan accent palette

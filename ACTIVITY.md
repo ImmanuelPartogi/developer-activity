@@ -4685,3 +4685,4 @@
 - [2026-02-20 13:09:48] refactor(clean): decouple service layer contracts
 - [2026-02-20 14:12:22] perf(render): minimize widget rebuild tree overhead
 - [2026-02-20 16:13:25] refactor(clean): decouple service layer contracts
+- [2026-02-20 19:35:32] fix(nullsafety): resolve edge-case nullable dereference

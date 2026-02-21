@@ -4689,3 +4689,4 @@
 - [2026-02-20 20:36:50] style(design): polish tactile numpad elevation and haptics
 - [2026-02-20 21:01:41] style(theme): refine sapphire and cyan accent palette
 - [2026-02-21 08:53:08] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-02-21 08:11:53] docs(arch): update repository architectural blueprint

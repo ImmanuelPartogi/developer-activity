@@ -4695,3 +4695,4 @@
 - [2026-02-21 13:20:01] feat(cache): implement two-tier memory and persistent cache
 - [2026-02-21 17:41:39] style(design): polish tactile numpad elevation and haptics
 - [2026-02-21 17:58:43] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-02-21 17:24:27] test(unit): add behavioral test assertions for domain logic

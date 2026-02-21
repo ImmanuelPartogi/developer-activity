@@ -4694,3 +4694,4 @@
 - [2026-02-21 10:19:55] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-02-21 13:20:01] feat(cache): implement two-tier memory and persistent cache
 - [2026-02-21 17:41:39] style(design): polish tactile numpad elevation and haptics
+- [2026-02-21 17:58:43] fix(nullsafety): resolve edge-case nullable dereference

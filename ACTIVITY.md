@@ -4700,3 +4700,4 @@
 - [2026-02-22 11:39:45] perf(db): streamline sqlite indexed query execution
 - [2026-02-22 15:20:35] refactor(domain): isolate business logic from presentation layer
 - [2026-02-22 17:37:29] docs(telemetry): log continuous development activity
+- [2026-02-22 17:31:34] fix(nullsafety): resolve edge-case nullable dereference

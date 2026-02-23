@@ -4708,3 +4708,4 @@
 - [2026-02-22 20:38:18] feat(core): optimize reactive state flow lifecycle
 - [2026-02-22 20:55:38] test(integration): verify cross-platform pipeline integrity
 - [2026-02-23 10:21:38] feat(core): optimize reactive state flow lifecycle
+- [2026-02-23 10:33:32] fix(navigation): optimize pushReplacement transition timing

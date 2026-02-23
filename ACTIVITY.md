@@ -4715,3 +4715,4 @@
 - [2026-02-23 17:24:10] docs(telemetry): log continuous development activity
 - [2026-02-23 19:28:12] feat(auth): enhance biometric encryption handshake
 - [2026-02-23 20:33:22] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-02-23 20:15:22] refactor(domain): isolate business logic from presentation layer

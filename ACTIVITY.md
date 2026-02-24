@@ -4717,3 +4717,4 @@
 - [2026-02-23 20:33:22] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-02-23 20:15:22] refactor(domain): isolate business logic from presentation layer
 - [2026-02-23 21:39:04] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-02-24 09:10:26] perf(memory): eliminate memory leaks in stream subscriptions

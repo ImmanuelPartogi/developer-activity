@@ -4725,3 +4725,4 @@
 - [2026-02-24 15:23:11] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-02-24 16:04:36] chore(deps): review upstream security patches & dependencies
 - [2026-02-24 18:42:48] test(integration): verify cross-platform pipeline integrity
+- [2026-02-24 19:11:21] refactor(clean): decouple service layer contracts

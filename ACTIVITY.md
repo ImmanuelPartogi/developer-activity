@@ -4731,3 +4731,4 @@
 - [2026-02-25 08:36:27] docs(arch): update repository architectural blueprint
 - [2026-02-25 10:24:31] feat(cache): implement two-tier memory and persistent cache
 - [2026-02-25 10:53:29] feat(telemetry): record daily performance metrics
+- [2026-02-25 11:25:52] refactor(domain): isolate business logic from presentation layer

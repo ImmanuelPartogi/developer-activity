@@ -4748,3 +4748,4 @@
 - [2026-02-26 09:14:16] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-02-26 13:15:43] feat(analytics): add real-time category distribution parser
 - [2026-02-26 15:36:57] feat(analytics): add real-time category distribution parser
+- [2026-02-26 15:48:16] refactor(clean): decouple service layer contracts

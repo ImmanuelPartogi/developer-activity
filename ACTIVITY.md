@@ -4745,3 +4745,4 @@
 - [2026-02-26 08:26:32] fix(layout): adjust squircle corner radii and padding
 - [2026-02-26 08:34:43] test(integration): verify cross-platform pipeline integrity
 - [2026-02-26 08:36:52] perf(render): minimize widget rebuild tree overhead
+- [2026-02-26 09:14:16] perf(memory): eliminate memory leaks in stream subscriptions

@@ -4756,3 +4756,4 @@
 - [2026-02-26 18:55:28] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-02-26 21:34:26] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-02-27 09:38:35] refactor(domain): isolate business logic from presentation layer
+- [2026-02-27 09:30:28] fix(layout): adjust squircle corner radii and padding

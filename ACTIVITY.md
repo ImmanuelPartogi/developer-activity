@@ -4758,3 +4758,4 @@
 - [2026-02-27 09:38:35] refactor(domain): isolate business logic from presentation layer
 - [2026-02-27 09:30:28] fix(layout): adjust squircle corner radii and padding
 - [2026-02-27 10:28:34] refactor(domain): isolate business logic from presentation layer
+- [2026-02-27 12:51:24] refactor(ui): elevate glassmorphism tokens & dark elevation

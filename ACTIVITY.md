@@ -4766,3 +4766,4 @@
 - [2026-02-27 21:59:26] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-02-28 08:53:09] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-02-28 08:07:23] feat(analytics): add real-time category distribution parser
+- [2026-02-28 10:52:12] perf(memory): eliminate memory leaks in stream subscriptions

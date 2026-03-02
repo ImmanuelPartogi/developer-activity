@@ -4792,3 +4792,4 @@
 - [2026-03-02 18:59:37] test(integration): verify cross-platform pipeline integrity
 - [2026-03-02 20:13:34] style(design): polish tactile numpad elevation and haptics
 - [2026-03-02 20:59:43] style(theme): refine sapphire and cyan accent palette
+- [2026-03-02 21:01:27] refactor(domain): isolate business logic from presentation layer

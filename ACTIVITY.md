@@ -4785,3 +4785,4 @@
 - [2026-03-02 10:00:04] docs(telemetry): log continuous development activity
 - [2026-03-02 11:54:38] feat(sync): add offline outbox synchronization worker
 - [2026-03-02 11:06:29] refactor(domain): isolate business logic from presentation layer
+- [2026-03-02 13:51:04] perf(memory): eliminate memory leaks in stream subscriptions

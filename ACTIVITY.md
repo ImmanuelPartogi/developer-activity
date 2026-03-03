@@ -4803,3 +4803,4 @@
 - [2026-03-03 14:47:19] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-03-03 15:18:52] perf(db): streamline sqlite indexed query execution
 - [2026-03-03 15:37:13] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-03-03 17:02:57] perf(memory): eliminate memory leaks in stream subscriptions

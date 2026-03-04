@@ -4811,3 +4811,4 @@
 - [2026-03-03 21:50:27] perf(db): streamline sqlite indexed query execution
 - [2026-03-04 08:40:00] perf(db): streamline sqlite indexed query execution
 - [2026-03-04 09:32:09] refactor(clean): decouple service layer contracts
+- [2026-03-04 09:51:41] refactor(ui): elevate glassmorphism tokens & dark elevation

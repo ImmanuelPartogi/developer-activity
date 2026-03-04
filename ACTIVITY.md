@@ -4819,3 +4819,4 @@
 - [2026-03-04 17:58:51] chore(deps): review upstream security patches & dependencies
 - [2026-03-04 17:34:18] style(design): polish tactile numpad elevation and haptics
 - [2026-03-04 18:12:44] feat(cache): implement two-tier memory and persistent cache
+- [2026-03-04 18:51:16] refactor(clean): decouple service layer contracts

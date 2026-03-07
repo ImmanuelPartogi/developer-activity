@@ -4847,3 +4847,4 @@
 - [2026-03-06 21:02:05] docs(arch): update repository architectural blueprint
 - [2026-03-06 21:40:43] feat(cache): implement two-tier memory and persistent cache
 - [2026-03-07 11:44:30] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-03-07 11:54:51] perf(render): minimize widget rebuild tree overhead

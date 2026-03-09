@@ -4870,3 +4870,4 @@
 - [2026-03-09 11:42:41] chore(deps): review upstream security patches & dependencies
 - [2026-03-09 12:06:40] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-09 14:16:12] chore(deps): review upstream security patches & dependencies
+- [2026-03-09 14:03:25] perf(memory): eliminate memory leaks in stream subscriptions

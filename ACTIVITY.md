@@ -4912,3 +4912,4 @@
 - [2026-03-12 10:56:14] docs(arch): update repository architectural blueprint
 - [2026-03-12 12:06:24] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-03-12 13:22:52] docs(arch): update repository architectural blueprint
+- [2026-03-12 14:05:22] fix(nullsafety): resolve edge-case nullable dereference

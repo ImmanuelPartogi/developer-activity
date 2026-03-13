@@ -4926,3 +4926,4 @@
 - [2026-03-13 15:01:27] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-03-13 16:11:44] feat(auth): enhance biometric encryption handshake
 - [2026-03-13 18:23:17] docs(telemetry): log continuous development activity
+- [2026-03-13 19:04:48] refactor(domain): isolate business logic from presentation layer

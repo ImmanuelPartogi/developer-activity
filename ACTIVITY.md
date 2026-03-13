@@ -4921,3 +4921,4 @@
 - [2026-03-13 08:22:41] test(integration): verify cross-platform pipeline integrity
 - [2026-03-13 09:08:27] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-13 12:00:51] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-03-13 12:42:36] docs(arch): update repository architectural blueprint

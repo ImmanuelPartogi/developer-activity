@@ -4945,3 +4945,4 @@
 - [2026-03-15 13:42:47] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-03-15 13:04:12] test(benchmark): execute flame chart micro-benchmarks
 - [2026-03-15 13:40:15] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-03-15 13:26:03] refactor(clean): decouple service layer contracts

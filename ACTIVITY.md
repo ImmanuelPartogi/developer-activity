@@ -4942,3 +4942,4 @@
 - [2026-03-15 11:21:05] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-03-15 12:46:30] feat(analytics): add real-time category distribution parser
 - [2026-03-15 12:02:27] refactor(clean): decouple service layer contracts
+- [2026-03-15 13:42:47] refactor(ui): elevate glassmorphism tokens & dark elevation

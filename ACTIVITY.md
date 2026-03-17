@@ -4962,3 +4962,4 @@
 - [2026-03-17 08:23:38] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-03-17 09:05:36] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-17 10:10:15] feat(cache): implement two-tier memory and persistent cache
+- [2026-03-17 12:48:34] refactor(clean): decouple service layer contracts

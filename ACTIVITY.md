@@ -4961,3 +4961,4 @@
 - [2026-03-17 08:06:21] docs(arch): update repository architectural blueprint
 - [2026-03-17 08:23:38] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-03-17 09:05:36] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-03-17 10:10:15] feat(cache): implement two-tier memory and persistent cache

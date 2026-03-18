@@ -4973,3 +4973,4 @@
 - [2026-03-18 11:16:38] perf(render): minimize widget rebuild tree overhead
 - [2026-03-18 13:36:42] feat(sync): add offline outbox synchronization worker
 - [2026-03-18 15:41:25] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-03-18 16:54:30] perf(memory): eliminate memory leaks in stream subscriptions

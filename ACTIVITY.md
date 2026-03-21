@@ -5005,3 +5005,4 @@
 - [2026-03-20 21:35:23] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-03-21 08:17:10] chore(deps): review upstream security patches & dependencies
 - [2026-03-21 09:38:17] docs(telemetry): log continuous development activity
+- [2026-03-21 11:03:49] refactor(domain): isolate business logic from presentation layer

@@ -5003,3 +5003,4 @@
 - [2026-03-20 17:45:16] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-20 18:48:16] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-20 21:35:23] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-03-21 08:17:10] chore(deps): review upstream security patches & dependencies

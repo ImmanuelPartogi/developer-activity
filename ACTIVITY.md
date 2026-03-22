@@ -5023,3 +5023,4 @@
 - [2026-03-22 16:58:08] refactor(domain): isolate business logic from presentation layer
 - [2026-03-22 17:17:22] perf(db): streamline sqlite indexed query execution
 - [2026-03-22 19:21:37] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-03-22 19:08:27] feat(sync): add offline outbox synchronization worker

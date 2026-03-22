@@ -5024,3 +5024,4 @@
 - [2026-03-22 17:17:22] perf(db): streamline sqlite indexed query execution
 - [2026-03-22 19:21:37] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-03-22 19:08:27] feat(sync): add offline outbox synchronization worker
+- [2026-03-22 19:35:07] feat(cache): implement two-tier memory and persistent cache

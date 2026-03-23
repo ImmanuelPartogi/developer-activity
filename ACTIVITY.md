@@ -5029,3 +5029,4 @@
 - [2026-03-23 11:10:56] feat(sync): add offline outbox synchronization worker
 - [2026-03-23 11:26:24] fix(layout): adjust squircle corner radii and padding
 - [2026-03-23 12:47:11] test(unit): add behavioral test assertions for domain logic
+- [2026-03-23 12:59:02] perf(db): streamline sqlite indexed query execution

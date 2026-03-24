@@ -5045,3 +5045,4 @@
 - [2026-03-24 15:11:53] docs(arch): update repository architectural blueprint
 - [2026-03-24 16:07:32] chore(deps): review upstream security patches & dependencies
 - [2026-03-24 17:25:14] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-03-24 17:46:33] fix(nullsafety): resolve edge-case nullable dereference

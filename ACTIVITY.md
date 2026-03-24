@@ -5046,3 +5046,4 @@
 - [2026-03-24 16:07:32] chore(deps): review upstream security patches & dependencies
 - [2026-03-24 17:25:14] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-03-24 17:46:33] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-03-24 17:31:29] refactor(clean): decouple service layer contracts

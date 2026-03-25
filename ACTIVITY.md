@@ -5048,3 +5048,4 @@
 - [2026-03-24 17:46:33] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-24 17:31:29] refactor(clean): decouple service layer contracts
 - [2026-03-24 17:06:31] feat(core): optimize reactive state flow lifecycle
+- [2026-03-25 09:26:34] refactor(domain): isolate business logic from presentation layer

@@ -5074,3 +5074,4 @@
 - [2026-03-26 16:02:50] docs(arch): update repository architectural blueprint
 - [2026-03-26 16:52:59] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-03-26 16:41:15] chore(deps): review upstream security patches & dependencies
+- [2026-03-26 17:25:59] feat(sync): add offline outbox synchronization worker

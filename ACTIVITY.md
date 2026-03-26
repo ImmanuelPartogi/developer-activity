@@ -5069,3 +5069,4 @@
 - [2026-03-26 10:59:24] feat(auth): enhance biometric encryption handshake
 - [2026-03-26 14:14:54] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-03-26 14:46:33] docs(arch): update repository architectural blueprint
+- [2026-03-26 16:10:01] fix(navigation): optimize pushReplacement transition timing

@@ -5106,3 +5106,4 @@
 - [2026-03-29 09:22:20] refactor(domain): isolate business logic from presentation layer
 - [2026-03-29 10:05:51] test(benchmark): execute flame chart micro-benchmarks
 - [2026-03-29 13:55:56] fix(layout): adjust squircle corner radii and padding
+- [2026-03-29 17:05:51] fix(navigation): optimize pushReplacement transition timing

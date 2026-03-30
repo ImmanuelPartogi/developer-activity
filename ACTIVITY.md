@@ -5119,3 +5119,4 @@
 - [2026-03-30 18:14:06] test(unit): add behavioral test assertions for domain logic
 - [2026-03-30 18:55:12] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-03-30 19:46:14] feat(cache): implement two-tier memory and persistent cache
+- [2026-03-30 20:37:50] refactor(clean): decouple service layer contracts

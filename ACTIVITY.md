@@ -5111,3 +5111,4 @@
 - [2026-03-30 08:32:58] style(design): polish tactile numpad elevation and haptics
 - [2026-03-30 09:21:10] feat(sync): add offline outbox synchronization worker
 - [2026-03-30 10:43:48] perf(db): streamline sqlite indexed query execution
+- [2026-03-30 10:36:53] docs(arch): update repository architectural blueprint

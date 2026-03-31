@@ -5129,3 +5129,4 @@
 - [2026-03-31 13:37:01] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-03-31 13:43:47] test(benchmark): execute flame chart micro-benchmarks
 - [2026-03-31 13:39:05] docs(arch): update repository architectural blueprint
+- [2026-03-31 14:50:51] fix(navigation): optimize pushReplacement transition timing

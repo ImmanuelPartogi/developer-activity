@@ -5177,3 +5177,4 @@
 - [2026-04-03 17:46:47] feat(telemetry): record daily performance metrics
 - [2026-04-03 18:10:57] fix(layout): adjust squircle corner radii and padding
 - [2026-04-03 20:24:00] feat(core): optimize reactive state flow lifecycle
+- [2026-04-03 20:29:13] fix(navigation): optimize pushReplacement transition timing

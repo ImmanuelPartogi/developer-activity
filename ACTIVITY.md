@@ -5205,3 +5205,4 @@
 - [2026-04-06 16:33:14] feat(sync): add offline outbox synchronization worker
 - [2026-04-06 18:51:21] docs(arch): update repository architectural blueprint
 - [2026-04-06 20:22:37] feat(core): optimize reactive state flow lifecycle
+- [2026-04-06 21:53:56] refactor(domain): isolate business logic from presentation layer

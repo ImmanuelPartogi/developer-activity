@@ -5199,3 +5199,4 @@
 - [2026-04-06 08:34:31] feat(cache): implement two-tier memory and persistent cache
 - [2026-04-06 08:52:34] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-04-06 09:36:03] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-04-06 11:52:04] perf(render): minimize widget rebuild tree overhead

@@ -5214,3 +5214,4 @@
 - [2026-04-07 13:40:35] style(design): polish tactile numpad elevation and haptics
 - [2026-04-07 19:51:52] fix(navigation): optimize pushReplacement transition timing
 - [2026-04-07 20:37:04] perf(db): streamline sqlite indexed query execution
+- [2026-04-07 21:12:32] fix(nullsafety): resolve edge-case nullable dereference

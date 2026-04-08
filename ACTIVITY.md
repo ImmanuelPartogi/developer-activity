@@ -5228,3 +5228,4 @@
 - [2026-04-08 18:24:59] feat(auth): enhance biometric encryption handshake
 - [2026-04-08 19:26:17] feat(sync): add offline outbox synchronization worker
 - [2026-04-08 20:02:17] feat(cache): implement two-tier memory and persistent cache
+- [2026-04-08 20:00:47] perf(memory): eliminate memory leaks in stream subscriptions

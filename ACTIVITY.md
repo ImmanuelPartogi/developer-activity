@@ -5216,3 +5216,4 @@
 - [2026-04-07 20:37:04] perf(db): streamline sqlite indexed query execution
 - [2026-04-07 21:12:32] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-07 21:41:49] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-04-08 09:19:26] refactor(ui): elevate glassmorphism tokens & dark elevation

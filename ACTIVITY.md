@@ -5236,3 +5236,4 @@
 - [2026-04-09 12:52:28] style(theme): refine sapphire and cyan accent palette
 - [2026-04-09 13:33:29] docs(arch): update repository architectural blueprint
 - [2026-04-09 16:38:18] perf(db): streamline sqlite indexed query execution
+- [2026-04-09 16:53:24] feat(sync): add offline outbox synchronization worker

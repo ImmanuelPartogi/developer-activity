@@ -5246,3 +5246,4 @@
 - [2026-04-10 10:40:33] chore(deps): review upstream security patches & dependencies
 - [2026-04-10 13:36:47] feat(telemetry): record daily performance metrics
 - [2026-04-10 13:52:26] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-04-10 14:23:50] refactor(clean): decouple service layer contracts

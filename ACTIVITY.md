@@ -5252,3 +5252,4 @@
 - [2026-04-10 19:10:28] perf(render): minimize widget rebuild tree overhead
 - [2026-04-10 20:36:55] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-04-10 21:17:41] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-04-11 11:00:16] fix(nullsafety): resolve edge-case nullable dereference

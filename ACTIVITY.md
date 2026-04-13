@@ -5266,3 +5266,4 @@
 - [2026-04-12 18:34:12] style(theme): refine sapphire and cyan accent palette
 - [2026-04-12 19:28:03] perf(render): minimize widget rebuild tree overhead
 - [2026-04-13 09:30:35] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-04-13 10:42:18] refactor(domain): isolate business logic from presentation layer

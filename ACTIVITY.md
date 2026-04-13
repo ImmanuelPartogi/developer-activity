@@ -5271,3 +5271,4 @@
 - [2026-04-13 12:27:12] feat(analytics): add real-time category distribution parser
 - [2026-04-13 13:16:30] fix(navigation): optimize pushReplacement transition timing
 - [2026-04-13 13:04:48] test(benchmark): execute flame chart micro-benchmarks
+- [2026-04-13 13:29:38] perf(memory): eliminate memory leaks in stream subscriptions

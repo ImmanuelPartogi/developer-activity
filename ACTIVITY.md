@@ -5276,3 +5276,4 @@
 - [2026-04-13 15:02:14] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-13 18:55:03] chore(deps): review upstream security patches & dependencies
 - [2026-04-13 18:55:32] feat(security): enforce bank-grade AES-256 payload encryption
+- [2026-04-13 19:32:40] refactor(domain): isolate business logic from presentation layer

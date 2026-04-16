@@ -5305,3 +5305,4 @@
 - [2026-04-16 08:33:48] fix(layout): adjust squircle corner radii and padding
 - [2026-04-16 09:06:05] feat(cache): implement two-tier memory and persistent cache
 - [2026-04-16 10:50:11] feat(auth): enhance biometric encryption handshake
+- [2026-04-16 10:30:48] refactor(clean): decouple service layer contracts

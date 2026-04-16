@@ -5307,3 +5307,4 @@
 - [2026-04-16 10:50:11] feat(auth): enhance biometric encryption handshake
 - [2026-04-16 10:30:48] refactor(clean): decouple service layer contracts
 - [2026-04-16 16:42:15] perf(render): minimize widget rebuild tree overhead
+- [2026-04-16 16:07:57] fix(navigation): optimize pushReplacement transition timing

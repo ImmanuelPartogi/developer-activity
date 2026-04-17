@@ -5315,3 +5315,4 @@
 - [2026-04-17 11:51:34] style(theme): refine sapphire and cyan accent palette
 - [2026-04-17 11:42:48] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-04-17 12:00:10] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-04-17 16:10:17] perf(db): streamline sqlite indexed query execution

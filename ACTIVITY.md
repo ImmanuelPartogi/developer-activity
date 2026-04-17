@@ -5322,3 +5322,4 @@
 - [2026-04-17 19:53:32] fix(layout): adjust squircle corner radii and padding
 - [2026-04-17 20:06:53] test(benchmark): execute flame chart micro-benchmarks
 - [2026-04-17 21:30:24] style(theme): refine sapphire and cyan accent palette
+- [2026-04-17 21:09:18] fix(nullsafety): resolve edge-case nullable dereference

@@ -5313,3 +5313,4 @@
 - [2026-04-16 19:08:28] perf(render): minimize widget rebuild tree overhead
 - [2026-04-17 09:49:28] refactor(domain): isolate business logic from presentation layer
 - [2026-04-17 11:51:34] style(theme): refine sapphire and cyan accent palette
+- [2026-04-17 11:42:48] refactor(ui): elevate glassmorphism tokens & dark elevation

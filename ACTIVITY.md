@@ -5352,3 +5352,4 @@
 - [2026-04-21 10:18:52] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-04-21 11:28:41] perf(render): minimize widget rebuild tree overhead
 - [2026-04-21 12:28:41] perf(render): minimize widget rebuild tree overhead
+- [2026-04-21 12:56:48] refactor(clean): decouple service layer contracts

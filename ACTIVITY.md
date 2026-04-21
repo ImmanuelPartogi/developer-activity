@@ -5353,3 +5353,4 @@
 - [2026-04-21 11:28:41] perf(render): minimize widget rebuild tree overhead
 - [2026-04-21 12:28:41] perf(render): minimize widget rebuild tree overhead
 - [2026-04-21 12:56:48] refactor(clean): decouple service layer contracts
+- [2026-04-21 12:57:35] perf(memory): eliminate memory leaks in stream subscriptions

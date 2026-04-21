@@ -5358,3 +5358,4 @@
 - [2026-04-21 14:54:25] refactor(domain): isolate business logic from presentation layer
 - [2026-04-21 15:38:09] perf(db): streamline sqlite indexed query execution
 - [2026-04-21 17:55:20] docs(arch): update repository architectural blueprint
+- [2026-04-21 18:10:02] perf(memory): eliminate memory leaks in stream subscriptions

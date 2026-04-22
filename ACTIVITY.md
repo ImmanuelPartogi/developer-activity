@@ -5369,3 +5369,4 @@
 - [2026-04-22 14:33:21] feat(cache): implement two-tier memory and persistent cache
 - [2026-04-22 14:12:46] feat(auth): enhance biometric encryption handshake
 - [2026-04-22 14:07:06] fix(layout): adjust squircle corner radii and padding
+- [2026-04-22 15:15:29] feat(sync): add offline outbox synchronization worker

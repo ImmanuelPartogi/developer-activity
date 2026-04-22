@@ -5371,3 +5371,4 @@
 - [2026-04-22 14:07:06] fix(layout): adjust squircle corner radii and padding
 - [2026-04-22 15:15:29] feat(sync): add offline outbox synchronization worker
 - [2026-04-22 16:46:31] style(theme): refine sapphire and cyan accent palette
+- [2026-04-22 17:24:42] chore(tooling): upgrade lint rules to latest strict standard

@@ -5376,3 +5376,4 @@
 - [2026-04-22 17:21:20] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-04-22 18:15:00] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-22 19:01:00] refactor(clean): decouple service layer contracts
+- [2026-04-22 20:48:28] test(unit): add behavioral test assertions for domain logic

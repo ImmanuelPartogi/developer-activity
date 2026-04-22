@@ -5374,3 +5374,4 @@
 - [2026-04-22 17:24:42] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-04-22 17:18:43] feat(cache): implement two-tier memory and persistent cache
 - [2026-04-22 17:21:20] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-04-22 18:15:00] fix(nullsafety): resolve edge-case nullable dereference

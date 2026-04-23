@@ -5382,3 +5382,4 @@
 - [2026-04-23 09:16:21] refactor(clean): decouple service layer contracts
 - [2026-04-23 10:09:55] style(theme): refine sapphire and cyan accent palette
 - [2026-04-23 11:20:24] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-04-23 11:26:16] fix(nullsafety): resolve edge-case nullable dereference

@@ -5377,3 +5377,4 @@
 - [2026-04-22 18:15:00] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-22 19:01:00] refactor(clean): decouple service layer contracts
 - [2026-04-22 20:48:28] test(unit): add behavioral test assertions for domain logic
+- [2026-04-23 08:25:51] docs(arch): update repository architectural blueprint

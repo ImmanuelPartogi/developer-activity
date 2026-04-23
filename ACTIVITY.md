@@ -5380,3 +5380,4 @@
 - [2026-04-23 08:25:51] docs(arch): update repository architectural blueprint
 - [2026-04-23 09:38:46] perf(db): streamline sqlite indexed query execution
 - [2026-04-23 09:16:21] refactor(clean): decouple service layer contracts
+- [2026-04-23 10:09:55] style(theme): refine sapphire and cyan accent palette

@@ -5386,3 +5386,4 @@
 - [2026-04-23 12:13:29] refactor(domain): isolate business logic from presentation layer
 - [2026-04-23 13:59:04] perf(db): streamline sqlite indexed query execution
 - [2026-04-23 16:23:04] feat(security): enforce bank-grade AES-256 payload encryption
+- [2026-04-23 17:48:17] feat(sync): add offline outbox synchronization worker

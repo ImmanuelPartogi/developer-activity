@@ -5383,3 +5383,4 @@
 - [2026-04-23 10:09:55] style(theme): refine sapphire and cyan accent palette
 - [2026-04-23 11:20:24] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-23 11:26:16] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-04-23 12:13:29] refactor(domain): isolate business logic from presentation layer

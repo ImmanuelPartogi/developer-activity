@@ -5379,3 +5379,4 @@
 - [2026-04-22 20:48:28] test(unit): add behavioral test assertions for domain logic
 - [2026-04-23 08:25:51] docs(arch): update repository architectural blueprint
 - [2026-04-23 09:38:46] perf(db): streamline sqlite indexed query execution
+- [2026-04-23 09:16:21] refactor(clean): decouple service layer contracts

@@ -5400,3 +5400,4 @@
 - [2026-04-24 16:04:15] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-04-24 17:36:54] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-24 17:34:38] feat(telemetry): record daily performance metrics
+- [2026-04-24 17:46:40] refactor(domain): isolate business logic from presentation layer

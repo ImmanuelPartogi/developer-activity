@@ -5403,3 +5403,4 @@
 - [2026-04-24 17:46:40] refactor(domain): isolate business logic from presentation layer
 - [2026-04-24 18:23:06] perf(render): minimize widget rebuild tree overhead
 - [2026-04-24 19:38:09] style(theme): refine sapphire and cyan accent palette
+- [2026-04-24 21:43:25] fix(nullsafety): resolve edge-case nullable dereference

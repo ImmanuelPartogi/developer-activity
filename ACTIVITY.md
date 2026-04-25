@@ -5408,3 +5408,4 @@
 - [2026-04-25 10:51:31] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-04-25 11:11:24] test(integration): verify cross-platform pipeline integrity
 - [2026-04-25 13:09:45] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-04-25 18:19:40] refactor(clean): decouple service layer contracts

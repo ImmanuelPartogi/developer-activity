@@ -5425,3 +5425,4 @@
 - [2026-04-27 12:35:20] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-04-27 12:49:57] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-04-27 13:53:36] feat(cache): implement two-tier memory and persistent cache
+- [2026-04-27 16:22:26] feat(auth): enhance biometric encryption handshake

@@ -5429,3 +5429,4 @@
 - [2026-04-27 16:43:51] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-04-27 18:25:21] feat(sync): add offline outbox synchronization worker
 - [2026-04-27 18:38:52] test(benchmark): execute flame chart micro-benchmarks
+- [2026-04-27 18:09:15] perf(memory): eliminate memory leaks in stream subscriptions

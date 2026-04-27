@@ -5423,3 +5423,4 @@
 - [2026-04-27 11:35:30] feat(telemetry): record daily performance metrics
 - [2026-04-27 12:23:16] style(design): polish tactile numpad elevation and haptics
 - [2026-04-27 12:35:20] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-04-27 12:49:57] perf(memory): eliminate memory leaks in stream subscriptions

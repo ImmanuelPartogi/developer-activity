@@ -5444,3 +5444,4 @@
 - [2026-04-28 20:35:12] style(design): polish tactile numpad elevation and haptics
 - [2026-04-29 08:41:54] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-04-29 10:53:20] fix(layout): adjust squircle corner radii and padding
+- [2026-04-29 10:32:33] perf(memory): eliminate memory leaks in stream subscriptions

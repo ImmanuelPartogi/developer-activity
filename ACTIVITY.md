@@ -5445,3 +5445,4 @@
 - [2026-04-29 08:41:54] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-04-29 10:53:20] fix(layout): adjust squircle corner radii and padding
 - [2026-04-29 10:32:33] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-04-29 11:34:46] docs(arch): update repository architectural blueprint

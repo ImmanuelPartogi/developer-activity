@@ -5442,3 +5442,4 @@
 - [2026-04-28 16:05:18] feat(telemetry): record daily performance metrics
 - [2026-04-28 18:28:46] feat(auth): enhance biometric encryption handshake
 - [2026-04-28 20:35:12] style(design): polish tactile numpad elevation and haptics
+- [2026-04-29 08:41:54] refactor(ui): elevate glassmorphism tokens & dark elevation

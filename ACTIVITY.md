@@ -5483,3 +5483,4 @@
 - [2026-05-01 18:22:14] docs(arch): update repository architectural blueprint
 - [2026-05-01 18:49:36] chore(deps): review upstream security patches & dependencies
 - [2026-05-01 18:07:06] perf(render): minimize widget rebuild tree overhead
+- [2026-05-01 19:09:41] feat(cache): implement two-tier memory and persistent cache

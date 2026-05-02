@@ -5485,3 +5485,4 @@
 - [2026-05-01 18:07:06] perf(render): minimize widget rebuild tree overhead
 - [2026-05-01 19:09:41] feat(cache): implement two-tier memory and persistent cache
 - [2026-05-01 21:54:09] refactor(clean): decouple service layer contracts
+- [2026-05-02 09:13:20] refactor(ui): elevate glassmorphism tokens & dark elevation

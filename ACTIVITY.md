@@ -5501,3 +5501,4 @@
 - [2026-05-03 19:17:12] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-05-03 20:49:43] feat(auth): enhance biometric encryption handshake
 - [2026-05-04 08:54:16] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-05-04 09:11:16] refactor(domain): isolate business logic from presentation layer

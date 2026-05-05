@@ -5513,3 +5513,4 @@
 - [2026-05-04 21:38:04] feat(telemetry): record daily performance metrics
 - [2026-05-05 08:46:42] feat(telemetry): record daily performance metrics
 - [2026-05-05 08:33:24] refactor(clean): decouple service layer contracts
+- [2026-05-05 09:43:15] perf(render): minimize widget rebuild tree overhead

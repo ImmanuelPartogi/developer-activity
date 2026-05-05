@@ -5522,3 +5522,4 @@
 - [2026-05-05 18:20:49] test(integration): verify cross-platform pipeline integrity
 - [2026-05-05 18:28:37] feat(auth): enhance biometric encryption handshake
 - [2026-05-05 19:05:38] chore(deps): review upstream security patches & dependencies
+- [2026-05-05 19:47:43] refactor(clean): decouple service layer contracts

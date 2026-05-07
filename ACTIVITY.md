@@ -5547,3 +5547,4 @@
 - [2026-05-07 14:41:13] refactor(clean): decouple service layer contracts
 - [2026-05-07 16:21:58] test(unit): add behavioral test assertions for domain logic
 - [2026-05-07 16:19:02] fix(layout): adjust squircle corner radii and padding
+- [2026-05-07 17:05:31] docs(arch): update repository architectural blueprint

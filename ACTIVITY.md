@@ -5539,3 +5539,4 @@
 - [2026-05-06 18:50:52] perf(db): streamline sqlite indexed query execution
 - [2026-05-06 18:24:00] fix(navigation): optimize pushReplacement transition timing
 - [2026-05-06 18:39:56] feat(auth): enhance biometric encryption handshake
+- [2026-05-07 08:46:32] perf(memory): eliminate memory leaks in stream subscriptions

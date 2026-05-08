@@ -5553,3 +5553,4 @@
 - [2026-05-07 21:02:06] feat(core): optimize reactive state flow lifecycle
 - [2026-05-07 21:32:16] refactor(clean): decouple service layer contracts
 - [2026-05-08 08:46:51] feat(core): optimize reactive state flow lifecycle
+- [2026-05-08 11:05:48] perf(memory): eliminate memory leaks in stream subscriptions

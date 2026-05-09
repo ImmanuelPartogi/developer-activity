@@ -5565,3 +5565,4 @@
 - [2026-05-09 10:09:33] perf(db): streamline sqlite indexed query execution
 - [2026-05-09 11:58:02] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-05-09 12:31:50] feat(auth): enhance biometric encryption handshake
+- [2026-05-09 14:58:21] refactor(clean): decouple service layer contracts

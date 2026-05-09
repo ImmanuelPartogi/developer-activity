@@ -5563,3 +5563,4 @@
 - [2026-05-08 21:34:42] feat(analytics): add real-time category distribution parser
 - [2026-05-09 08:11:31] refactor(domain): isolate business logic from presentation layer
 - [2026-05-09 10:09:33] perf(db): streamline sqlite indexed query execution
+- [2026-05-09 11:58:02] refactor(ui): elevate glassmorphism tokens & dark elevation

@@ -5576,3 +5576,4 @@
 - [2026-05-10 17:28:48] feat(core): optimize reactive state flow lifecycle
 - [2026-05-10 17:02:42] test(unit): add behavioral test assertions for domain logic
 - [2026-05-10 19:42:47] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-05-11 09:32:36] fix(navigation): optimize pushReplacement transition timing

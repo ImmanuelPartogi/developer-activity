@@ -5583,3 +5583,4 @@
 - [2026-05-11 15:00:47] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-05-11 18:04:17] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-05-11 19:04:15] style(theme): refine sapphire and cyan accent palette
+- [2026-05-11 21:41:17] docs(arch): update repository architectural blueprint

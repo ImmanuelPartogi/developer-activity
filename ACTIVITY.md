@@ -5611,3 +5611,4 @@
 - [2026-05-13 20:59:13] feat(cache): implement two-tier memory and persistent cache
 - [2026-05-14 08:08:06] fix(navigation): optimize pushReplacement transition timing
 - [2026-05-14 13:36:50] feat(sync): add offline outbox synchronization worker
+- [2026-05-14 13:03:53] fix(nullsafety): resolve edge-case nullable dereference

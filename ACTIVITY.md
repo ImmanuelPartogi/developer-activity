@@ -5609,3 +5609,4 @@
 - [2026-05-13 17:20:50] perf(render): minimize widget rebuild tree overhead
 - [2026-05-13 20:07:36] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-05-13 20:59:13] feat(cache): implement two-tier memory and persistent cache
+- [2026-05-14 08:08:06] fix(navigation): optimize pushReplacement transition timing

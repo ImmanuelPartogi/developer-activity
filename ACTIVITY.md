@@ -5612,3 +5612,4 @@
 - [2026-05-14 08:08:06] fix(navigation): optimize pushReplacement transition timing
 - [2026-05-14 13:36:50] feat(sync): add offline outbox synchronization worker
 - [2026-05-14 13:03:53] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-05-14 14:01:09] fix(nullsafety): resolve edge-case nullable dereference

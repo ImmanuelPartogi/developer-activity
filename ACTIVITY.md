@@ -5628,3 +5628,4 @@
 - [2026-05-15 08:54:38] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-15 10:27:19] refactor(domain): isolate business logic from presentation layer
 - [2026-05-15 10:21:04] test(unit): add behavioral test assertions for domain logic
+- [2026-05-15 12:52:43] refactor(clean): decouple service layer contracts

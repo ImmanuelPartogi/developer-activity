@@ -5625,3 +5625,4 @@
 - [2026-05-14 19:34:25] perf(render): minimize widget rebuild tree overhead
 - [2026-05-14 20:14:34] test(integration): verify cross-platform pipeline integrity
 - [2026-05-14 20:45:15] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-05-15 08:54:38] fix(nullsafety): resolve edge-case nullable dereference

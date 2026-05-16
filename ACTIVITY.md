@@ -5641,3 +5641,4 @@
 - [2026-05-15 20:58:17] style(theme): refine sapphire and cyan accent palette
 - [2026-05-15 21:56:25] feat(analytics): add real-time category distribution parser
 - [2026-05-16 09:46:05] refactor(domain): isolate business logic from presentation layer
+- [2026-05-16 11:56:59] fix(nullsafety): resolve edge-case nullable dereference

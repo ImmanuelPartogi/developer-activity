@@ -5643,3 +5643,4 @@
 - [2026-05-16 09:46:05] refactor(domain): isolate business logic from presentation layer
 - [2026-05-16 11:56:59] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-16 12:43:28] refactor(domain): isolate business logic from presentation layer
+- [2026-05-16 16:29:36] fix(layout): adjust squircle corner radii and padding

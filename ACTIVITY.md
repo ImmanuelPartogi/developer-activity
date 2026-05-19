@@ -5672,3 +5672,4 @@
 - [2026-05-19 16:47:46] chore(deps): review upstream security patches & dependencies
 - [2026-05-19 17:48:50] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-05-19 18:25:51] test(unit): add behavioral test assertions for domain logic
+- [2026-05-19 19:53:02] fix(nullsafety): resolve edge-case nullable dereference

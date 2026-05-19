@@ -5670,3 +5670,4 @@
 - [2026-05-19 15:46:17] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-05-19 16:36:47] fix(navigation): optimize pushReplacement transition timing
 - [2026-05-19 16:47:46] chore(deps): review upstream security patches & dependencies
+- [2026-05-19 17:48:50] perf(memory): eliminate memory leaks in stream subscriptions

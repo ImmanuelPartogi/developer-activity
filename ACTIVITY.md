@@ -5675,3 +5675,4 @@
 - [2026-05-19 19:53:02] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-19 19:02:32] feat(auth): enhance biometric encryption handshake
 - [2026-05-19 20:11:08] perf(db): streamline sqlite indexed query execution
+- [2026-05-19 21:35:45] refactor(ui): elevate glassmorphism tokens & dark elevation

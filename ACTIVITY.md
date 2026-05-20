@@ -5678,3 +5678,4 @@
 - [2026-05-19 21:35:45] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-05-20 09:13:17] perf(db): streamline sqlite indexed query execution
 - [2026-05-20 09:17:03] style(theme): refine sapphire and cyan accent palette
+- [2026-05-20 10:43:35] perf(memory): eliminate memory leaks in stream subscriptions

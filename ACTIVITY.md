@@ -5698,3 +5698,4 @@
 - [2026-05-21 16:07:01] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-05-21 17:55:34] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-21 18:32:57] test(integration): verify cross-platform pipeline integrity
+- [2026-05-21 19:57:55] style(theme): refine sapphire and cyan accent palette

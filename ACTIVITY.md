@@ -5704,3 +5704,4 @@
 - [2026-05-21 21:38:33] feat(sync): add offline outbox synchronization worker
 - [2026-05-21 21:38:41] test(integration): verify cross-platform pipeline integrity
 - [2026-05-22 09:28:00] style(design): polish tactile numpad elevation and haptics
+- [2026-05-22 14:41:23] fix(layout): adjust squircle corner radii and padding

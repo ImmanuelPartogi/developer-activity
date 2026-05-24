@@ -5722,3 +5722,4 @@
 - [2026-05-23 21:04:56] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-05-23 21:19:13] feat(telemetry): record daily performance metrics
 - [2026-05-24 09:09:13] perf(db): streamline sqlite indexed query execution
+- [2026-05-24 10:57:56] feat(sync): add offline outbox synchronization worker

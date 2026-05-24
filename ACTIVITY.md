@@ -5725,3 +5725,4 @@
 - [2026-05-24 10:57:56] feat(sync): add offline outbox synchronization worker
 - [2026-05-24 14:22:45] refactor(clean): decouple service layer contracts
 - [2026-05-24 14:48:39] fix(navigation): optimize pushReplacement transition timing
+- [2026-05-24 16:49:40] fix(navigation): optimize pushReplacement transition timing

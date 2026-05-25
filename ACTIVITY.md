@@ -5735,3 +5735,4 @@
 - [2026-05-25 16:13:02] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-25 17:36:47] refactor(clean): decouple service layer contracts
 - [2026-05-25 17:20:32] test(unit): add behavioral test assertions for domain logic
+- [2026-05-25 21:29:14] fix(layout): adjust squircle corner radii and padding

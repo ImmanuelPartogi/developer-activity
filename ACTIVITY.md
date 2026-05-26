@@ -5745,3 +5745,4 @@
 - [2026-05-26 15:35:40] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-26 16:48:16] test(unit): add behavioral test assertions for domain logic
 - [2026-05-26 18:01:29] test(integration): verify cross-platform pipeline integrity
+- [2026-05-26 19:14:31] chore(tooling): upgrade lint rules to latest strict standard

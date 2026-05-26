@@ -5738,3 +5738,4 @@
 - [2026-05-25 21:29:14] fix(layout): adjust squircle corner radii and padding
 - [2026-05-26 10:21:31] fix(layout): adjust squircle corner radii and padding
 - [2026-05-26 12:24:27] test(integration): verify cross-platform pipeline integrity
+- [2026-05-26 13:48:36] feat(sync): add offline outbox synchronization worker

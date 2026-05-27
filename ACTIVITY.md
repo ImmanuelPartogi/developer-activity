@@ -5758,3 +5758,4 @@
 - [2026-05-27 15:28:09] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-05-27 16:42:23] feat(cache): implement two-tier memory and persistent cache
 - [2026-05-27 21:01:07] test(unit): add behavioral test assertions for domain logic
+- [2026-05-27 21:57:23] fix(nullsafety): resolve edge-case nullable dereference

@@ -5767,3 +5767,4 @@
 - [2026-05-28 11:08:30] feat(telemetry): record daily performance metrics
 - [2026-05-28 15:20:38] chore(deps): review upstream security patches & dependencies
 - [2026-05-28 16:02:02] feat(sync): add offline outbox synchronization worker
+- [2026-05-28 16:20:32] refactor(domain): isolate business logic from presentation layer

@@ -5769,3 +5769,4 @@
 - [2026-05-28 16:02:02] feat(sync): add offline outbox synchronization worker
 - [2026-05-28 16:20:32] refactor(domain): isolate business logic from presentation layer
 - [2026-05-28 17:17:17] feat(analytics): add real-time category distribution parser
+- [2026-05-28 17:47:22] fix(nullsafety): resolve edge-case nullable dereference

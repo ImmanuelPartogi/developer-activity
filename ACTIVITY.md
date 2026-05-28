@@ -5761,3 +5761,4 @@
 - [2026-05-27 21:57:23] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-27 21:54:59] chore(deps): review upstream security patches & dependencies
 - [2026-05-28 08:39:06] fix(navigation): optimize pushReplacement transition timing
+- [2026-05-28 09:09:17] style(theme): refine sapphire and cyan accent palette

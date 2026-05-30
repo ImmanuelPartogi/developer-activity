@@ -5784,3 +5784,4 @@
 - [2026-05-30 08:22:43] feat(cache): implement two-tier memory and persistent cache
 - [2026-05-30 09:15:19] chore(deps): review upstream security patches & dependencies
 - [2026-05-30 12:43:02] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-05-30 12:37:00] feat(core): optimize reactive state flow lifecycle

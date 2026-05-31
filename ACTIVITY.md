@@ -5801,3 +5801,4 @@
 - [2026-05-31 15:23:42] style(design): polish tactile numpad elevation and haptics
 - [2026-05-31 17:25:19] refactor(clean): decouple service layer contracts
 - [2026-05-31 18:10:44] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-05-31 19:51:19] feat(cache): implement two-tier memory and persistent cache

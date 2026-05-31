@@ -5795,3 +5795,4 @@
 - [2026-05-31 10:30:37] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-05-31 11:25:48] test(integration): verify cross-platform pipeline integrity
 - [2026-05-31 11:02:13] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-05-31 12:02:40] fix(navigation): optimize pushReplacement transition timing

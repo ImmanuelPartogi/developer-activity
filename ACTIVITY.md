@@ -5791,3 +5791,4 @@
 - [2026-05-30 16:21:09] feat(telemetry): record daily performance metrics
 - [2026-05-30 18:30:35] refactor(domain): isolate business logic from presentation layer
 - [2026-05-30 20:57:53] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-05-31 08:24:13] docs(arch): update repository architectural blueprint

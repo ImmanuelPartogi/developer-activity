@@ -5803,3 +5803,4 @@
 - [2026-05-31 18:10:44] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-05-31 19:51:19] feat(cache): implement two-tier memory and persistent cache
 - [2026-06-01 09:09:52] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-06-01 09:19:47] perf(memory): eliminate memory leaks in stream subscriptions

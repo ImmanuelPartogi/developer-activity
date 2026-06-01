@@ -5806,3 +5806,4 @@
 - [2026-06-01 09:19:47] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-06-01 10:38:07] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-06-01 11:08:56] refactor(clean): decouple service layer contracts
+- [2026-06-01 11:49:01] feat(sync): add offline outbox synchronization worker

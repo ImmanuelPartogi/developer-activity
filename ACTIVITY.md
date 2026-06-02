@@ -5820,3 +5820,4 @@
 - [2026-06-01 21:28:16] docs(arch): update repository architectural blueprint
 - [2026-06-02 08:49:34] refactor(clean): decouple service layer contracts
 - [2026-06-02 11:41:49] feat(core): optimize reactive state flow lifecycle
+- [2026-06-02 14:25:11] fix(nullsafety): resolve edge-case nullable dereference

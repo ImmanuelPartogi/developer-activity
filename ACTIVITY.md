@@ -5834,3 +5834,4 @@
 - [2026-06-03 09:33:22] style(theme): refine sapphire and cyan accent palette
 - [2026-06-03 10:21:16] test(benchmark): execute flame chart micro-benchmarks
 - [2026-06-03 11:19:36] fix(layout): adjust squircle corner radii and padding
+- [2026-06-03 13:20:00] perf(memory): eliminate memory leaks in stream subscriptions

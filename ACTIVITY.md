@@ -5846,3 +5846,4 @@
 - [2026-06-03 21:21:58] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-06-04 08:31:14] perf(render): minimize widget rebuild tree overhead
 - [2026-06-04 10:41:39] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-06-04 11:11:22] fix(nullsafety): resolve edge-case nullable dereference

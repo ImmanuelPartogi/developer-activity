@@ -5848,3 +5848,4 @@
 - [2026-06-04 10:41:39] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-06-04 11:11:22] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-06-04 12:47:53] test(unit): add behavioral test assertions for domain logic
+- [2026-06-04 13:00:07] chore(tooling): upgrade lint rules to latest strict standard

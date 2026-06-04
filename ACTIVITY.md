@@ -5851,3 +5851,4 @@
 - [2026-06-04 13:00:07] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-06-04 14:08:54] feat(cache): implement two-tier memory and persistent cache
 - [2026-06-04 15:04:38] feat(auth): enhance biometric encryption handshake
+- [2026-06-04 15:46:51] fix(navigation): optimize pushReplacement transition timing

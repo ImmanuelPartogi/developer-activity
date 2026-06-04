@@ -5849,3 +5849,4 @@
 - [2026-06-04 11:11:22] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-06-04 12:47:53] test(unit): add behavioral test assertions for domain logic
 - [2026-06-04 13:00:07] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-06-04 14:08:54] feat(cache): implement two-tier memory and persistent cache

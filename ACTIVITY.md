@@ -5861,3 +5861,4 @@
 - [2026-06-05 10:19:00] fix(layout): adjust squircle corner radii and padding
 - [2026-06-05 13:57:17] test(integration): verify cross-platform pipeline integrity
 - [2026-06-05 13:02:44] docs(telemetry): log continuous development activity
+- [2026-06-05 14:26:39] fix(navigation): optimize pushReplacement transition timing

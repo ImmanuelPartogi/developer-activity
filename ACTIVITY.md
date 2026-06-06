@@ -5871,3 +5871,4 @@
 - [2026-06-06 11:37:25] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-06-06 12:12:05] refactor(domain): isolate business logic from presentation layer
 - [2026-06-06 12:10:38] feat(auth): enhance biometric encryption handshake
+- [2026-06-06 12:06:03] fix(navigation): optimize pushReplacement transition timing

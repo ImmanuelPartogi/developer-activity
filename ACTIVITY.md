@@ -5869,3 +5869,4 @@
 - [2026-06-06 10:55:56] feat(cache): implement two-tier memory and persistent cache
 - [2026-06-06 11:42:18] feat(analytics): add real-time category distribution parser
 - [2026-06-06 11:37:25] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-06-06 12:12:05] refactor(domain): isolate business logic from presentation layer

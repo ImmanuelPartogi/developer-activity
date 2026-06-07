@@ -5877,3 +5877,4 @@
 - [2026-06-06 16:24:53] feat(sync): add offline outbox synchronization worker
 - [2026-06-06 16:52:00] docs(telemetry): log continuous development activity
 - [2026-06-06 17:16:46] chore(deps): review upstream security patches & dependencies
+- [2026-06-07 08:42:13] refactor(clean): decouple service layer contracts

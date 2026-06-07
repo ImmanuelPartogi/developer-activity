@@ -5879,3 +5879,4 @@
 - [2026-06-06 17:16:46] chore(deps): review upstream security patches & dependencies
 - [2026-06-07 08:42:13] refactor(clean): decouple service layer contracts
 - [2026-06-07 12:17:40] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-06-07 13:27:37] feat(sync): add offline outbox synchronization worker

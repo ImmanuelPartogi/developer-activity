@@ -5914,3 +5914,4 @@
 - [2026-06-10 12:05:06] test(benchmark): execute flame chart micro-benchmarks
 - [2026-06-10 14:11:57] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-06-10 15:54:59] style(design): polish tactile numpad elevation and haptics
+- [2026-06-10 16:57:04] refactor(clean): decouple service layer contracts

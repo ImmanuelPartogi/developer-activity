@@ -5920,3 +5920,4 @@
 - [2026-06-10 19:18:11] fix(layout): adjust squircle corner radii and padding
 - [2026-06-10 19:42:51] refactor(domain): isolate business logic from presentation layer
 - [2026-06-10 20:14:15] fix(navigation): optimize pushReplacement transition timing
+- [2026-06-10 21:53:20] docs(arch): update repository architectural blueprint

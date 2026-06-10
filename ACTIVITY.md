@@ -5908,3 +5908,4 @@
 - [2026-06-09 18:29:05] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-06-09 21:27:18] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-06-09 21:10:39] style(design): polish tactile numpad elevation and haptics
+- [2026-06-10 09:01:36] refactor(ui): elevate glassmorphism tokens & dark elevation

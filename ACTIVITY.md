@@ -5930,3 +5930,4 @@
 - [2026-06-11 16:56:18] style(design): polish tactile numpad elevation and haptics
 - [2026-06-11 18:19:14] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-06-11 18:45:56] refactor(clean): decouple service layer contracts
+- [2026-06-12 09:07:51] fix(navigation): optimize pushReplacement transition timing

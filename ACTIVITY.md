@@ -5938,3 +5938,4 @@
 - [2026-06-12 15:54:50] feat(sync): add offline outbox synchronization worker
 - [2026-06-12 15:06:58] test(integration): verify cross-platform pipeline integrity
 - [2026-06-12 15:28:35] refactor(domain): isolate business logic from presentation layer
+- [2026-06-12 16:15:30] feat(auth): enhance biometric encryption handshake

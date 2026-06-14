@@ -5950,3 +5950,4 @@
 - [2026-06-13 17:18:05] style(theme): refine sapphire and cyan accent palette
 - [2026-06-13 19:54:16] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-06-13 20:47:20] refactor(domain): isolate business logic from presentation layer
+- [2026-06-14 08:39:29] docs(arch): update repository architectural blueprint

@@ -5952,3 +5952,4 @@
 - [2026-06-13 20:47:20] refactor(domain): isolate business logic from presentation layer
 - [2026-06-14 08:39:29] docs(arch): update repository architectural blueprint
 - [2026-06-14 10:16:27] test(unit): add behavioral test assertions for domain logic
+- [2026-06-14 11:52:32] feat(cache): implement two-tier memory and persistent cache

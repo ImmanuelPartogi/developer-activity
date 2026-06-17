@@ -5991,3 +5991,4 @@
 - [2026-06-17 14:57:22] perf(db): streamline sqlite indexed query execution
 - [2026-06-17 15:17:58] docs(arch): update repository architectural blueprint
 - [2026-06-17 15:37:53] fix(layout): adjust squircle corner radii and padding
+- [2026-06-17 18:56:23] perf(memory): eliminate memory leaks in stream subscriptions

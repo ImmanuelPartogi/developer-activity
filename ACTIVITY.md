@@ -5992,3 +5992,4 @@
 - [2026-06-17 15:17:58] docs(arch): update repository architectural blueprint
 - [2026-06-17 15:37:53] fix(layout): adjust squircle corner radii and padding
 - [2026-06-17 18:56:23] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-06-17 19:00:40] chore(tooling): upgrade lint rules to latest strict standard

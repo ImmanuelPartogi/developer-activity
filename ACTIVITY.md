@@ -6008,3 +6008,4 @@
 - [2026-06-18 19:05:59] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-06-18 20:28:54] perf(db): streamline sqlite indexed query execution
 - [2026-06-18 21:39:59] chore(deps): review upstream security patches & dependencies
+- [2026-06-18 21:14:25] feat(cache): implement two-tier memory and persistent cache

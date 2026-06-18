@@ -5998,3 +5998,4 @@
 - [2026-06-18 08:35:03] refactor(clean): decouple service layer contracts
 - [2026-06-18 11:51:28] feat(core): optimize reactive state flow lifecycle
 - [2026-06-18 12:13:03] chore(deps): review upstream security patches & dependencies
+- [2026-06-18 13:50:34] refactor(domain): isolate business logic from presentation layer

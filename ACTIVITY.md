@@ -6003,3 +6003,4 @@
 - [2026-06-18 14:22:34] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-06-18 14:21:44] style(theme): refine sapphire and cyan accent palette
 - [2026-06-18 17:45:25] test(benchmark): execute flame chart micro-benchmarks
+- [2026-06-18 18:36:52] fix(nullsafety): resolve edge-case nullable dereference

@@ -6004,3 +6004,4 @@
 - [2026-06-18 14:21:44] style(theme): refine sapphire and cyan accent palette
 - [2026-06-18 17:45:25] test(benchmark): execute flame chart micro-benchmarks
 - [2026-06-18 18:36:52] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-06-18 19:26:40] feat(sync): add offline outbox synchronization worker

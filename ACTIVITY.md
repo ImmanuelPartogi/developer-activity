@@ -6006,3 +6006,4 @@
 - [2026-06-18 18:36:52] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-06-18 19:26:40] feat(sync): add offline outbox synchronization worker
 - [2026-06-18 19:05:59] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-06-18 20:28:54] perf(db): streamline sqlite indexed query execution

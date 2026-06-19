@@ -6013,3 +6013,4 @@
 - [2026-06-19 09:12:39] feat(core): optimize reactive state flow lifecycle
 - [2026-06-19 09:21:00] feat(sync): add offline outbox synchronization worker
 - [2026-06-19 11:59:06] refactor(clean): decouple service layer contracts
+- [2026-06-19 11:46:53] perf(memory): eliminate memory leaks in stream subscriptions

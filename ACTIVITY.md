@@ -6025,3 +6025,4 @@
 - [2026-06-20 09:02:01] feat(analytics): add real-time category distribution parser
 - [2026-06-20 09:38:36] feat(sync): add offline outbox synchronization worker
 - [2026-06-20 10:41:17] feat(auth): enhance biometric encryption handshake
+- [2026-06-20 13:31:32] refactor(clean): decouple service layer contracts

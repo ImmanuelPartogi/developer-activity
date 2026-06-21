@@ -6038,3 +6038,4 @@
 - [2026-06-21 17:47:23] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-06-21 18:27:09] refactor(clean): decouple service layer contracts
 - [2026-06-21 18:24:17] docs(arch): update repository architectural blueprint
+- [2026-06-21 18:23:51] feat(cache): implement two-tier memory and persistent cache

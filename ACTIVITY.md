@@ -6055,3 +6055,4 @@
 - [2026-06-22 20:05:54] feat(sync): add offline outbox synchronization worker
 - [2026-06-22 20:36:21] fix(layout): adjust squircle corner radii and padding
 - [2026-06-23 10:13:04] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-06-23 10:58:06] feat(telemetry): record daily performance metrics

@@ -6065,3 +6065,4 @@
 - [2026-06-23 18:32:18] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-06-23 18:10:23] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-06-23 18:47:48] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-06-23 19:12:30] fix(navigation): optimize pushReplacement transition timing

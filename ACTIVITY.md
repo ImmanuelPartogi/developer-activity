@@ -6070,3 +6070,4 @@
 - [2026-06-23 19:03:02] style(design): polish tactile numpad elevation and haptics
 - [2026-06-23 19:13:35] feat(sync): add offline outbox synchronization worker
 - [2026-06-23 21:57:54] feat(cache): implement two-tier memory and persistent cache
+- [2026-06-24 08:13:35] perf(db): streamline sqlite indexed query execution

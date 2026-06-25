@@ -6090,3 +6090,4 @@
 - [2026-06-25 09:05:13] docs(arch): update repository architectural blueprint
 - [2026-06-25 09:37:32] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-06-25 11:52:50] fix(layout): adjust squircle corner radii and padding
+- [2026-06-25 11:21:44] style(theme): refine sapphire and cyan accent palette

@@ -6092,3 +6092,4 @@
 - [2026-06-25 11:52:50] fix(layout): adjust squircle corner radii and padding
 - [2026-06-25 11:21:44] style(theme): refine sapphire and cyan accent palette
 - [2026-06-25 12:04:17] refactor(clean): decouple service layer contracts
+- [2026-06-25 13:17:09] docs(arch): update repository architectural blueprint

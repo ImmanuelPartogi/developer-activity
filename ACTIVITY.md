@@ -6115,3 +6115,4 @@
 - [2026-06-26 20:07:37] fix(navigation): optimize pushReplacement transition timing
 - [2026-06-26 21:23:19] chore(deps): review upstream security patches & dependencies
 - [2026-06-26 21:16:16] test(unit): add behavioral test assertions for domain logic
+- [2026-06-27 11:23:26] docs(arch): update repository architectural blueprint

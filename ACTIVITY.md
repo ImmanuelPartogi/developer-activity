@@ -6136,3 +6136,4 @@
 - [2026-06-29 12:33:35] test(unit): add behavioral test assertions for domain logic
 - [2026-06-29 17:26:12] feat(sync): add offline outbox synchronization worker
 - [2026-06-29 18:09:24] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-06-29 19:47:56] fix(navigation): optimize pushReplacement transition timing

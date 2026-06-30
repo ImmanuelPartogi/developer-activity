@@ -6149,3 +6149,4 @@
 - [2026-06-30 16:22:41] feat(analytics): add real-time category distribution parser
 - [2026-06-30 17:23:07] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-06-30 17:47:26] docs(arch): update repository architectural blueprint
+- [2026-06-30 18:17:35] refactor(domain): isolate business logic from presentation layer

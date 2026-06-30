@@ -6141,3 +6141,4 @@
 - [2026-06-30 09:57:01] feat(sync): add offline outbox synchronization worker
 - [2026-06-30 09:50:07] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-06-30 09:35:15] refactor(domain): isolate business logic from presentation layer
+- [2026-06-30 10:27:16] fix(nullsafety): resolve edge-case nullable dereference

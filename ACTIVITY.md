@@ -6151,3 +6151,4 @@
 - [2026-06-30 17:47:26] docs(arch): update repository architectural blueprint
 - [2026-06-30 18:17:35] refactor(domain): isolate business logic from presentation layer
 - [2026-06-30 21:54:19] feat(analytics): add real-time category distribution parser
+- [2026-07-01 09:27:38] refactor(ui): elevate glassmorphism tokens & dark elevation

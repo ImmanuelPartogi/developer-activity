@@ -6167,3 +6167,4 @@
 - [2026-07-02 12:29:34] feat(sync): add offline outbox synchronization worker
 - [2026-07-02 13:47:35] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-07-02 15:53:34] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-07-02 16:51:31] docs(arch): update repository architectural blueprint

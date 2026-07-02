@@ -6161,3 +6161,4 @@
 - [2026-07-01 20:30:07] perf(db): streamline sqlite indexed query execution
 - [2026-07-01 21:44:12] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-07-01 21:40:13] chore(deps): review upstream security patches & dependencies
+- [2026-07-02 08:33:43] refactor(domain): isolate business logic from presentation layer

@@ -6186,3 +6186,4 @@
 - [2026-07-03 18:53:12] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-03 19:27:46] refactor(domain): isolate business logic from presentation layer
 - [2026-07-03 20:02:27] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-07-03 21:40:19] refactor(domain): isolate business logic from presentation layer

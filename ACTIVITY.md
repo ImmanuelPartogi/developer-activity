@@ -6184,3 +6184,4 @@
 - [2026-07-03 12:57:24] perf(db): streamline sqlite indexed query execution
 - [2026-07-03 13:37:16] fix(layout): adjust squircle corner radii and padding
 - [2026-07-03 18:53:12] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-07-03 19:27:46] refactor(domain): isolate business logic from presentation layer

@@ -6178,3 +6178,4 @@
 - [2026-07-03 09:42:00] style(theme): refine sapphire and cyan accent palette
 - [2026-07-03 09:44:22] feat(sync): add offline outbox synchronization worker
 - [2026-07-03 11:38:56] refactor(clean): decouple service layer contracts
+- [2026-07-03 11:48:12] feat(cache): implement two-tier memory and persistent cache

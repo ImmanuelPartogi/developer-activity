@@ -6182,3 +6182,4 @@
 - [2026-07-03 12:41:09] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-03 12:06:35] test(integration): verify cross-platform pipeline integrity
 - [2026-07-03 12:57:24] perf(db): streamline sqlite indexed query execution
+- [2026-07-03 13:37:16] fix(layout): adjust squircle corner radii and padding

@@ -6179,3 +6179,4 @@
 - [2026-07-03 09:44:22] feat(sync): add offline outbox synchronization worker
 - [2026-07-03 11:38:56] refactor(clean): decouple service layer contracts
 - [2026-07-03 11:48:12] feat(cache): implement two-tier memory and persistent cache
+- [2026-07-03 12:41:09] fix(nullsafety): resolve edge-case nullable dereference

@@ -6217,3 +6217,4 @@
 - [2026-07-06 16:57:50] test(integration): verify cross-platform pipeline integrity
 - [2026-07-06 19:46:44] feat(cache): implement two-tier memory and persistent cache
 - [2026-07-06 20:59:00] perf(db): streamline sqlite indexed query execution
+- [2026-07-06 21:07:34] refactor(clean): decouple service layer contracts

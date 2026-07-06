@@ -6209,3 +6209,4 @@
 - [2026-07-05 18:56:38] test(unit): add behavioral test assertions for domain logic
 - [2026-07-05 20:22:20] perf(db): streamline sqlite indexed query execution
 - [2026-07-06 08:56:06] fix(layout): adjust squircle corner radii and padding
+- [2026-07-06 10:22:32] docs(arch): update repository architectural blueprint

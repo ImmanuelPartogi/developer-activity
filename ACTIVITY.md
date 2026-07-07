@@ -6224,3 +6224,4 @@
 - [2026-07-07 09:14:33] docs(telemetry): log continuous development activity
 - [2026-07-07 10:05:20] fix(navigation): optimize pushReplacement transition timing
 - [2026-07-07 11:36:18] perf(db): streamline sqlite indexed query execution
+- [2026-07-07 15:08:56] refactor(domain): isolate business logic from presentation layer

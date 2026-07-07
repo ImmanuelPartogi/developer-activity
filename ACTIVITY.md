@@ -6233,3 +6233,4 @@
 - [2026-07-07 17:13:18] chore(deps): review upstream security patches & dependencies
 - [2026-07-07 18:19:44] feat(telemetry): record daily performance metrics
 - [2026-07-07 21:29:15] style(design): polish tactile numpad elevation and haptics
+- [2026-07-07 21:17:14] perf(render): minimize widget rebuild tree overhead

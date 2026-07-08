@@ -6238,3 +6238,4 @@
 - [2026-07-08 08:35:13] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-08 10:33:49] fix(navigation): optimize pushReplacement transition timing
 - [2026-07-08 10:18:21] feat(analytics): add real-time category distribution parser
+- [2026-07-08 11:15:09] refactor(clean): decouple service layer contracts

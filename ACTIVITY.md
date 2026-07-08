@@ -6235,3 +6235,4 @@
 - [2026-07-07 21:29:15] style(design): polish tactile numpad elevation and haptics
 - [2026-07-07 21:17:14] perf(render): minimize widget rebuild tree overhead
 - [2026-07-08 08:20:00] feat(auth): enhance biometric encryption handshake
+- [2026-07-08 08:35:13] fix(nullsafety): resolve edge-case nullable dereference

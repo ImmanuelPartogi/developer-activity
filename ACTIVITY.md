@@ -6252,3 +6252,4 @@
 - [2026-07-09 15:12:26] style(design): polish tactile numpad elevation and haptics
 - [2026-07-09 15:42:16] docs(telemetry): log continuous development activity
 - [2026-07-09 15:09:55] refactor(domain): isolate business logic from presentation layer
+- [2026-07-09 17:21:03] fix(nullsafety): resolve edge-case nullable dereference

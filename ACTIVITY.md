@@ -6245,3 +6245,4 @@
 - [2026-07-08 15:07:02] test(unit): add behavioral test assertions for domain logic
 - [2026-07-08 16:21:06] refactor(domain): isolate business logic from presentation layer
 - [2026-07-08 18:06:02] fix(layout): adjust squircle corner radii and padding
+- [2026-07-09 08:23:01] refactor(clean): decouple service layer contracts

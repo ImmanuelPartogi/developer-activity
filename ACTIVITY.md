@@ -6254,3 +6254,4 @@
 - [2026-07-09 15:09:55] refactor(domain): isolate business logic from presentation layer
 - [2026-07-09 17:21:03] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-09 18:24:38] feat(sync): add offline outbox synchronization worker
+- [2026-07-09 20:31:46] feat(core): optimize reactive state flow lifecycle

@@ -6260,3 +6260,4 @@
 - [2026-07-10 10:36:22] refactor(clean): decouple service layer contracts
 - [2026-07-10 10:52:52] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-07-10 13:14:20] feat(sync): add offline outbox synchronization worker
+- [2026-07-10 13:15:40] perf(db): streamline sqlite indexed query execution

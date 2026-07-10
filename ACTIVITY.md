@@ -6257,3 +6257,4 @@
 - [2026-07-09 20:31:46] feat(core): optimize reactive state flow lifecycle
 - [2026-07-09 20:05:58] style(design): polish tactile numpad elevation and haptics
 - [2026-07-10 08:23:12] style(design): polish tactile numpad elevation and haptics
+- [2026-07-10 10:36:22] refactor(clean): decouple service layer contracts

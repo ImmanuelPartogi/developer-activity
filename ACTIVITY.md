@@ -6282,3 +6282,4 @@
 - [2026-07-12 16:34:13] style(design): polish tactile numpad elevation and haptics
 - [2026-07-12 17:27:04] docs(arch): update repository architectural blueprint
 - [2026-07-12 17:07:26] docs(arch): update repository architectural blueprint
+- [2026-07-12 19:01:17] perf(memory): eliminate memory leaks in stream subscriptions

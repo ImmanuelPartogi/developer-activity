@@ -6283,3 +6283,4 @@
 - [2026-07-12 17:27:04] docs(arch): update repository architectural blueprint
 - [2026-07-12 17:07:26] docs(arch): update repository architectural blueprint
 - [2026-07-12 19:01:17] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-07-12 19:31:31] perf(render): minimize widget rebuild tree overhead

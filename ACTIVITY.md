@@ -6280,3 +6280,4 @@
 - [2026-07-12 09:28:05] feat(cache): implement two-tier memory and persistent cache
 - [2026-07-12 10:26:31] refactor(clean): decouple service layer contracts
 - [2026-07-12 16:34:13] style(design): polish tactile numpad elevation and haptics
+- [2026-07-12 17:27:04] docs(arch): update repository architectural blueprint

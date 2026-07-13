@@ -6285,3 +6285,4 @@
 - [2026-07-12 19:01:17] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-07-12 19:31:31] perf(render): minimize widget rebuild tree overhead
 - [2026-07-13 08:23:51] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-07-13 09:43:00] fix(navigation): optimize pushReplacement transition timing

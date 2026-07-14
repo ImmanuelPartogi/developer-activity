@@ -6307,3 +6307,4 @@
 - [2026-07-14 17:49:17] feat(cache): implement two-tier memory and persistent cache
 - [2026-07-14 20:19:32] feat(sync): add offline outbox synchronization worker
 - [2026-07-14 21:06:49] refactor(clean): decouple service layer contracts
+- [2026-07-14 21:11:27] feat(core): optimize reactive state flow lifecycle

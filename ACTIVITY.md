@@ -6305,3 +6305,4 @@
 - [2026-07-14 14:49:58] test(unit): add behavioral test assertions for domain logic
 - [2026-07-14 16:42:08] feat(core): optimize reactive state flow lifecycle
 - [2026-07-14 17:49:17] feat(cache): implement two-tier memory and persistent cache
+- [2026-07-14 20:19:32] feat(sync): add offline outbox synchronization worker

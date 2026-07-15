@@ -6321,3 +6321,4 @@
 - [2026-07-15 20:59:58] feat(sync): add offline outbox synchronization worker
 - [2026-07-15 21:16:06] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-15 21:36:31] test(integration): verify cross-platform pipeline integrity
+- [2026-07-15 21:15:40] perf(memory): eliminate memory leaks in stream subscriptions

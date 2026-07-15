@@ -6310,3 +6310,4 @@
 - [2026-07-14 21:11:27] feat(core): optimize reactive state flow lifecycle
 - [2026-07-15 08:53:00] docs(arch): update repository architectural blueprint
 - [2026-07-15 09:34:47] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-07-15 10:30:49] feat(sync): add offline outbox synchronization worker

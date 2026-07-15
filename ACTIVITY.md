@@ -6308,3 +6308,4 @@
 - [2026-07-14 20:19:32] feat(sync): add offline outbox synchronization worker
 - [2026-07-14 21:06:49] refactor(clean): decouple service layer contracts
 - [2026-07-14 21:11:27] feat(core): optimize reactive state flow lifecycle
+- [2026-07-15 08:53:00] docs(arch): update repository architectural blueprint

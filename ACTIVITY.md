@@ -6335,3 +6335,4 @@
 - [2026-07-16 17:36:37] perf(db): streamline sqlite indexed query execution
 - [2026-07-16 17:31:51] refactor(clean): decouple service layer contracts
 - [2026-07-16 17:11:49] feat(cache): implement two-tier memory and persistent cache
+- [2026-07-16 18:40:59] docs(arch): update repository architectural blueprint

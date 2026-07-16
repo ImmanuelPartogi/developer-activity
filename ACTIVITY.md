@@ -6334,3 +6334,4 @@
 - [2026-07-16 16:57:52] style(theme): refine sapphire and cyan accent palette
 - [2026-07-16 17:36:37] perf(db): streamline sqlite indexed query execution
 - [2026-07-16 17:31:51] refactor(clean): decouple service layer contracts
+- [2026-07-16 17:11:49] feat(cache): implement two-tier memory and persistent cache

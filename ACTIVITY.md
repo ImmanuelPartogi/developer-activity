@@ -6348,3 +6348,4 @@
 - [2026-07-17 18:22:06] perf(db): streamline sqlite indexed query execution
 - [2026-07-17 18:27:31] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-07-17 19:28:00] feat(telemetry): record daily performance metrics
+- [2026-07-17 21:24:47] refactor(domain): isolate business logic from presentation layer

@@ -6359,3 +6359,4 @@
 - [2026-07-19 10:53:00] docs(arch): update repository architectural blueprint
 - [2026-07-19 13:26:20] style(design): polish tactile numpad elevation and haptics
 - [2026-07-19 14:23:31] chore(deps): review upstream security patches & dependencies
+- [2026-07-19 14:32:23] refactor(clean): decouple service layer contracts

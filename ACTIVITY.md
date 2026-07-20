@@ -6374,3 +6374,4 @@
 - [2026-07-20 14:08:51] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-20 15:30:03] feat(sync): add offline outbox synchronization worker
 - [2026-07-20 19:42:44] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-07-20 19:38:35] perf(memory): eliminate memory leaks in stream subscriptions

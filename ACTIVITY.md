@@ -6398,3 +6398,4 @@
 - [2026-07-22 13:59:04] feat(auth): enhance biometric encryption handshake
 - [2026-07-22 15:05:00] feat(sync): add offline outbox synchronization worker
 - [2026-07-22 15:04:46] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-07-22 16:07:48] perf(memory): eliminate memory leaks in stream subscriptions

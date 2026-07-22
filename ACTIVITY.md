@@ -6399,3 +6399,4 @@
 - [2026-07-22 15:05:00] feat(sync): add offline outbox synchronization worker
 - [2026-07-22 15:04:46] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-07-22 16:07:48] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-07-22 19:41:48] fix(navigation): optimize pushReplacement transition timing

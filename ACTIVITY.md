@@ -6410,3 +6410,4 @@
 - [2026-07-23 13:38:41] docs(arch): update repository architectural blueprint
 - [2026-07-23 14:37:04] chore(deps): review upstream security patches & dependencies
 - [2026-07-23 14:00:13] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-07-23 15:11:03] refactor(domain): isolate business logic from presentation layer

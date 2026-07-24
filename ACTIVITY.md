@@ -6427,3 +6427,4 @@
 - [2026-07-24 18:46:34] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-07-24 19:10:48] feat(analytics): add real-time category distribution parser
 - [2026-07-24 19:24:46] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-07-24 20:16:29] fix(nullsafety): resolve edge-case nullable dereference

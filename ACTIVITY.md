@@ -6459,3 +6459,4 @@
 - [2026-07-27 13:43:10] perf(db): streamline sqlite indexed query execution
 - [2026-07-27 15:54:50] docs(telemetry): log continuous development activity
 - [2026-07-27 16:26:25] fix(layout): adjust squircle corner radii and padding
+- [2026-07-27 19:25:56] perf(memory): eliminate memory leaks in stream subscriptions

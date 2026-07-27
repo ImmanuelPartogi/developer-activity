@@ -6452,3 +6452,4 @@
 - [2026-07-26 21:04:46] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-07-27 08:41:43] test(integration): verify cross-platform pipeline integrity
 - [2026-07-27 09:58:10] fix(navigation): optimize pushReplacement transition timing
+- [2026-07-27 09:15:41] docs(arch): update repository architectural blueprint

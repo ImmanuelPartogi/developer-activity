@@ -6471,3 +6471,4 @@
 - [2026-07-28 18:44:12] feat(sync): add offline outbox synchronization worker
 - [2026-07-28 19:52:58] fix(navigation): optimize pushReplacement transition timing
 - [2026-07-28 21:50:28] refactor(domain): isolate business logic from presentation layer
+- [2026-07-28 21:53:01] style(theme): refine sapphire and cyan accent palette

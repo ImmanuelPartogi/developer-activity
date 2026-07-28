@@ -6469,3 +6469,4 @@
 - [2026-07-28 13:50:26] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-07-28 14:52:52] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-07-28 18:44:12] feat(sync): add offline outbox synchronization worker
+- [2026-07-28 19:52:58] fix(navigation): optimize pushReplacement transition timing

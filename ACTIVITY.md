@@ -6461,3 +6461,4 @@
 - [2026-07-27 16:26:25] fix(layout): adjust squircle corner radii and padding
 - [2026-07-27 19:25:56] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-07-27 20:39:50] perf(db): streamline sqlite indexed query execution
+- [2026-07-28 08:49:13] perf(memory): eliminate memory leaks in stream subscriptions

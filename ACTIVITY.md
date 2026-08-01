@@ -6508,3 +6508,4 @@
 - [2026-07-31 17:39:16] chore(deps): review upstream security patches & dependencies
 - [2026-07-31 19:45:17] feat(core): optimize reactive state flow lifecycle
 - [2026-07-31 21:20:13] test(unit): add behavioral test assertions for domain logic
+- [2026-08-01 08:09:22] fix(navigation): optimize pushReplacement transition timing

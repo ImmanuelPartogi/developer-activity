@@ -6529,3 +6529,4 @@
 - [2026-08-03 10:38:47] refactor(clean): decouple service layer contracts
 - [2026-08-03 11:50:21] perf(db): streamline sqlite indexed query execution
 - [2026-08-03 11:00:43] refactor(clean): decouple service layer contracts
+- [2026-08-03 12:18:54] feat(sync): add offline outbox synchronization worker

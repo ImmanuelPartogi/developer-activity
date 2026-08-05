@@ -6550,3 +6550,4 @@
 - [2026-08-05 09:48:19] refactor(clean): decouple service layer contracts
 - [2026-08-05 09:23:29] chore(deps): review upstream security patches & dependencies
 - [2026-08-05 10:37:58] feat(auth): enhance biometric encryption handshake
+- [2026-08-05 13:13:19] feat(core): optimize reactive state flow lifecycle

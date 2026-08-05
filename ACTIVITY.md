@@ -6549,3 +6549,4 @@
 - [2026-08-05 08:15:56] style(design): polish tactile numpad elevation and haptics
 - [2026-08-05 09:48:19] refactor(clean): decouple service layer contracts
 - [2026-08-05 09:23:29] chore(deps): review upstream security patches & dependencies
+- [2026-08-05 10:37:58] feat(auth): enhance biometric encryption handshake

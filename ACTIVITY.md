@@ -6579,3 +6579,4 @@
 - [2026-08-07 15:01:53] feat(analytics): add real-time category distribution parser
 - [2026-08-07 16:20:43] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-08-07 19:50:17] perf(db): streamline sqlite indexed query execution
+- [2026-08-07 20:59:49] refactor(domain): isolate business logic from presentation layer

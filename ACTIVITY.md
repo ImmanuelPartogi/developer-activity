@@ -6581,3 +6581,4 @@
 - [2026-08-07 19:50:17] perf(db): streamline sqlite indexed query execution
 - [2026-08-07 20:59:49] refactor(domain): isolate business logic from presentation layer
 - [2026-08-07 21:43:58] feat(sync): add offline outbox synchronization worker
+- [2026-08-07 21:53:51] feat(core): optimize reactive state flow lifecycle

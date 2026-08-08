@@ -6584,3 +6584,4 @@
 - [2026-08-07 21:53:51] feat(core): optimize reactive state flow lifecycle
 - [2026-08-08 10:44:44] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-08-08 10:25:40] feat(security): enforce bank-grade AES-256 payload encryption
+- [2026-08-08 11:26:04] refactor(clean): decouple service layer contracts

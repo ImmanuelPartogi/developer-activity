@@ -6593,3 +6593,4 @@
 - [2026-08-08 21:08:31] refactor(clean): decouple service layer contracts
 - [2026-08-09 08:52:35] perf(db): streamline sqlite indexed query execution
 - [2026-08-09 08:37:07] perf(db): streamline sqlite indexed query execution
+- [2026-08-09 08:50:25] fix(layout): adjust squircle corner radii and padding

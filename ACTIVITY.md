@@ -6609,3 +6609,4 @@
 - [2026-08-10 17:21:04] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-08-10 17:12:35] feat(core): optimize reactive state flow lifecycle
 - [2026-08-10 18:57:01] chore(deps): review upstream security patches & dependencies
+- [2026-08-10 19:31:09] feat(auth): enhance biometric encryption handshake

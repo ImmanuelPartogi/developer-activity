@@ -6607,3 +6607,4 @@
 - [2026-08-10 15:56:22] fix(layout): adjust squircle corner radii and padding
 - [2026-08-10 16:00:32] style(theme): refine sapphire and cyan accent palette
 - [2026-08-10 17:21:04] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-08-10 17:12:35] feat(core): optimize reactive state flow lifecycle

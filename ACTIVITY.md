@@ -6617,3 +6617,4 @@
 - [2026-08-11 11:12:51] test(integration): verify cross-platform pipeline integrity
 - [2026-08-11 14:29:30] test(integration): verify cross-platform pipeline integrity
 - [2026-08-11 14:34:07] test(unit): add behavioral test assertions for domain logic
+- [2026-08-11 17:16:15] fix(navigation): optimize pushReplacement transition timing

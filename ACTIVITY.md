@@ -6633,3 +6633,4 @@
 - [2026-08-12 09:19:33] fix(navigation): optimize pushReplacement transition timing
 - [2026-08-12 12:32:18] feat(cache): implement two-tier memory and persistent cache
 - [2026-08-12 14:47:32] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-08-12 16:10:00] chore(deps): review upstream security patches & dependencies

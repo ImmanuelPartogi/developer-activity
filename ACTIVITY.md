@@ -6646,3 +6646,4 @@
 - [2026-08-13 13:53:52] feat(sync): add offline outbox synchronization worker
 - [2026-08-13 14:06:30] fix(layout): adjust squircle corner radii and padding
 - [2026-08-13 20:30:37] docs(telemetry): log continuous development activity
+- [2026-08-14 09:37:26] refactor(domain): isolate business logic from presentation layer

@@ -6670,3 +6670,4 @@
 - [2026-08-16 11:53:19] fix(layout): adjust squircle corner radii and padding
 - [2026-08-16 13:49:17] chore(deps): review upstream security patches & dependencies
 - [2026-08-16 14:06:39] style(theme): refine sapphire and cyan accent palette
+- [2026-08-16 14:55:40] perf(memory): eliminate memory leaks in stream subscriptions

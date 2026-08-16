@@ -6667,3 +6667,4 @@
 - [2026-08-15 17:14:57] feat(auth): enhance biometric encryption handshake
 - [2026-08-15 17:43:00] style(theme): refine sapphire and cyan accent palette
 - [2026-08-15 19:21:44] perf(render): minimize widget rebuild tree overhead
+- [2026-08-16 11:53:19] fix(layout): adjust squircle corner radii and padding

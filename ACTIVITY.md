@@ -6685,3 +6685,4 @@
 - [2026-08-17 20:06:04] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-08-17 20:58:41] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-08-18 08:31:05] fix(navigation): optimize pushReplacement transition timing
+- [2026-08-18 11:05:23] refactor(domain): isolate business logic from presentation layer

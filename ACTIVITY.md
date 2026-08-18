@@ -6689,3 +6689,4 @@
 - [2026-08-18 12:34:47] perf(db): streamline sqlite indexed query execution
 - [2026-08-18 14:53:25] refactor(clean): decouple service layer contracts
 - [2026-08-18 15:31:20] feat(cache): implement two-tier memory and persistent cache
+- [2026-08-18 15:26:29] feat(sync): add offline outbox synchronization worker

@@ -6716,3 +6716,4 @@
 - [2026-08-20 17:05:04] feat(cache): implement two-tier memory and persistent cache
 - [2026-08-20 18:21:37] perf(render): minimize widget rebuild tree overhead
 - [2026-08-20 19:00:02] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-08-20 21:00:51] perf(memory): eliminate memory leaks in stream subscriptions

@@ -6725,3 +6725,4 @@
 - [2026-08-21 15:51:18] feat(auth): enhance biometric encryption handshake
 - [2026-08-21 18:52:16] feat(telemetry): record daily performance metrics
 - [2026-08-21 20:38:25] feat(cache): implement two-tier memory and persistent cache
+- [2026-08-21 21:46:35] refactor(clean): decouple service layer contracts

@@ -6729,3 +6729,4 @@
 - [2026-08-21 21:19:57] refactor(domain): isolate business logic from presentation layer
 - [2026-08-22 10:31:39] perf(db): streamline sqlite indexed query execution
 - [2026-08-22 10:20:11] feat(security): enforce bank-grade AES-256 payload encryption
+- [2026-08-22 12:55:44] fix(nullsafety): resolve edge-case nullable dereference

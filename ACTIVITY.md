@@ -6727,3 +6727,4 @@
 - [2026-08-21 20:38:25] feat(cache): implement two-tier memory and persistent cache
 - [2026-08-21 21:46:35] refactor(clean): decouple service layer contracts
 - [2026-08-21 21:19:57] refactor(domain): isolate business logic from presentation layer
+- [2026-08-22 10:31:39] perf(db): streamline sqlite indexed query execution

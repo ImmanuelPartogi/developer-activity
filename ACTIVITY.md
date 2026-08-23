@@ -6737,3 +6737,4 @@
 - [2026-08-22 20:01:01] style(design): polish tactile numpad elevation and haptics
 - [2026-08-23 08:44:14] perf(render): minimize widget rebuild tree overhead
 - [2026-08-23 09:55:02] fix(layout): adjust squircle corner radii and padding
+- [2026-08-23 10:47:23] feat(core): optimize reactive state flow lifecycle

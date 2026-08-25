@@ -6763,3 +6763,4 @@
 - [2026-08-25 15:26:26] test(integration): verify cross-platform pipeline integrity
 - [2026-08-25 15:41:39] test(benchmark): execute flame chart micro-benchmarks
 - [2026-08-25 17:17:15] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-08-25 17:42:31] docs(arch): update repository architectural blueprint

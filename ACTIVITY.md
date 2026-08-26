@@ -6777,3 +6777,4 @@
 - [2026-08-26 14:01:52] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-08-26 14:56:14] chore(deps): review upstream security patches & dependencies
 - [2026-08-26 15:46:54] feat(auth): enhance biometric encryption handshake
+- [2026-08-26 16:10:18] fix(navigation): optimize pushReplacement transition timing

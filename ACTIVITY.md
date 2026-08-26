@@ -6774,3 +6774,4 @@
 - [2026-08-26 11:50:17] feat(core): optimize reactive state flow lifecycle
 - [2026-08-26 11:13:41] docs(arch): update repository architectural blueprint
 - [2026-08-26 13:05:10] docs(telemetry): log continuous development activity
+- [2026-08-26 14:01:52] perf(memory): eliminate memory leaks in stream subscriptions

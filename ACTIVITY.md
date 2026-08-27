@@ -6794,3 +6794,4 @@
 - [2026-08-27 17:31:34] style(design): polish tactile numpad elevation and haptics
 - [2026-08-27 19:05:48] test(unit): add behavioral test assertions for domain logic
 - [2026-08-27 20:11:35] feat(analytics): add real-time category distribution parser
+- [2026-08-27 21:46:18] fix(nullsafety): resolve edge-case nullable dereference

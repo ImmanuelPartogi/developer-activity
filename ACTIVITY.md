@@ -6804,3 +6804,4 @@
 - [2026-08-28 13:38:19] perf(render): minimize widget rebuild tree overhead
 - [2026-08-28 15:25:15] feat(auth): enhance biometric encryption handshake
 - [2026-08-28 17:54:45] docs(arch): update repository architectural blueprint
+- [2026-08-28 17:01:33] refactor(clean): decouple service layer contracts

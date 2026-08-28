@@ -6807,3 +6807,4 @@
 - [2026-08-28 17:01:33] refactor(clean): decouple service layer contracts
 - [2026-08-28 18:38:19] style(design): polish tactile numpad elevation and haptics
 - [2026-08-28 18:03:10] refactor(domain): isolate business logic from presentation layer
+- [2026-08-28 20:32:48] refactor(clean): decouple service layer contracts

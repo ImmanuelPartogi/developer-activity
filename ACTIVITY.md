@@ -6810,3 +6810,4 @@
 - [2026-08-28 20:32:48] refactor(clean): decouple service layer contracts
 - [2026-08-28 21:19:32] style(design): polish tactile numpad elevation and haptics
 - [2026-08-29 15:05:59] feat(cache): implement two-tier memory and persistent cache
+- [2026-08-29 18:16:44] test(unit): add behavioral test assertions for domain logic

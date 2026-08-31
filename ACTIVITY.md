@@ -6832,3 +6832,4 @@
 - [2026-08-31 10:06:50] feat(telemetry): record daily performance metrics
 - [2026-08-31 11:31:23] chore(deps): review upstream security patches & dependencies
 - [2026-08-31 12:51:34] feat(security): enforce bank-grade AES-256 payload encryption
+- [2026-08-31 14:55:00] feat(sync): add offline outbox synchronization worker

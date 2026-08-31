@@ -6834,3 +6834,4 @@
 - [2026-08-31 12:51:34] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-08-31 14:55:00] feat(sync): add offline outbox synchronization worker
 - [2026-08-31 15:44:45] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-08-31 19:24:06] fix(layout): adjust squircle corner radii and padding

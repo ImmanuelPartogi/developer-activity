@@ -6835,3 +6835,4 @@
 - [2026-08-31 14:55:00] feat(sync): add offline outbox synchronization worker
 - [2026-08-31 15:44:45] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-08-31 19:24:06] fix(layout): adjust squircle corner radii and padding
+- [2026-08-31 19:21:29] style(theme): refine sapphire and cyan accent palette

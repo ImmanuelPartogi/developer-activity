@@ -6848,3 +6848,4 @@
 - [2026-09-01 13:02:55] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-09-01 13:05:44] refactor(domain): isolate business logic from presentation layer
 - [2026-09-01 15:51:54] refactor(domain): isolate business logic from presentation layer
+- [2026-09-01 17:26:12] fix(navigation): optimize pushReplacement transition timing

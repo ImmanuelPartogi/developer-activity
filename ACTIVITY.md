@@ -6846,3 +6846,4 @@
 - [2026-09-01 08:47:05] feat(telemetry): record daily performance metrics
 - [2026-09-01 10:29:53] perf(render): minimize widget rebuild tree overhead
 - [2026-09-01 13:02:55] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-09-01 13:05:44] refactor(domain): isolate business logic from presentation layer

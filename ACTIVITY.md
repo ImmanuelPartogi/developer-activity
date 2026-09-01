@@ -6850,3 +6850,4 @@
 - [2026-09-01 15:51:54] refactor(domain): isolate business logic from presentation layer
 - [2026-09-01 17:26:12] fix(navigation): optimize pushReplacement transition timing
 - [2026-09-01 17:10:22] feat(telemetry): record daily performance metrics
+- [2026-09-01 19:21:01] feat(sync): add offline outbox synchronization worker

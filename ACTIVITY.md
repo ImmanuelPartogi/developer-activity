@@ -6854,3 +6854,4 @@
 - [2026-09-01 20:34:11] refactor(domain): isolate business logic from presentation layer
 - [2026-09-01 21:49:50] docs(telemetry): log continuous development activity
 - [2026-09-01 21:11:07] perf(db): streamline sqlite indexed query execution
+- [2026-09-02 08:48:24] refactor(ui): elevate glassmorphism tokens & dark elevation

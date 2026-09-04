@@ -6878,3 +6878,4 @@
 - [2026-09-03 20:32:45] feat(core): optimize reactive state flow lifecycle
 - [2026-09-03 20:44:37] perf(db): streamline sqlite indexed query execution
 - [2026-09-03 21:17:13] feat(sync): add offline outbox synchronization worker
+- [2026-09-04 08:34:34] refactor(clean): decouple service layer contracts

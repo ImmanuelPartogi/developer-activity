@@ -6891,3 +6891,4 @@
 - [2026-09-05 10:56:20] style(design): polish tactile numpad elevation and haptics
 - [2026-09-05 11:26:50] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-09-05 12:44:22] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-09-05 15:43:35] refactor(clean): decouple service layer contracts

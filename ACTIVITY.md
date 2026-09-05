@@ -6889,3 +6889,4 @@
 - [2026-09-04 20:34:00] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-09-04 21:46:39] feat(sync): add offline outbox synchronization worker
 - [2026-09-05 10:56:20] style(design): polish tactile numpad elevation and haptics
+- [2026-09-05 11:26:50] refactor(ui): elevate glassmorphism tokens & dark elevation

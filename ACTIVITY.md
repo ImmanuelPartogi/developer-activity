@@ -6896,3 +6896,4 @@
 - [2026-09-05 17:52:00] fix(layout): adjust squircle corner radii and padding
 - [2026-09-05 21:18:23] feat(cache): implement two-tier memory and persistent cache
 - [2026-09-06 13:33:08] feat(sync): add offline outbox synchronization worker
+- [2026-09-06 16:54:16] perf(memory): eliminate memory leaks in stream subscriptions

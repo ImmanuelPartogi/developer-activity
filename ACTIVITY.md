@@ -6895,3 +6895,4 @@
 - [2026-09-05 17:47:43] docs(telemetry): log continuous development activity
 - [2026-09-05 17:52:00] fix(layout): adjust squircle corner radii and padding
 - [2026-09-05 21:18:23] feat(cache): implement two-tier memory and persistent cache
+- [2026-09-06 13:33:08] feat(sync): add offline outbox synchronization worker

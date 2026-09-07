@@ -6910,3 +6910,4 @@
 - [2026-09-07 16:45:17] test(integration): verify cross-platform pipeline integrity
 - [2026-09-07 16:24:10] feat(core): optimize reactive state flow lifecycle
 - [2026-09-07 16:25:30] fix(layout): adjust squircle corner radii and padding
+- [2026-09-07 17:12:19] fix(navigation): optimize pushReplacement transition timing

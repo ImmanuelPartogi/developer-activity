@@ -6921,3 +6921,4 @@
 - [2026-09-08 15:24:49] perf(db): streamline sqlite indexed query execution
 - [2026-09-08 16:33:58] fix(navigation): optimize pushReplacement transition timing
 - [2026-09-08 17:10:20] fix(layout): adjust squircle corner radii and padding
+- [2026-09-08 17:35:56] fix(nullsafety): resolve edge-case nullable dereference

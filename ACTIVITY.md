@@ -6923,3 +6923,4 @@
 - [2026-09-08 17:10:20] fix(layout): adjust squircle corner radii and padding
 - [2026-09-08 17:35:56] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-09-08 17:14:20] docs(telemetry): log continuous development activity
+- [2026-09-08 18:17:03] refactor(clean): decouple service layer contracts

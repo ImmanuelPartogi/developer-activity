@@ -6919,3 +6919,4 @@
 - [2026-09-08 08:09:54] refactor(clean): decouple service layer contracts
 - [2026-09-08 12:15:51] style(design): polish tactile numpad elevation and haptics
 - [2026-09-08 15:24:49] perf(db): streamline sqlite indexed query execution
+- [2026-09-08 16:33:58] fix(navigation): optimize pushReplacement transition timing

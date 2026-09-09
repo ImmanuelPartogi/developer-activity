@@ -6935,3 +6935,4 @@
 - [2026-09-09 09:47:25] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-09-09 09:48:16] chore(deps): review upstream security patches & dependencies
 - [2026-09-09 09:00:25] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-09-09 09:53:57] refactor(domain): isolate business logic from presentation layer

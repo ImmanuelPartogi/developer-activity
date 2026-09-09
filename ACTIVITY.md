@@ -6934,3 +6934,4 @@
 - [2026-09-09 08:55:18] feat(cache): implement two-tier memory and persistent cache
 - [2026-09-09 09:47:25] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-09-09 09:48:16] chore(deps): review upstream security patches & dependencies
+- [2026-09-09 09:00:25] perf(memory): eliminate memory leaks in stream subscriptions

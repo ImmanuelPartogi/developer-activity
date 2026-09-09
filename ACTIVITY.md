@@ -6931,3 +6931,4 @@
 - [2026-09-08 21:46:29] feat(sync): add offline outbox synchronization worker
 - [2026-09-08 21:28:06] chore(deps): review upstream security patches & dependencies
 - [2026-09-09 08:19:11] feat(security): enforce bank-grade AES-256 payload encryption
+- [2026-09-09 08:55:18] feat(cache): implement two-tier memory and persistent cache

@@ -6943,3 +6943,4 @@
 - [2026-09-09 18:06:54] refactor(domain): isolate business logic from presentation layer
 - [2026-09-09 18:08:40] perf(render): minimize widget rebuild tree overhead
 - [2026-09-09 20:33:41] perf(db): streamline sqlite indexed query execution
+- [2026-09-09 20:52:53] fix(layout): adjust squircle corner radii and padding

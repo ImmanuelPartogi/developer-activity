@@ -6940,3 +6940,4 @@
 - [2026-09-09 11:40:08] style(theme): refine sapphire and cyan accent palette
 - [2026-09-09 11:08:35] perf(render): minimize widget rebuild tree overhead
 - [2026-09-09 12:03:37] test(unit): add behavioral test assertions for domain logic
+- [2026-09-09 18:06:54] refactor(domain): isolate business logic from presentation layer

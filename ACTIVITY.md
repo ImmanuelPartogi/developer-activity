@@ -6946,3 +6946,4 @@
 - [2026-09-09 20:52:53] fix(layout): adjust squircle corner radii and padding
 - [2026-09-10 08:03:36] style(design): polish tactile numpad elevation and haptics
 - [2026-09-10 09:22:40] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-09-10 10:18:23] chore(deps): review upstream security patches & dependencies

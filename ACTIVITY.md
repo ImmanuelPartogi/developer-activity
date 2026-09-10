@@ -6947,3 +6947,4 @@
 - [2026-09-10 08:03:36] style(design): polish tactile numpad elevation and haptics
 - [2026-09-10 09:22:40] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-09-10 10:18:23] chore(deps): review upstream security patches & dependencies
+- [2026-09-10 13:37:39] refactor(domain): isolate business logic from presentation layer

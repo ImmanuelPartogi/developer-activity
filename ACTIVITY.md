@@ -6957,3 +6957,4 @@
 - [2026-09-10 21:26:16] feat(telemetry): record daily performance metrics
 - [2026-09-11 08:44:29] style(theme): refine sapphire and cyan accent palette
 - [2026-09-11 10:44:38] fix(navigation): optimize pushReplacement transition timing
+- [2026-09-11 11:35:12] refactor(clean): decouple service layer contracts

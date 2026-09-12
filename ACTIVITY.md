@@ -6974,3 +6974,4 @@
 - [2026-09-12 10:38:57] style(theme): refine sapphire and cyan accent palette
 - [2026-09-12 15:35:42] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-09-12 17:13:04] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-09-12 18:48:47] feat(sync): add offline outbox synchronization worker

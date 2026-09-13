@@ -6980,3 +6980,4 @@
 - [2026-09-13 14:43:02] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-09-13 17:49:15] style(design): polish tactile numpad elevation and haptics
 - [2026-09-13 19:06:24] style(design): polish tactile numpad elevation and haptics
+- [2026-09-13 19:37:25] perf(memory): eliminate memory leaks in stream subscriptions

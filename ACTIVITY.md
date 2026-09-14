@@ -6984,3 +6984,4 @@
 - [2026-09-14 10:28:53] feat(sync): add offline outbox synchronization worker
 - [2026-09-14 12:31:23] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-09-14 13:06:10] perf(render): minimize widget rebuild tree overhead
+- [2026-09-14 13:21:16] refactor(domain): isolate business logic from presentation layer

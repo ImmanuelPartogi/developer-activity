@@ -6989,3 +6989,4 @@
 - [2026-09-14 15:59:12] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-09-14 15:30:01] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-09-14 18:17:59] perf(db): streamline sqlite indexed query execution
+- [2026-09-14 19:33:03] feat(core): optimize reactive state flow lifecycle

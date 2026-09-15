@@ -6998,3 +6998,4 @@
 - [2026-09-14 21:47:16] docs(arch): update repository architectural blueprint
 - [2026-09-15 08:33:40] chore(deps): review upstream security patches & dependencies
 - [2026-09-15 10:27:35] perf(render): minimize widget rebuild tree overhead
+- [2026-09-15 11:25:11] perf(memory): eliminate memory leaks in stream subscriptions

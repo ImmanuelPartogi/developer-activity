@@ -7042,3 +7042,4 @@
 - [2026-09-18 11:35:36] test(benchmark): execute flame chart micro-benchmarks
 - [2026-09-18 15:20:02] feat(sync): add offline outbox synchronization worker
 - [2026-09-18 15:53:06] feat(sync): add offline outbox synchronization worker
+- [2026-09-18 17:16:09] refactor(domain): isolate business logic from presentation layer

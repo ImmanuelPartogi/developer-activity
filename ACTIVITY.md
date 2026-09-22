@@ -7075,3 +7075,4 @@
 - [2026-09-21 21:13:14] docs(telemetry): log continuous development activity
 - [2026-09-22 08:08:32] chore(tooling): upgrade lint rules to latest strict standard
 - [2026-09-22 11:58:02] feat(telemetry): record daily performance metrics
+- [2026-09-22 11:01:01] perf(memory): eliminate memory leaks in stream subscriptions

@@ -7082,3 +7082,4 @@
 - [2026-09-22 19:55:21] feat(analytics): add real-time category distribution parser
 - [2026-09-22 20:23:24] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-09-22 21:23:34] style(design): polish tactile numpad elevation and haptics
+- [2026-09-23 08:50:27] refactor(domain): isolate business logic from presentation layer

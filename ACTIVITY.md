@@ -7083,3 +7083,4 @@
 - [2026-09-22 20:23:24] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-09-22 21:23:34] style(design): polish tactile numpad elevation and haptics
 - [2026-09-23 08:50:27] refactor(domain): isolate business logic from presentation layer
+- [2026-09-23 09:49:40] perf(db): streamline sqlite indexed query execution

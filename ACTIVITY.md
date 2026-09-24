@@ -7102,3 +7102,4 @@
 - [2026-09-24 14:23:56] refactor(domain): isolate business logic from presentation layer
 - [2026-09-24 14:22:58] test(unit): add behavioral test assertions for domain logic
 - [2026-09-24 15:38:24] style(design): polish tactile numpad elevation and haptics
+- [2026-09-24 16:59:21] fix(navigation): optimize pushReplacement transition timing

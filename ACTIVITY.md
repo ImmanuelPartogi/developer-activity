@@ -7110,3 +7110,4 @@
 - [2026-09-24 18:14:43] feat(core): optimize reactive state flow lifecycle
 - [2026-09-24 19:30:18] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-09-24 21:45:14] fix(navigation): optimize pushReplacement transition timing
+- [2026-09-24 21:29:56] fix(layout): adjust squircle corner radii and padding

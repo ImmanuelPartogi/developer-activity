@@ -7144,3 +7144,4 @@
 - [2026-09-28 09:51:16] feat(sync): add offline outbox synchronization worker
 - [2026-09-28 10:16:10] feat(auth): enhance biometric encryption handshake
 - [2026-09-28 14:12:45] feat(cache): implement two-tier memory and persistent cache
+- [2026-09-28 16:48:09] refactor(clean): decouple service layer contracts

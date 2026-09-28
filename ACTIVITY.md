@@ -7141,3 +7141,4 @@
 - [2026-09-28 08:31:53] feat(auth): enhance biometric encryption handshake
 - [2026-09-28 08:25:14] chore(deps): review upstream security patches & dependencies
 - [2026-09-28 09:07:47] feat(telemetry): record daily performance metrics
+- [2026-09-28 09:51:16] feat(sync): add offline outbox synchronization worker

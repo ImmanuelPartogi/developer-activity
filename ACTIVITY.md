@@ -7161,3 +7161,4 @@
 - [2026-09-29 19:56:59] feat(auth): enhance biometric encryption handshake
 - [2026-09-29 20:53:49] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-09-29 20:06:10] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-09-29 21:59:12] feat(sync): add offline outbox synchronization worker

@@ -7186,3 +7186,4 @@
 - [2026-10-01 18:39:16] feat(analytics): add real-time category distribution parser
 - [2026-10-01 19:02:09] feat(analytics): add real-time category distribution parser
 - [2026-10-01 21:12:41] perf(db): streamline sqlite indexed query execution
+- [2026-10-01 21:01:20] fix(nullsafety): resolve edge-case nullable dereference

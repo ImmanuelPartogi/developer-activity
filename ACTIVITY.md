@@ -7176,3 +7176,4 @@
 - [2026-10-01 10:17:16] style(theme): refine sapphire and cyan accent palette
 - [2026-10-01 10:26:01] docs(arch): update repository architectural blueprint
 - [2026-10-01 13:13:41] test(integration): verify cross-platform pipeline integrity
+- [2026-10-01 14:21:58] refactor(domain): isolate business logic from presentation layer

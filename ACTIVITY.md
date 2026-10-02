@@ -7191,3 +7191,4 @@
 - [2026-10-02 08:26:18] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-10-02 09:41:31] perf(db): streamline sqlite indexed query execution
 - [2026-10-02 09:57:55] chore(tooling): upgrade lint rules to latest strict standard
+- [2026-10-02 10:13:54] perf(render): minimize widget rebuild tree overhead

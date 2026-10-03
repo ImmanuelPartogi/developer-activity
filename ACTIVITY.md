@@ -7207,3 +7207,4 @@
 - [2026-10-03 09:39:52] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-10-03 16:24:33] style(theme): refine sapphire and cyan accent palette
 - [2026-10-03 16:31:16] refactor(domain): isolate business logic from presentation layer
+- [2026-10-03 17:37:26] fix(layout): adjust squircle corner radii and padding

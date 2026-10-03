@@ -7211,3 +7211,4 @@
 - [2026-10-03 18:29:39] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-10-03 19:59:28] feat(telemetry): record daily performance metrics
 - [2026-10-03 19:06:30] chore(deps): review upstream security patches & dependencies
+- [2026-10-03 20:08:17] refactor(clean): decouple service layer contracts

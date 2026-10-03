@@ -7204,3 +7204,4 @@
 - [2026-10-02 18:12:04] feat(cache): implement two-tier memory and persistent cache
 - [2026-10-02 19:17:48] perf(db): streamline sqlite indexed query execution
 - [2026-10-03 09:14:33] style(theme): refine sapphire and cyan accent palette
+- [2026-10-03 09:39:52] perf(memory): eliminate memory leaks in stream subscriptions

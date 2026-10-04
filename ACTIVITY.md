@@ -7215,3 +7215,4 @@
 - [2026-10-03 21:49:36] feat(telemetry): record daily performance metrics
 - [2026-10-04 12:06:33] refactor(domain): isolate business logic from presentation layer
 - [2026-10-04 12:21:43] feat(sync): add offline outbox synchronization worker
+- [2026-10-04 16:18:14] refactor(clean): decouple service layer contracts

@@ -7216,3 +7216,4 @@
 - [2026-10-04 12:06:33] refactor(domain): isolate business logic from presentation layer
 - [2026-10-04 12:21:43] feat(sync): add offline outbox synchronization worker
 - [2026-10-04 16:18:14] refactor(clean): decouple service layer contracts
+- [2026-10-04 17:20:25] perf(render): minimize widget rebuild tree overhead

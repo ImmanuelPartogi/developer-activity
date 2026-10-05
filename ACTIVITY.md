@@ -7221,3 +7221,4 @@
 - [2026-10-04 21:14:28] test(integration): verify cross-platform pipeline integrity
 - [2026-10-05 08:12:38] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-10-05 10:42:35] perf(db): streamline sqlite indexed query execution
+- [2026-10-05 10:10:49] refactor(clean): decouple service layer contracts

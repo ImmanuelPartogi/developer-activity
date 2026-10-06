@@ -7230,3 +7230,4 @@
 - [2026-10-05 20:06:40] refactor(clean): decouple service layer contracts
 - [2026-10-06 10:27:38] style(theme): refine sapphire and cyan accent palette
 - [2026-10-06 12:26:48] perf(memory): eliminate memory leaks in stream subscriptions
+- [2026-10-06 13:34:37] feat(sync): add offline outbox synchronization worker

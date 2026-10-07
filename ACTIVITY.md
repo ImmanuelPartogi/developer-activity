@@ -7243,3 +7243,4 @@
 - [2026-10-06 20:26:51] docs(telemetry): log continuous development activity
 - [2026-10-07 09:33:41] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-10-07 09:10:13] test(benchmark): execute flame chart micro-benchmarks
+- [2026-10-07 10:25:58] perf(memory): eliminate memory leaks in stream subscriptions

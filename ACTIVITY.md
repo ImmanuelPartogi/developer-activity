@@ -7250,3 +7250,4 @@
 - [2026-10-07 18:32:27] perf(render): minimize widget rebuild tree overhead
 - [2026-10-07 19:27:28] test(unit): add behavioral test assertions for domain logic
 - [2026-10-07 19:21:02] docs(telemetry): log continuous development activity
+- [2026-10-07 21:38:39] fix(navigation): optimize pushReplacement transition timing

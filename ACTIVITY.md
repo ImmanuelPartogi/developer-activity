@@ -7261,3 +7261,4 @@
 - [2026-10-08 14:30:31] fix(navigation): optimize pushReplacement transition timing
 - [2026-10-08 16:52:05] fix(layout): adjust squircle corner radii and padding
 - [2026-10-08 17:56:16] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-10-08 20:57:39] feat(auth): enhance biometric encryption handshake

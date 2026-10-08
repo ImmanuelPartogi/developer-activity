@@ -7255,3 +7255,4 @@
 - [2026-10-07 21:40:11] refactor(domain): isolate business logic from presentation layer
 - [2026-10-07 21:02:34] feat(cache): implement two-tier memory and persistent cache
 - [2026-10-08 08:07:47] test(integration): verify cross-platform pipeline integrity
+- [2026-10-08 08:28:08] perf(memory): eliminate memory leaks in stream subscriptions

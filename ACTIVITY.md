@@ -7260,3 +7260,4 @@
 - [2026-10-08 14:26:37] test(benchmark): execute flame chart micro-benchmarks
 - [2026-10-08 14:30:31] fix(navigation): optimize pushReplacement transition timing
 - [2026-10-08 16:52:05] fix(layout): adjust squircle corner radii and padding
+- [2026-10-08 17:56:16] fix(nullsafety): resolve edge-case nullable dereference

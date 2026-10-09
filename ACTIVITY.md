@@ -7274,3 +7274,4 @@
 - [2026-10-09 17:32:48] refactor(domain): isolate business logic from presentation layer
 - [2026-10-09 17:30:03] docs(telemetry): log continuous development activity
 - [2026-10-09 17:09:33] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-10-09 20:01:29] perf(memory): eliminate memory leaks in stream subscriptions

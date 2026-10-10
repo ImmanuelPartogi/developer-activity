@@ -7277,3 +7277,4 @@
 - [2026-10-09 20:01:29] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-10-10 09:56:44] perf(render): minimize widget rebuild tree overhead
 - [2026-10-10 09:41:01] refactor(domain): isolate business logic from presentation layer
+- [2026-10-10 12:20:30] feat(sync): add offline outbox synchronization worker

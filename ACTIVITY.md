@@ -7297,3 +7297,4 @@
 - [2026-10-12 13:16:42] feat(telemetry): record daily performance metrics
 - [2026-10-12 13:04:27] fix(layout): adjust squircle corner radii and padding
 - [2026-10-12 14:32:36] perf(db): streamline sqlite indexed query execution
+- [2026-10-12 14:10:03] refactor(clean): decouple service layer contracts

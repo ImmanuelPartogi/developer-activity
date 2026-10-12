@@ -7296,3 +7296,4 @@
 - [2026-10-12 13:31:35] feat(sync): add offline outbox synchronization worker
 - [2026-10-12 13:16:42] feat(telemetry): record daily performance metrics
 - [2026-10-12 13:04:27] fix(layout): adjust squircle corner radii and padding
+- [2026-10-12 14:32:36] perf(db): streamline sqlite indexed query execution

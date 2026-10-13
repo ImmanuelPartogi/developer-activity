@@ -7312,3 +7312,4 @@
 - [2026-10-13 14:54:38] test(benchmark): execute flame chart micro-benchmarks
 - [2026-10-13 17:29:54] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-10-13 18:10:13] feat(sync): add offline outbox synchronization worker
+- [2026-10-13 18:09:21] fix(navigation): optimize pushReplacement transition timing

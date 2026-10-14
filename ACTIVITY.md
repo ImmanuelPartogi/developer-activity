@@ -7324,3 +7324,4 @@
 - [2026-10-14 11:52:20] perf(db): streamline sqlite indexed query execution
 - [2026-10-14 11:33:40] refactor(ui): elevate glassmorphism tokens & dark elevation
 - [2026-10-14 15:09:46] refactor(domain): isolate business logic from presentation layer
+- [2026-10-14 15:24:20] fix(nullsafety): resolve edge-case nullable dereference

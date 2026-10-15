@@ -7330,3 +7330,4 @@
 - [2026-10-14 20:01:40] style(design): polish tactile numpad elevation and haptics
 - [2026-10-14 20:28:38] style(design): polish tactile numpad elevation and haptics
 - [2026-10-15 10:38:12] test(integration): verify cross-platform pipeline integrity
+- [2026-10-15 11:18:29] docs(arch): update repository architectural blueprint

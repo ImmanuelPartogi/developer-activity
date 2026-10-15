@@ -7334,3 +7334,4 @@
 - [2026-10-15 13:10:48] style(design): polish tactile numpad elevation and haptics
 - [2026-10-15 14:07:23] feat(security): enforce bank-grade AES-256 payload encryption
 - [2026-10-15 15:57:25] fix(nullsafety): resolve edge-case nullable dereference
+- [2026-10-15 17:07:00] perf(memory): eliminate memory leaks in stream subscriptions

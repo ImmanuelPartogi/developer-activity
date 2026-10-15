@@ -7336,3 +7336,4 @@
 - [2026-10-15 15:57:25] fix(nullsafety): resolve edge-case nullable dereference
 - [2026-10-15 17:07:00] perf(memory): eliminate memory leaks in stream subscriptions
 - [2026-10-15 17:51:29] test(integration): verify cross-platform pipeline integrity
+- [2026-10-15 17:42:58] perf(memory): eliminate memory leaks in stream subscriptions

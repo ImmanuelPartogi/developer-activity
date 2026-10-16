@@ -7347,3 +7347,4 @@
 - [2026-10-16 11:37:31] feat(auth): enhance biometric encryption handshake
 - [2026-10-16 12:55:42] test(unit): add behavioral test assertions for domain logic
 - [2026-10-16 13:50:07] refactor(domain): isolate business logic from presentation layer
+- [2026-10-16 14:18:09] refactor(clean): decouple service layer contracts

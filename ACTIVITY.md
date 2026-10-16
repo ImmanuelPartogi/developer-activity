@@ -7343,3 +7343,4 @@
 - [2026-10-15 21:58:43] feat(cache): implement two-tier memory and persistent cache
 - [2026-10-16 08:27:40] style(design): polish tactile numpad elevation and haptics
 - [2026-10-16 10:10:30] feat(telemetry): record daily performance metrics
+- [2026-10-16 11:57:10] perf(memory): eliminate memory leaks in stream subscriptions

@@ -7355,3 +7355,4 @@
 - [2026-10-16 18:24:41] feat(analytics): add real-time category distribution parser
 - [2026-10-16 18:19:12] perf(db): streamline sqlite indexed query execution
 - [2026-10-16 20:06:47] refactor(ui): elevate glassmorphism tokens & dark elevation
+- [2026-10-17 08:49:17] fix(nullsafety): resolve edge-case nullable dereference
